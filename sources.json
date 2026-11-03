@@ -7,8 +7,8 @@
       "prefix": "",
       "channels": [
         "mssport.de",
-        "1170",
-        "831",
+        "WELT.de",
+        "N24Doku.de",
         "655",
         "511",
         "2224",
@@ -172,7 +172,7 @@
    ]
     },
     {
-      "name": "Source 6 - PlutuTV",
+      "name": "Source 6 - PlutoTV",
       "url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/de.xml.gz",
       "format": "gz",
       "prefix": "",
