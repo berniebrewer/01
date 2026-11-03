@@ -1,5 +1,1499 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="EPG Merger" generator-info-url="https://github.com/mdbass/iptv-epg"><channel id="ProSieben.be"><icon src="http://dtil.tmsimg.com/assets/s67203_ll_h15_ab.png?w=360&amp;h=270" />
+<tv generator-info-name="EPG Merger" generator-info-url="https://github.com/mdbass/iptv-epg"><channel id="WELT.de"><display-name lang="de">WELT</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel><programme channel="WELT.de" start="20261103032500 +0000" stop="20261103041500 +0000"><title lang="de">Die Feuerinsel – Russlands Alcatraz</title>
+    <date>2018</date>
+    <category lang="de">Reportage</category>
+    <icon src="http://img.tvspielfilm.de/4d/15/ed/546e638de4b03c03eaed154d.jpeg" />
+  </programme><programme channel="WELT.de" start="20261103041500 +0000" stop="20261103050000 +0000"><title lang="de">Russlands Hochsicherheits-Gefängnisse</title>
+    <date>2017</date>
+    <category lang="de">Dokumentation</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103050000 +0000" stop="20261103052000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103052000 +0000" stop="20261103054000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103054000 +0000" stop="20261103060000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103060000 +0000" stop="20261103061000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103061000 +0000" stop="20261103062000 +0000"><title lang="de">WELT Stimme am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103062000 +0000" stop="20261103063000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103063000 +0000" stop="20261103064500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103064500 +0000" stop="20261103070000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103070000 +0000" stop="20261103070500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103070500 +0000" stop="20261103071500 +0000"><title lang="de">WELT Stimme am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103071500 +0000" stop="20261103073000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103073000 +0000" stop="20261103074500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103074500 +0000" stop="20261103080000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103080000 +0000" stop="20261103083000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103083000 +0000" stop="20261103084000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103084000 +0000" stop="20261103084500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103084500 +0000" stop="20261103085000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103085000 +0000" stop="20261103090000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261103090000 +0000" stop="20261103093000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103093000 +0000" stop="20261103094500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103094500 +0000" stop="20261103095000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103095000 +0000" stop="20261103100000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261103100000 +0000" stop="20261103100500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103100500 +0000" stop="20261103102000 +0000"><title lang="de">WELT-LIVE Rede von Innenminister Dobrindt</title>
+    <date>2025</date>
+    <category lang="de">Berichterstattung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261103102000 +0000" stop="20261103102500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103102500 +0000" stop="20261103104500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103104500 +0000" stop="20261103105000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103105000 +0000" stop="20261103110000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261103110000 +0000" stop="20261103111500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103111500 +0000" stop="20261103112000 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103112000 +0000" stop="20261103113000 +0000"><title lang="de">WELT – Meinung am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103113000 +0000" stop="20261103114500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103114500 +0000" stop="20261103120000 +0000"><title lang="de">Börse am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Börsenbericht</category>
+    <icon src="http://img.tvspielfilm.de/2f/e2/1b/5633294cea60e556a31be22f.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103120000 +0000" stop="20261103121500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103121500 +0000" stop="20261103123000 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103123000 +0000" stop="20261103130000 +0000"><title lang="de">WELT-Spezial: Spannung vor Midterms – kann Trump noch gewinnen?</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261103130000 +0000" stop="20261103131500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103131500 +0000" stop="20261103133000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103133000 +0000" stop="20261103140000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103140000 +0000" stop="20261103141500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103141500 +0000" stop="20261103143000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103143000 +0000" stop="20261103145500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103145500 +0000" stop="20261103150000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261103150000 +0000" stop="20261103152500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103152500 +0000" stop="20261103153000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103153000 +0000" stop="20261103155500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103155500 +0000" stop="20261103160000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261103160000 +0000" stop="20261103160500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103160500 +0000" stop="20261103161500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103161500 +0000" stop="20261103164500 +0000"><title lang="de">WELT-Spezial: Spannung vor Midterms – kann Trump noch gewinnen?</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261103164500 +0000" stop="20261103170000 +0000"><title lang="de">Börse am Abend</title>
+    <date>2026</date>
+    <category lang="de">Börsenbericht</category>
+    <icon src="http://img.tvspielfilm.de/2f/e2/1b/5633294cea60e556a31be22f.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103170000 +0000" stop="20261103171500 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103171500 +0000" stop="20261103172000 +0000"><title lang="de">Meine WELT – Meine Meinung zum Tag</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103172000 +0000" stop="20261103173000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103173000 +0000" stop="20261103175500 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103175500 +0000" stop="20261103182000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103182000 +0000" stop="20261103183000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103183000 +0000" stop="20261103190000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103190000 +0000" stop="20261103193000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103193000 +0000" stop="20261103200000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261103200000 +0000" stop="20261103205500 +0000"><title lang="de">Border Patrol USA – Einsatz an Mexikos Grenze: Folge 3</title>
+    <sub-title lang="de">Kinder auf der Flucht</sub-title>
+    <desc lang="de">Infos zur Reihe:\n\nDie Lage an der US-mexikanischen Grenze ist schon seit Jahren angespannt. 28 Brücken verbinden die beiden Länder miteinander, weshalb es vieler Kontrollen bedarf. Besonders in der US-Grenzstadt Del Rio müssen die Frauen und Männer der "Customs and Border Protection“ (CBP) wachsam sein, denn hier sammeln sich viele Migrant:innen, die illegal über eine der Brücken ins Land gekommen sind. Die Beamtinnen werden in dieser Doku-Reihe bei der Sicherung der südlichen Landesgrenze der USA begleitet.</desc>
+    <date>2018</date>
+    <category lang="de">Grenzschützersoap</category>
+    <icon src="http://img.tvspielfilm.de/e8/4f/b0/5cb874448189653e43b04fe8.jpeg" />
+    <country lang="de">USA</country>
+  </programme><programme channel="WELT.de" start="20261103205500 +0000" stop="20261103215000 +0000"><title lang="de">Border Patrol USA – Einsatz an Mexikos Grenze: Folge 4</title>
+    <sub-title lang="de">Koks im Truck</sub-title>
+    <desc lang="de">Infos zur Reihe:\n\nDie Lage an der US-mexikanischen Grenze ist schon seit Jahren angespannt. 28 Brücken verbinden die beiden Länder miteinander, weshalb es vieler Kontrollen bedarf. Besonders in der US-Grenzstadt Del Rio müssen die Frauen und Männer der "Customs and Border Protection“ (CBP) wachsam sein, denn hier sammeln sich viele Migrant:innen, die illegal über eine der Brücken ins Land gekommen sind. Die Beamtinnen werden in dieser Doku-Reihe bei der Sicherung der südlichen Landesgrenze der USA begleitet.</desc>
+    <date>2018</date>
+    <category lang="de">Grenzschützersoap</category>
+    <icon src="http://img.tvspielfilm.de/f9/60/9c/5885dca7f033af4d0f9c60f9.jpeg" />
+    <country lang="de">USA</country>
+  </programme><programme channel="WELT.de" start="20261103215000 +0000" stop="20261103224500 +0000"><title lang="de">Border Patrol USA – Einsatz an Mexikos Grenze: Folge 5</title>
+    <sub-title lang="de">Die Handschrift des Kartells</sub-title>
+    <desc lang="de">Infos zur Reihe:\n\nDie Lage an der US-mexikanischen Grenze ist schon seit Jahren angespannt. 28 Brücken verbinden die beiden Länder miteinander, weshalb es vieler Kontrollen bedarf. Besonders in der US-Grenzstadt Del Rio müssen die Frauen und Männer der "Customs and Border Protection“ (CBP) wachsam sein, denn hier sammeln sich viele Migrant:innen, die illegal über eine der Brücken ins Land gekommen sind. Die Beamtinnen werden in dieser Doku-Reihe bei der Sicherung der südlichen Landesgrenze der USA begleitet.</desc>
+    <date>2018</date>
+    <category lang="de">Grenzschützersoap</category>
+    <icon src="http://img.tvspielfilm.de/e8/4f/b0/5cb874448189653e43b04fe8.jpeg" />
+    <country lang="de">USA</country>
+  </programme><programme channel="WELT.de" start="20261103224500 +0000" stop="20261104000000 +0000"><title lang="de">WELT-LIVE Trumps Schicksalsnacht – Midterms USA</title>
+    <date>2026</date>
+    <category lang="de">Berichterstattung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104000000 +0000" stop="20261104010000 +0000"><title lang="de">WELT-LIVE Trumps Schicksalsnacht – Midterms USA</title>
+    <date>2026</date>
+    <category lang="de">Berichterstattung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104010000 +0000" stop="20261104020000 +0000"><title lang="de">WELT-LIVE Trumps Schicksalsnacht – Midterms USA</title>
+    <date>2026</date>
+    <category lang="de">Berichterstattung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104020000 +0000" stop="20261104030000 +0000"><title lang="de">WELT-LIVE Trumps Schicksalsnacht – Midterms USA</title>
+    <date>2026</date>
+    <category lang="de">Berichterstattung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104030000 +0000" stop="20261104040000 +0000"><title lang="de">WELT-LIVE Trumps Schicksalsnacht – Midterms USA</title>
+    <date>2026</date>
+    <category lang="de">Berichterstattung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104040000 +0000" stop="20261104042000 +0000"><title lang="de">WELT-LIVE Trumps Schicksalsnacht – Midterms USA</title>
+    <date>2026</date>
+    <category lang="de">Berichterstattung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104042000 +0000" stop="20261104050000 +0000"><title lang="de">WELT-LIVE Trumps Schicksalsnacht – Midterms USA</title>
+    <date>2026</date>
+    <category lang="de">Berichterstattung</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104050000 +0000" stop="20261104053000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104053000 +0000" stop="20261104060000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104060000 +0000" stop="20261104061000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104061000 +0000" stop="20261104061500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104061500 +0000" stop="20261104063000 +0000"><title lang="de">WELT Stimme am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104063000 +0000" stop="20261104064000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104064000 +0000" stop="20261104064500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104064500 +0000" stop="20261104070000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104070000 +0000" stop="20261104070500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104070500 +0000" stop="20261104071000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104071000 +0000" stop="20261104073000 +0000"><title lang="de">WELT Stimme am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104073000 +0000" stop="20261104074000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104074000 +0000" stop="20261104074500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104074500 +0000" stop="20261104080000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104080000 +0000" stop="20261104082000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104082000 +0000" stop="20261104083000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104083000 +0000" stop="20261104084000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104084000 +0000" stop="20261104084500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104084500 +0000" stop="20261104085000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104085000 +0000" stop="20261104090000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261104090000 +0000" stop="20261104092000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104092000 +0000" stop="20261104093000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104093000 +0000" stop="20261104094500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104094500 +0000" stop="20261104095000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104095000 +0000" stop="20261104100000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261104100000 +0000" stop="20261104102000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104102000 +0000" stop="20261104103000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104103000 +0000" stop="20261104104500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104104500 +0000" stop="20261104105000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104105000 +0000" stop="20261104110000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261104110000 +0000" stop="20261104111500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104111500 +0000" stop="20261104112000 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104112000 +0000" stop="20261104113000 +0000"><title lang="de">WELT – Meinung am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104113000 +0000" stop="20261104114500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104114500 +0000" stop="20261104120000 +0000"><title lang="de">Börse am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Börsenbericht</category>
+    <icon src="http://img.tvspielfilm.de/2f/e2/1b/5633294cea60e556a31be22f.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104120000 +0000" stop="20261104122000 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104122000 +0000" stop="20261104123000 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104123000 +0000" stop="20261104130000 +0000"><title lang="de">WELT-Spezial</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104130000 +0000" stop="20261104132000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104132000 +0000" stop="20261104133000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104133000 +0000" stop="20261104140000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104140000 +0000" stop="20261104141500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104141500 +0000" stop="20261104142500 +0000"><title lang="de">BUSINESS INSIDER</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104142500 +0000" stop="20261104145500 +0000"><title lang="de">WELT-Spezial</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104145500 +0000" stop="20261104150000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261104150000 +0000" stop="20261104152000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104152000 +0000" stop="20261104153000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104153000 +0000" stop="20261104155500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104155500 +0000" stop="20261104160000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261104160000 +0000" stop="20261104160500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104160500 +0000" stop="20261104161500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104161500 +0000" stop="20261104164500 +0000"><title lang="de">WELT-Spezial</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261104164500 +0000" stop="20261104170000 +0000"><title lang="de">Börse am Abend</title>
+    <date>2026</date>
+    <category lang="de">Börsenbericht</category>
+    <icon src="http://img.tvspielfilm.de/2f/e2/1b/5633294cea60e556a31be22f.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104170000 +0000" stop="20261104171000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104171000 +0000" stop="20261104171500 +0000"><title lang="de">Meine WELT – Meine Meinung zum Tag</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104171500 +0000" stop="20261104173000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104173000 +0000" stop="20261104175500 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104175500 +0000" stop="20261104182000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104182000 +0000" stop="20261104183000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104183000 +0000" stop="20261104190000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104190000 +0000" stop="20261104193000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104193000 +0000" stop="20261104200000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104200000 +0000" stop="20261104203000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104203000 +0000" stop="20261104210000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104210000 +0000" stop="20261104210500 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104210500 +0000" stop="20261104220500 +0000"><title lang="de">Der Nord-Ostsee-Kanal – Nadelöhr für Riesenschiffe</title>
+    <date>2021</date>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261104220500 +0000" stop="20261104225500 +0000"><title lang="de">Marvellous Machines: Kolosse aus Stahl</title>
+    <sub-title lang="de">Kolosse aus Stahl</sub-title>
+    <credits>
+      <director>Timothy Clarkson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="de">Dokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme><programme channel="WELT.de" start="20261104225500 +0000" stop="20261104234500 +0000"><title lang="de">Geniale Maschinen</title>
+    <sub-title lang="de">Zerkleinern, zerschlagen, schreddern</sub-title>
+    <credits>
+      <director>Daniel Oron</director>
+      <producer>Natasha Ryan</producer>
+      <producer>Daniel Oron</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">Kan.</country>
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme><programme channel="WELT.de" start="20261104234500 +0000" stop="20261105004000 +0000"><title lang="de">Geboren für den Highway – Ein Truck entsteht</title>
+    <date>2018</date>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/b6/c5/19/56321618ea60e556a319c5b6.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105004000 +0000" stop="20261105012000 +0000"><title lang="de">Gewichtheber auf Rädern – Mobilkran der Superlative</title>
+    <date>2022</date>
+    <category lang="de">Dokumentation</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105012000 +0000" stop="20261105021000 +0000"><title lang="de">Der XXL-Mähdrescher – Erntefabrik auf Rädern</title>
+    <date>2020</date>
+    <category lang="de">Dokumentation</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105021000 +0000" stop="20261105030000 +0000"><title lang="de">Der Nord-Ostsee-Kanal – Nadelöhr für Riesenschiffe</title>
+    <date>2021</date>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105030000 +0000" stop="20261105033000 +0000"><title lang="de">Marvellous Machines: Kolosse aus Stahl</title>
+    <sub-title lang="de">Kolosse aus Stahl</sub-title>
+    <credits>
+      <director>Timothy Clarkson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="de">Dokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme><programme channel="WELT.de" start="20261105033000 +0000" stop="20261105041500 +0000"><title lang="de">Geniale Maschinen</title>
+    <sub-title lang="de">Zerkleinern, zerschlagen, schreddern</sub-title>
+    <credits>
+      <director>Daniel Oron</director>
+      <producer>Natasha Ryan</producer>
+      <producer>Daniel Oron</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="de">Dokumentationsreihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">Kan.</country>
+    <country lang="de">D</country>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme><programme channel="WELT.de" start="20261105041500 +0000" stop="20261105050000 +0000"><title lang="de">Geboren für den Highway – Ein Truck entsteht</title>
+    <date>2018</date>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/b6/c5/19/56321618ea60e556a319c5b6.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105050000 +0000" stop="20261105051500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105051500 +0000" stop="20261105053500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105053500 +0000" stop="20261105060000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105060000 +0000" stop="20261105060500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105060500 +0000" stop="20261105061000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105061000 +0000" stop="20261105063000 +0000"><title lang="de">WELT Stimme am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105063000 +0000" stop="20261105064000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105064000 +0000" stop="20261105064500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105064500 +0000" stop="20261105070000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105070000 +0000" stop="20261105070500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105070500 +0000" stop="20261105071000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105071000 +0000" stop="20261105073000 +0000"><title lang="de">WELT Stimme am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105073000 +0000" stop="20261105074000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105074000 +0000" stop="20261105074500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105074500 +0000" stop="20261105080000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105080000 +0000" stop="20261105080500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105080500 +0000" stop="20261105083000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105083000 +0000" stop="20261105084000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105084000 +0000" stop="20261105084500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105084500 +0000" stop="20261105085000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105085000 +0000" stop="20261105090000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261105090000 +0000" stop="20261105090500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105090500 +0000" stop="20261105093000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105093000 +0000" stop="20261105094000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105094000 +0000" stop="20261105094500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105094500 +0000" stop="20261105095000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261105095000 +0000" stop="20261105100000 +0000"><title lang="de">KI-WELT</title>
+    <date>2026</date>
+    <category lang="de">KI-Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105100000 +0000" stop="20261105100500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105100500 +0000" stop="20261105103000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105103000 +0000" stop="20261105104000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105104000 +0000" stop="20261105104500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105104500 +0000" stop="20261105110000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261105110000 +0000" stop="20261105110500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105110500 +0000" stop="20261105111000 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105111000 +0000" stop="20261105113000 +0000"><title lang="de">WELT – Meinung am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105113000 +0000" stop="20261105114500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105114500 +0000" stop="20261105120000 +0000"><title lang="de">Börse am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Börsenbericht</category>
+    <icon src="http://img.tvspielfilm.de/2f/e2/1b/5633294cea60e556a31be22f.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105120000 +0000" stop="20261105121500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105121500 +0000" stop="20261105123000 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105123000 +0000" stop="20261105130000 +0000"><title lang="de">WELT-Spezial</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261105130000 +0000" stop="20261105131000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105131000 +0000" stop="20261105133000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105133000 +0000" stop="20261105134000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105134000 +0000" stop="20261105140000 +0000"><title lang="de">KI-WELT</title>
+    <date>2026</date>
+    <category lang="de">KI-Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105140000 +0000" stop="20261105141000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105141000 +0000" stop="20261105142500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105142500 +0000" stop="20261105145500 +0000"><title lang="de">WELT-Spezial</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261105145500 +0000" stop="20261105150000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261105150000 +0000" stop="20261105151000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105151000 +0000" stop="20261105153000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105153000 +0000" stop="20261105155500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105155500 +0000" stop="20261105160000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261105160000 +0000" stop="20261105160500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105160500 +0000" stop="20261105161500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105161500 +0000" stop="20261105164500 +0000"><title lang="de">WELT-Spezial</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261105164500 +0000" stop="20261105170000 +0000"><title lang="de">Börse am Abend</title>
+    <date>2026</date>
+    <category lang="de">Börsenbericht</category>
+    <icon src="http://img.tvspielfilm.de/2f/e2/1b/5633294cea60e556a31be22f.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105170000 +0000" stop="20261105171000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105171000 +0000" stop="20261105171500 +0000"><title lang="de">Meine WELT – Meine Meinung zum Tag</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105171500 +0000" stop="20261105173000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105173000 +0000" stop="20261105175500 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105175500 +0000" stop="20261105180500 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105180500 +0000" stop="20261105183000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105183000 +0000" stop="20261105184500 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105184500 +0000" stop="20261105191000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105191000 +0000" stop="20261105191500 +0000"><title lang="de">Meine WELT – Meine Meinung zum Tag</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261105191500 +0000" stop="20261105201000 +0000"><title lang="de">Mayday – Vor Neufundland</title>
+    <category lang="de">Dokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">Kan.</country>
+  </programme><programme channel="WELT.de" start="20261105201000 +0000" stop="20261105210500 +0000"><title lang="de">Mayday – In der Wüste</title>
+    <category lang="de">Dokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">Kan.</country>
+  </programme><programme channel="WELT.de" start="20261105210500 +0000" stop="20261105220000 +0000"><title lang="de">Lost Places – Folge 133</title>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme><programme channel="WELT.de" start="20261105220000 +0000" stop="20261105225500 +0000"><title lang="de">Lost Places – Folge 134</title>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme><programme channel="WELT.de" start="20261105225500 +0000" stop="20261105234500 +0000"><title lang="de">Lost Places – Folge 99</title>
+    <sub-title lang="de">The Green Line</sub-title>
+    <date>2021</date>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E100</episode-num>
+  </programme><programme channel="WELT.de" start="20261105234500 +0000" stop="20261106003500 +0000"><title lang="de">Lost Places Folge 100</title>
+    <sub-title lang="de">Blitz Spirit</sub-title>
+    <date>2022</date>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E100</episode-num>
+  </programme><programme channel="WELT.de" start="20261106003500 +0000" stop="20261106010500 +0000"><title lang="de">Mayday – Vor Neufundland</title>
+    <category lang="de">Dokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">Kan.</country>
+  </programme><programme channel="WELT.de" start="20261106010500 +0000" stop="20261106015000 +0000"><title lang="de">Mayday – In der Wüste</title>
+    <category lang="de">Dokureihe</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">Kan.</country>
+  </programme><programme channel="WELT.de" start="20261106015000 +0000" stop="20261106024500 +0000"><title lang="de">Lost Places – Folge 133</title>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme><programme channel="WELT.de" start="20261106024500 +0000" stop="20261106033000 +0000"><title lang="de">Lost Places – Folge 134</title>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+  </programme><programme channel="WELT.de" start="20261106033000 +0000" stop="20261106041000 +0000"><title lang="de">Lost Places – Folge 99</title>
+    <sub-title lang="de">The Green Line</sub-title>
+    <date>2021</date>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E100</episode-num>
+  </programme><programme channel="WELT.de" start="20261106041000 +0000" stop="20261106050000 +0000"><title lang="de">Lost Places Folge 100</title>
+    <sub-title lang="de">Blitz Spirit</sub-title>
+    <date>2022</date>
+    <category lang="de">Doku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E100</episode-num>
+  </programme><programme channel="WELT.de" start="20261106050000 +0000" stop="20261106052000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106052000 +0000" stop="20261106053500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106053500 +0000" stop="20261106060000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106060000 +0000" stop="20261106060500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106060500 +0000" stop="20261106061000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106061000 +0000" stop="20261106063000 +0000"><title lang="de">WELT Stimme am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106063000 +0000" stop="20261106064000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106064000 +0000" stop="20261106064500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106064500 +0000" stop="20261106070000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106070000 +0000" stop="20261106070500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106070500 +0000" stop="20261106071000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106071000 +0000" stop="20261106073000 +0000"><title lang="de">WELT Stimme am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106073000 +0000" stop="20261106074000 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106074000 +0000" stop="20261106074500 +0000"><title lang="de">Die Welt am Morgen</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106074500 +0000" stop="20261106080000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106080000 +0000" stop="20261106081500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106081500 +0000" stop="20261106083000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106083000 +0000" stop="20261106084000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106084000 +0000" stop="20261106084500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106084500 +0000" stop="20261106085000 +0000"><title lang="de">Meine WELT – Meine Meinung</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106085000 +0000" stop="20261106090000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261106090000 +0000" stop="20261106091500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106091500 +0000" stop="20261106093000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106093000 +0000" stop="20261106094500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106094500 +0000" stop="20261106095000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106095000 +0000" stop="20261106100000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261106100000 +0000" stop="20261106101500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106101500 +0000" stop="20261106103000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106103000 +0000" stop="20261106104500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106104500 +0000" stop="20261106105000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106105000 +0000" stop="20261106110000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261106110000 +0000" stop="20261106111500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106111500 +0000" stop="20261106112000 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106112000 +0000" stop="20261106113000 +0000"><title lang="de">WELT – Meinung am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106113000 +0000" stop="20261106114500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106114500 +0000" stop="20261106120000 +0000"><title lang="de">Börse am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Börsenbericht</category>
+    <icon src="http://img.tvspielfilm.de/2f/e2/1b/5633294cea60e556a31be22f.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106120000 +0000" stop="20261106121500 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106121500 +0000" stop="20261106123000 +0000"><title lang="de">Die Welt am Mittag</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106123000 +0000" stop="20261106130000 +0000"><title lang="de">WELT-Spezial</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261106130000 +0000" stop="20261106131500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106131500 +0000" stop="20261106133000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106133000 +0000" stop="20261106134500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106134500 +0000" stop="20261106140000 +0000"><title lang="de">ICON TV</title>
+    <date>2025</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106140000 +0000" stop="20261106141500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106141500 +0000" stop="20261106143000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106143000 +0000" stop="20261106145500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106145500 +0000" stop="20261106150000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261106150000 +0000" stop="20261106151500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106151500 +0000" stop="20261106153000 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106153000 +0000" stop="20261106155500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106155500 +0000" stop="20261106160000 +0000"><title lang="de">Börsenflash</title>
+    <date>2026</date>
+    <category lang="de">Finanznachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">CH</country>
+  </programme><programme channel="WELT.de" start="20261106160000 +0000" stop="20261106160500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106160500 +0000" stop="20261106161500 +0000"><title lang="de">WELT Newsroom</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106161500 +0000" stop="20261106164500 +0000"><title lang="de">WELT-Spezial</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+  </programme><programme channel="WELT.de" start="20261106164500 +0000" stop="20261106170000 +0000"><title lang="de">Deffner &amp; Zschäpitz</title>
+    <date>2026</date>
+    <category lang="de">Politmagazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106170000 +0000" stop="20261106171000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106171000 +0000" stop="20261106171500 +0000"><title lang="de">Meine WELT – Meine Meinung zum Tag</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106171500 +0000" stop="20261106173000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106173000 +0000" stop="20261106175500 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106175500 +0000" stop="20261106181000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106181000 +0000" stop="20261106183000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106183000 +0000" stop="20261106184500 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106184500 +0000" stop="20261106191000 +0000"><title lang="de">Die Welt am Abend</title>
+    <date>2026</date>
+    <category lang="de">Nachrichten</category>
+    <icon src="http://img.tvspielfilm.de/10/41/4a/6177d8f58189652ccb4a4110.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106191000 +0000" stop="20261106191500 +0000"><title lang="de">Meine WELT – Meine Meinung zum Tag</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme><programme channel="WELT.de" start="20261106191500 +0000" stop="20261106201000 +0000"><title lang="de">Border Patrol USA – Einsatz an Mexikos Grenze: Folge 19</title>
+    <sub-title lang="de">Gut getarnte Verstecke</sub-title>
+    <desc lang="de">Infos zur Reihe:\n\nDie Lage an der US-mexikanischen Grenze ist schon seit Jahren angespannt. 28 Brücken verbinden die beiden Länder miteinander, weshalb es vieler Kontrollen bedarf. Besonders in der US-Grenzstadt Del Rio müssen die Frauen und Männer der "Customs and Border Protection“ (CBP) wachsam sein, denn hier sammeln sich viele Migrant:innen, die illegal über eine der Brücken ins Land gekommen sind. Die Beamtinnen werden in dieser Doku-Reihe bei der Sicherung der südlichen Landesgrenze der USA begleitet.</desc>
+    <date>2019</date>
+    <category lang="de">Grenzschützersoap</category>
+    <icon src="http://img.tvspielfilm.de/f9/60/9c/5885dca7f033af4d0f9c60f9.jpeg" />
+    <country lang="de">USA</country>
+  </programme><programme channel="WELT.de" start="20261106201000 +0000" stop="20261106210500 +0000"><title lang="de">Border Patrol USA – Einsatz an Mexikos Grenze: Folge 20</title>
+    <sub-title lang="de">Koks, Schweiß und Tränen</sub-title>
+    <desc lang="de">Infos zur Reihe:\n\nDie Lage an der US-mexikanischen Grenze ist schon seit Jahren angespannt. 28 Brücken verbinden die beiden Länder miteinander, weshalb es vieler Kontrollen bedarf. Besonders in der US-Grenzstadt Del Rio müssen die Frauen und Männer der "Customs and Border Protection“ (CBP) wachsam sein, denn hier sammeln sich viele Migrant:innen, die illegal über eine der Brücken ins Land gekommen sind. Die Beamtinnen werden in dieser Doku-Reihe bei der Sicherung der südlichen Landesgrenze der USA begleitet.</desc>
+    <date>2019</date>
+    <category lang="de">Grenzschützersoap</category>
+    <icon src="http://img.tvspielfilm.de/f9/60/9c/5885dca7f033af4d0f9c60f9.jpeg" />
+    <country lang="de">USA</country>
+  </programme><programme channel="WELT.de" start="20261106210500 +0000" stop="20261106220500 +0000"><title lang="de">Border Patrol USA – Einsatz an Mexikos Grenze: Folge 1</title>
+    <sub-title lang="de">Verdächtige Paletten</sub-title>
+    <desc lang="de">Infos zur Reihe:\n\nDie Lage an der US-mexikanischen Grenze ist schon seit Jahren angespannt. 28 Brücken verbinden die beiden Länder miteinander, weshalb es vieler Kontrollen bedarf. Besonders in der US-Grenzstadt Del Rio müssen die Frauen und Männer der "Customs and Border Protection“ (CBP) wachsam sein, denn hier sammeln sich viele Migrant:innen, die illegal über eine der Brücken ins Land gekommen sind. Die Beamtinnen werden in dieser Doku-Reihe bei der Sicherung der südlichen Landesgrenze der USA begleitet.</desc>
+    <date>2018</date>
+    <category lang="de">Grenzschützersoap</category>
+    <icon src="http://img.tvspielfilm.de/b4/04/2c/56421edcea60e556a32c04b4.jpeg" />
+    <country lang="de">USA</country>
+  </programme><programme channel="WELT.de" start="20261106220500 +0000" stop="20261106230500 +0000"><title lang="de">Border Patrol USA – Einsatz an Mexikos Grenze: Folge 2</title>
+    <sub-title lang="de">Marihuana im Tank</sub-title>
+    <desc lang="de">Infos zur Reihe:\n\nDie Lage an der US-mexikanischen Grenze ist schon seit Jahren angespannt. 28 Brücken verbinden die beiden Länder miteinander, weshalb es vieler Kontrollen bedarf. Besonders in der US-Grenzstadt Del Rio müssen die Frauen und Männer der "Customs and Border Protection“ (CBP) wachsam sein, denn hier sammeln sich viele Migrant:innen, die illegal über eine der Brücken ins Land gekommen sind. Die Beamtinnen werden in dieser Doku-Reihe bei der Sicherung der südlichen Landesgrenze der USA begleitet.</desc>
+    <date>2018</date>
+    <category lang="de">Grenzschützersoap</category>
+    <icon src="http://img.tvspielfilm.de/e8/4f/b0/5cb874448189653e43b04fe8.jpeg" />
+    <country lang="de">USA</country>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme><programme channel="WELT.de" start="20261106230500 +0000" stop="20261106235500 +0000"><title lang="de">Abgefahren – Die spektakulärsten Dashcam Clips (3.3)</title>
+    <date>2021</date>
+    <category lang="de">Clipshow</category>
+    <icon src="http://img.tvspielfilm.de/fa/0f/aa/5a2a61daf033af317aaa0ffa.jpeg" />
+    <country lang="de">GB</country>
+  </programme><programme channel="WELT.de" start="20261106235500 +0000" stop="20261107004000 +0000"><title lang="de">Abgefahren – Die spektakulärsten Dashcam Clips (3.4)</title>
+    <date>2022</date>
+    <category lang="de">Clipshow</category>
+    <icon src="http://img.tvspielfilm.de/fa/0f/aa/5a2a61daf033af317aaa0ffa.jpeg" />
+    <country lang="de">GB</country>
+  </programme><channel id="ProSieben.be"><icon src="http://dtil.tmsimg.com/assets/s67203_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s67203_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">ProSieben</display-name>
@@ -33124,27 +34618,7 @@
     </rating>
   </programme><channel id="6866525c8a412a0e95c438b4"><display-name>Dyn Sport Mix</display-name>
     <icon src="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" />
-  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261103152000 +0000" stop="20261103180300 +0000"><title>Basketball: easyCredit BBL</title>
-    <live />
-    <episode-num system="original-air-date">20261103152000 +0000</episode-num>
-    <desc>Übertragungen von aktuellen Partien der deutschen Basketball-Bundesliga.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ffa9889a990edd7bf0e/tile_1755713534760.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ffa9889a990edd7bf0e</series-id>
-    <sub-title>Trier - ALBA BERLIN</sub-title>
-    <category>Series</category>
-    <category>Sports</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261103180300 +0000" stop="20261103184300 +0000"><title>Dyn Highlights All Sports</title>
-    <live />
-    <episode-num system="original-air-date">20261103180300 +0000</episode-num>
-    <desc>Dyn Highlights All Sports.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
-    <sub-title>Handball</sub-title>
-    <category>Series</category>
-    <category>Sports</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261103184300 +0000" stop="20261103211300 +0000"><title>Basketball: easyCredit BBL</title>
+  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261103184300 +0000" stop="20261103211300 +0000"><title>Basketball: easyCredit BBL</title>
     <live />
     <episode-num system="original-air-date">20261103184300 +0000</episode-num>
     <desc>Aus dem BMW Park in München, Bayern, Deutschland.</desc>
@@ -33152,8 +34626,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ffa9889a990edd7bf0e</series-id>
     <sub-title>Bayern München - Basketball Löwen Braunschweig</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261103211300 +0000" stop="20261103221300 +0000"><title>Dyn Highlights All Sports</title>
     <live />
     <episode-num system="original-air-date">20261103211300 +0000</episode-num>
@@ -33162,8 +34636,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
     <sub-title>Handball</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261103221300 +0000" stop="20261104001300 +0000"><title>Hockey 1. Bundesliga Herren</title>
     <live />
     <episode-num system="original-air-date">20261103221300 +0000</episode-num>
@@ -33172,8 +34646,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bcc8</series-id>
     <sub-title>Mannheimer HC - TSV Mannheim</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104001300 +0000" stop="20261104021800 +0000"><title>Volleyball Bundesliga Frauen</title>
     <live />
     <episode-num system="original-air-date">20261104001300 +0000</episode-num>
@@ -33182,8 +34656,8 @@
     <date>19700101</date>
     <series-id system="pluto">68aee704d2b4de67e6c650f9</series-id>
     <sub-title>Dresdner SC - Allianz MTV Stuttgart</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104021800 +0000" stop="20261104031800 +0000"><title>Dyn Highlights All Sports</title>
     <live />
     <episode-num system="original-air-date">20261104021800 +0000</episode-num>
@@ -33192,8 +34666,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
     <sub-title>Handball</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104031800 +0000" stop="20261104060100 +0000"><title>Basketball: easyCredit BBL</title>
     <live />
     <episode-num system="original-air-date">20261104031800 +0000</episode-num>
@@ -33202,8 +34676,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ffa9889a990edd7bf0e</series-id>
     <sub-title>Trier - ALBA BERLIN</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104060100 +0000" stop="20261104070100 +0000"><title>Dyn Highlights All Sports</title>
     <live />
     <episode-num system="original-air-date">20261104060100 +0000</episode-num>
@@ -33212,8 +34686,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
     <sub-title>Handball</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104070100 +0000" stop="20261104090600 +0000"><title>Volleyball Bundesliga Frauen</title>
     <live />
     <episode-num system="original-air-date">20261104070100 +0000</episode-num>
@@ -33222,8 +34696,28 @@
     <date>19700101</date>
     <series-id system="pluto">68aee704d2b4de67e6c650f9</series-id>
     <sub-title>Dresdner SC - Allianz MTV Stuttgart</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104090600 +0000" stop="20261104114900 +0000"><title>Basketball: easyCredit BBL</title>
+    <live />
+    <episode-num system="original-air-date">20261104090600 +0000</episode-num>
+    <desc>Übertragungen von aktuellen Partien der deutschen Basketball-Bundesliga.</desc>
+    <icon src="https://images.pluto.tv/series/68a60ffa9889a990edd7bf0e/tile_1755713534760.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a60ffa9889a990edd7bf0e</series-id>
+    <sub-title>Trier - ALBA BERLIN</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104114900 +0000" stop="20261104124900 +0000"><title>Dyn Highlights All Sports</title>
+    <live />
+    <episode-num system="original-air-date">20261104114900 +0000</episode-num>
+    <desc>Dyn Highlights All Sports.</desc>
+    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
+    <sub-title>Handball</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
   </programme><channel id="NFLNetwork.us12"><display-name>NFL NETWORK HD ◉</display-name>
     <display-name>US - NFL NETWORK HD ◉</display-name>
     <display-name>NFL NETWORK</display-name>
