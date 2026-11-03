@@ -172,7 +172,20 @@
    ]
     },
     {
-      "name": "Source 6 - EPGenius 37",
+      "name": "Source 6 - PlutuTV",
+      "url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/de.xml.gz",
+      "format": "gz",
+      "prefix": "",
+      "channels": [
+        "6866525c8a412a0e95c438b4",
+		"N224Doku(N24DOKU).de2",
+		"D2ynSport(DYNSPORT).de2",
+		"N2FLREPLAYINFOHD.d120",
+        "M2SSport(DEL8DE).de2"
+   ]
+    },
+	{
+      "name": "Source 7 - EPGenius 37",
       "url": "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg37.xml.gz",
       "format": "gz",
       "prefix": "",
@@ -185,7 +198,7 @@
    ]
     },
     {
-      "name": "Source 7 - EPGenius 38",
+      "name": "Source 8 - EPGenius 38",
       "url": "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg38.xml.gz",
       "format": "gz",
       "prefix": "",
