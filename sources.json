@@ -177,7 +177,9 @@
       "prefix": "",
       "channels": [
         "NFLNetwork.us12",
-		"ESPN2.us12",
+		"N24Doku(N24DOKU).de2",
+		"DynSport(DYNSPORT).de2",
+		"NFLREPLAYINFOHD.d120",
         "MSSport(DEL8DE).de2"
    ]
     },
