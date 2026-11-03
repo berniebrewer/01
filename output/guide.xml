@@ -30548,6 +30548,9 @@
   </programme><channel id="C+Action.at (src01)"><display-name>PLAY+: CANAL+ ACTION ᴿᴬᵂ</display-name>
   </channel><channel id="WAIDTV.de (m3u4u)"><display-name>DE: WAIDWERK HD</display-name>
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112100_gray_360w_270h.png" />
+  </channel><channel id="DYNSportMix.de (src09)"><display-name>JOYN: DYN SPORT MIX ᴿᴬᵂ</display-name>
+    <display-name>JOYN: DYN SPORTMIX  ᴿᴬᵂ</display-name>
+    <icon src="https://images.open-epg.com/nologo.png" />
   </channel><channel id="ORFIII.at (m3u4u)"><display-name>AT: ORF III ᴿᴬᵂ</display-name>
     <display-name>ORF III ᴴᴰ ⁵⁰ᶠᵖˢ</display-name>
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84049_dark_360w_270h.png" />
