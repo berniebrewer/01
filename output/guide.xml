@@ -35955,37 +35955,7 @@
     </rating>
   </programme><channel id="6866525c8a412a0e95c438b4"><display-name>Dyn Sport Mix</display-name>
     <icon src="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" />
-  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261104031800 +0000" stop="20261104060100 +0000"><title>Basketball: easyCredit BBL</title>
-    <live />
-    <episode-num system="original-air-date">20261104031800 +0000</episode-num>
-    <desc>Übertragungen von aktuellen Partien der deutschen Basketball-Bundesliga.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ffa9889a990edd7bf0e/tile_1755713534760.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ffa9889a990edd7bf0e</series-id>
-    <sub-title>Trier - ALBA BERLIN</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104060100 +0000" stop="20261104070100 +0000"><title>Dyn Highlights All Sports</title>
-    <live />
-    <episode-num system="original-air-date">20261104060100 +0000</episode-num>
-    <desc>Dyn Highlights All Sports.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
-    <sub-title>Handball</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104070100 +0000" stop="20261104090600 +0000"><title>Volleyball Bundesliga Frauen</title>
-    <live />
-    <episode-num system="original-air-date">20261104070100 +0000</episode-num>
-    <desc>Dresdner SC gegen Allianz MTV Stuttgart heute live in der DEKRA 1. Volleyball Bundesliga Frauen. Die Partie in der VBL findet am Samstag, 10. Oktober 2026, statt. Die Übertragung beginnt um 17:40 Uhr.</desc>
-    <icon src="https://images.pluto.tv/series/68aee704d2b4de67e6c650f9/tile_1756321775737.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68aee704d2b4de67e6c650f9</series-id>
-    <sub-title>Dresdner SC - Allianz MTV Stuttgart</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104090600 +0000" stop="20261104114900 +0000"><title>Basketball: easyCredit BBL</title>
+  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261104090600 +0000" stop="20261104114900 +0000"><title>Basketball: easyCredit BBL</title>
     <live />
     <episode-num system="original-air-date">20261104090600 +0000</episode-num>
     <desc>Übertragungen von aktuellen Partien der deutschen Basketball-Bundesliga.</desc>
@@ -36053,6 +36023,26 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ffb9889a990edd7c0d9</series-id>
     <sub-title>GIESSEN 46ers - Niners Chemnitz</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104232500 +0000" stop="20261105013000 +0000"><title>Volleyball Bundesliga Frauen</title>
+    <live />
+    <episode-num system="original-air-date">20261104232500 +0000</episode-num>
+    <desc>Dresdner SC gegen Allianz MTV Stuttgart heute live in der DEKRA 1. Volleyball Bundesliga Frauen. Die Partie in der VBL findet am Samstag, 10. Oktober 2026, statt. Die Übertragung beginnt um 17:40 Uhr.</desc>
+    <icon src="https://images.pluto.tv/series/68aee704d2b4de67e6c650f9/tile_1756321775737.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68aee704d2b4de67e6c650f9</series-id>
+    <sub-title>Dresdner SC - Allianz MTV Stuttgart</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261105013000 +0000" stop="20261105034200 +0000"><title>Handball Bundesliga</title>
+    <live />
+    <episode-num system="original-air-date">20261105013000 +0000</episode-num>
+    <desc>From ZAG-Arena in Hanover, Lower Saxony, Germany.</desc>
+    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bd5d/tile_1755713588336.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a60ff99889a990edd7bd5d</series-id>
+    <sub-title>TSV Hannover-Burgdorf - SG Flensburg-Handewitt</sub-title>
     <category>Sports</category>
     <category>Series</category>
   </programme><channel id="NFLNetwork.us12"><display-name>NFL NETWORK HD ◉</display-name>
