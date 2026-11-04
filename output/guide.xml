@@ -35955,27 +35955,7 @@
     </rating>
   </programme><channel id="6866525c8a412a0e95c438b4"><display-name>Dyn Sport Mix</display-name>
     <icon src="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" />
-  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261104090600 +0000" stop="20261104114900 +0000"><title>Basketball: easyCredit BBL</title>
-    <live />
-    <episode-num system="original-air-date">20261104090600 +0000</episode-num>
-    <desc>Übertragungen von aktuellen Partien der deutschen Basketball-Bundesliga.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ffa9889a990edd7bf0e/tile_1755713534760.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ffa9889a990edd7bf0e</series-id>
-    <sub-title>Trier - ALBA BERLIN</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104114900 +0000" stop="20261104124900 +0000"><title>Dyn Highlights All Sports</title>
-    <live />
-    <episode-num system="original-air-date">20261104114900 +0000</episode-num>
-    <desc>Dyn Highlights All Sports.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
-    <sub-title>Handball</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261104124900 +0000" stop="20261104152300 +0000"><title>Handball Bundesliga</title>
+  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261104124900 +0000" stop="20261104152300 +0000"><title>Handball Bundesliga</title>
     <live />
     <episode-num system="original-air-date">20261104124900 +0000</episode-num>
     <desc>From PSD Bank Nürnberg ARENA in Nuremberg, Bavaria, Germany.</desc>
@@ -36043,6 +36023,16 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bd5d</series-id>
     <sub-title>TSV Hannover-Burgdorf - SG Flensburg-Handewitt</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261105034200 +0000" stop="20261105054400 +0000"><title>Tischtennis</title>
+    <live />
+    <episode-num system="original-air-date">20261105034200 +0000</episode-num>
+    <desc>Die Tischtennis Konferenz zum Achtelfinale Session 2 beim Leapmotor Grand Opening mit Timo Boll und Dennis Heinemann live bei Dyn.</desc>
+    <icon src="https://images.pluto.tv/series/68a610029889a990edd7ce4a/tile_1755713580712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a610029889a990edd7ce4a</series-id>
+    <sub-title>Konferenz - Leapmotor Grand Opening - Achtelfinale Session 2</sub-title>
     <category>Sports</category>
     <category>Series</category>
   </programme><channel id="NFLNetwork.us12"><display-name>NFL NETWORK HD ◉</display-name>
