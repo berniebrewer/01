@@ -154,6 +154,8 @@
         "111692",
 		"Lilo.TV.ch",
 		"Bergblick.ch",
+		"Just.fishing.ch",
+		"Sky.Nature.ch",
 		"Servus.TV.ch"
       ]
     },
@@ -193,6 +195,7 @@
         "NFLNetwork.us12",
 		"N24Doku(N24DOKU).de2",
 		"DynSport(DYNSPORT).de2",
+		"SkyNatureHD(SKYNADE).de2",		
 		"NFLREPLAYINFOHD.d120",
         "MSSport(DEL8DE).de2"
    ]
@@ -204,7 +207,7 @@
       "prefix": "",
       "channels": [
         "mssport.de",
-		"ESPN12.us12",
+		"skynature.de",
         "MS1Sport(DEL8DE).de2"
       ]
     }
