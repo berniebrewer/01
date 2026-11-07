@@ -235,6 +235,9 @@
       "channels": [
         "C+Action.at (src01)",
 		"WAIDTV.de (m3u4u)",
+		"KURIER.at (m3u4u)",
+		"KRONETV.de (m3u4u)",
+		"TIROL.at (m3u4u)",
 		"ORFIII.at (m3u4u)",
 		"DYNSportMix.de (src09)",
 		"CRSTNOW.de (m3u4u)",
@@ -279,11 +282,19 @@
       "prefix": "",
       "channels": [
         "mssport.de",
-		"streamstertv.at",
-		"streamster.ch",
+		"alleswaszähltclassics.de",
+		"alarmfürcobra11balko.de",
+		"rtlcomedy.de",
+		"rtlhausgarten.de",
 		"curiositynow.de",
+		"streamster.ch",
+		"hundkatzemaus.de",
+		"rtlshine.de",
+		"curiositynow.de",
+		"xxxstreamster.ch",
+		"shoppingqueen.de",
 		"skynature.de",
-        "MS1Sport(DEL8DE).de2"
+        "bauersuchtfrau.de"
       ]
     }
   ]
