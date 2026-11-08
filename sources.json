@@ -227,6 +227,20 @@
 		"Sky.Nature.ch",
 		"Servus.TV.ch"
       ]
+	},
+    {
+     "name": "Source 4a - epgshare Dummy",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
+      "format": "gz",
+      "prefix": "",
+      "channels": [
+        "111692",
+		"Lilo.TV.ch",
+		"Bergblick.ch",
+		"Just.fishing.ch",
+		"Sky.Nature.ch",
+		"Servus.TV.ch"
+      ]
     },
     {
       "name": "Source 5 - EPGenius 32",
