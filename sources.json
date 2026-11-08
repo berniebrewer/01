@@ -234,12 +234,12 @@
       "format": "gz",
       "prefix": "",
       "channels": [
-        "111692",
-		"Lilo.TV.ch",
-		"Bergblick.ch",
-		"Just.fishing.ch",
-		"Sky.Nature.ch",
-		"Servus.TV.ch"
+        "x111692",
+		"xLilo.TV.ch",
+		"xBergblick.ch",
+		"xJust.fishing.ch",
+		"xSky.Nature.ch",
+		"xServus.TV.ch"
       ]
     },
     {
@@ -258,7 +258,7 @@
 		"CRSTNOW.de (m3u4u)",
 		"ORFSPPL.at (m3u4u)",
         "MSSport1(DEL8DE).de2"
-   ]
+		]
     },
     {
       "name": "Source 6 - PlutoTV",
@@ -271,7 +271,7 @@
 		"D2ynSport(DYNSPORT).de2",
 		"N2FLREPLAYINFOHD.d120",
         "M2SSport(DEL8DE).de2"
-   ]
+		]
     },
 	{
       "name": "Source 7 - EPGenius 37",
@@ -288,7 +288,7 @@
 		"SkyNatureHD(SKYNADE).de2",		
 		"NFLREPLAYINFOHD.d120",
         "MSSport(DEL8DE).de2"
-   ]
+		]
     },
     {
       "name": "Source 8 - EPGenius 38",
