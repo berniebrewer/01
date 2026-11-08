@@ -88,7 +88,7 @@
         "1998 - starsportskhel",
         "ts246 - starsportsselect1",
         "ts463 - starsportsselect2"
-      ]
+	]
     },
     {
       "name": "Source 2 - MyOpenEPG",
@@ -187,7 +187,7 @@
 		"RTLHausundGarten.de",
 		"SPIEGELTVKonflikte.de",
         "MOMENTS.de"
-      ]
+  ]
     },
     {
       "name": "Source 3 - epgshare BE",
@@ -241,7 +241,7 @@
 		"xSky.Nature.ch",
 		"xServus.TV.ch"
       ]
-    },
+	},
     {
       "name": "Source 5 - EPGenius 32",
       "url": "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg32.xml.gz",
@@ -258,8 +258,8 @@
 		"CRSTNOW.de (m3u4u)",
 		"ORFSPPL.at (m3u4u)",
         "MSSport1(DEL8DE).de2"
-		]
-    },
+	  ]
+	},
     {
       "name": "Source 6 - PlutoTV",
       "url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/de.xml.gz",
@@ -271,9 +271,9 @@
 		"D2ynSport(DYNSPORT).de2",
 		"N2FLREPLAYINFOHD.d120",
         "M2SSport(DEL8DE).de2"
-		]
-    },
-	{
+	  ]
+	},
+    {
       "name": "Source 7 - EPGenius 37",
       "url": "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg37.xml.gz",
       "format": "gz",
@@ -288,8 +288,8 @@
 		"SkyNatureHD(SKYNADE).de2",		
 		"NFLREPLAYINFOHD.d120",
         "MSSport(DEL8DE).de2"
-		]
-    },
+	  ]
+	},
     {
       "name": "Source 8 - EPGenius 38",
       "url": "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg38.xml.gz",
