@@ -42883,6 +42883,11 @@
       <value>12+</value>
     </rating>
   </programme><channel id="C+Action.at (src01)"><display-name>PLAY+: CANAL+ ACTION ᴿᴬᵂ</display-name>
+  </channel><channel id="ORF3HD.at (m3u4u)"><display-name>PLAY+: ORF III ᴿᴬᵂ</display-name>
+    <display-name>AT: ORF 3 HD</display-name>
+    <display-name>AT: ORF 3 HD (2)</display-name>
+    <display-name>JOYN: ORF III ᴿᴬᵂ</display-name>
+    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99318_gray_360w_270h.png" />
   </channel><channel id="WAIDTV.de (m3u4u)"><display-name>DE: WAIDWERK HD</display-name>
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112100_gray_360w_270h.png" />
   </channel><channel id="CRSTNOW.de (m3u4u)"><display-name>JOYN: CURIOSITY NOW ᴿᴬᵂ</display-name>
@@ -42897,9 +42902,6 @@
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113660_white_360w_270h.png" />
   </channel><channel id="KRONETV.de (m3u4u)"><display-name>AT: KRONE.TV ᴿᴬᵂ</display-name>
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116245_light_360w_270h.png" />
-  </channel><channel id="ORFIII.at (m3u4u)"><display-name>AT: ORF III ᴿᴬᵂ</display-name>
-    <display-name>ORF III ᴴᴰ ⁵⁰ᶠᵖˢ</display-name>
-    <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84049_dark_360w_270h.png" />
   </channel><channel id="ORFSPPL.at (m3u4u)"><display-name>AT: ORF SPORT+ ᴿᴬᵂ</display-name>
     <display-name>ORF SPORT+ ᴴᴰ ⁵⁰ᶠᵖˢ</display-name>
     <icon src="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83942_dark_360w_270h.png" />
@@ -44015,6 +44017,765 @@
     <sub-title lang="de">Geschichte der Jagd und Fischerei</sub-title>
     <desc lang="de">Die Expertenrunde im Studio spricht über die geschichtliche Entwicklung der Jagd und Fischerei.</desc>
     <category lang="de">Nature</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107000000 +0000" stop="20261107004800 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
+    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107000500 +0000" stop="20261107005000 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
+    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107004800 +0000" stop="20261107013500 +0000"><title lang="de">Heimat Österreich</title>
+    <sub-title lang="de">Am Fuß des Hochkar</sub-title>
+    <desc lang="de">Am Hochkar, dem Tor zu den Alpen, prägen Menschen mit Leidenschaft und Tradition das Leben in den Bergen. Wir begleiten Bergretter, Almhalter, Volkstänzer und Jagdhornbläser, die Brauchtum und Natur mit viel Herzblut bewahren. Zwischen Almhütten, Musik und harter Arbeit entsteht ein eindrucksvolles Porträt einer Region, in der Gemeinschaft und Heimatgefühl bis heute gelebt werden.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107005000 +0000" stop="20261107014000 +0000"><title lang="de">Heimat Österreich</title>
+    <sub-title lang="de">Am Fuß des Hochkar</sub-title>
+    <desc lang="de">Am Hochkar, dem Tor zu den Alpen, prägen Menschen mit Leidenschaft und Tradition das Leben in den Bergen. Wir begleiten Bergretter, Almhalter, Volkstänzer und Jagdhornbläser, die Brauchtum und Natur mit viel Herzblut bewahren. Zwischen Almhütten, Musik und harter Arbeit entsteht ein eindrucksvolles Porträt einer Region, in der Gemeinschaft und Heimatgefühl bis heute gelebt werden.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107013500 +0000" stop="20261107022200 +0000"><title lang="de">Landleben</title>
+    <sub-title lang="de">Rund um den Stubenbergsee</sub-title>
+    <desc lang="de">Die Oststeiermark erzählt Geschichten voller Leidenschaft, Handwerk und Abenteuer. Bergbauern und Surfpioniere zeigen, wie lebendig regionale Traditionen bis heute sind. Es entsteht ein buntes Porträt einer einzigartigen Region.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107014000 +0000" stop="20261107022500 +0000"><title lang="de">Landleben</title>
+    <sub-title lang="de">Rund um den Stubenbergsee</sub-title>
+    <desc lang="de">Die Oststeiermark erzählt Geschichten voller Leidenschaft, Handwerk und Abenteuer. Bergbauern und Surfpioniere zeigen, wie lebendig regionale Traditionen bis heute sind. Es entsteht ein buntes Porträt einer einzigartigen Region.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107022200 +0000" stop="20261107030800 +0000"><title lang="de">Landleben</title>
+    <sub-title lang="de">Hoch über dem Gailtal</sub-title>
+    <desc lang="de">Im Gailtal haben Dinge ihre Bedeutung erhalten, die anderswo längst verschüttet sind. Der Anblick des Weißensees lässt einen den Blick für das Wesentliche im Leben behalten. Auf der Egger Alm arbeiten die Menschen teilweise noch wie früher.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107022500 +0000" stop="20261107031500 +0000"><title lang="de">Landleben</title>
+    <sub-title lang="de">Hoch über dem Gailtal</sub-title>
+    <desc lang="de">Im Gailtal haben Dinge ihre Bedeutung erhalten, die anderswo längst verschüttet sind. Der Anblick des Weißensees lässt einen den Blick für das Wesentliche im Leben behalten. Auf der Egger Alm arbeiten die Menschen teilweise noch wie früher.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107030800 +0000" stop="20261107035200 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Central Park - Das Herz Manhattans</sub-title>
+    <desc lang="de">Der Central Park ist der erste künstlich angelegte Park der USA und nach der Katastrophe vom 11. September 2001 erfüllt der Park in New York mehr denn je die Idee des amerikanischen Traums - als Ort der Begegnung zwischen den Menschen.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107031500 +0000" stop="20261107040000 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Central Park - Das Herz Manhattans</sub-title>
+    <desc lang="de">Der Central Park ist der erste künstlich angelegte Park der USA und nach der Katastrophe vom 11. September 2001 erfüllt der Park in New York mehr denn je die Idee des amerikanischen Traums - als Ort der Begegnung zwischen den Menschen.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107035200 +0000" stop="20261107043800 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Big Bend - Amerikas wildeste Grenze</sub-title>
+    <desc lang="de">Der Rio Grande schneidet tiefe Schluchten zwischen die USA und Mexiko. Der spektakuläre Nationalpark Big Bend beherbergt mehr Arten von Vögeln, Schmetterlingen, Fledermäusen, Reptilien und Skorpionen als jeder andere US-Nationalpark.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107040000 +0000" stop="20261107044500 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Big Bend - Amerikas wildeste Grenze</sub-title>
+    <desc lang="de">Der Rio Grande schneidet tiefe Schluchten zwischen die USA und Mexiko. Der spektakuläre Nationalpark Big Bend beherbergt mehr Arten von Vögeln, Schmetterlingen, Fledermäusen, Reptilien und Skorpionen als jeder andere US-Nationalpark.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107043800 +0000" stop="20261107060600 +0000"><title lang="de">Erbe Österreich</title>
+    <sub-title lang="de">Von Wien nach Jerusalem - Theodor Herzl und sein Buch Der Judenstaat</sub-title>
+    <desc lang="de">Die Weltpolitik im Nahen Osten hat mehr mit der Wiener Geschichte zu tun, als vielen bewusst ist. So stammte doch die Vision eines eigenen jüdischen Staates aus der Feder des Wiener Publizisten Theodor Herzl. Sein Buch "Der Judenstaat" schuf die ideellen Voraussetzungen für die spätere Gründung Israels. Zwar blieben Herzls eigene diplomatische Aktivitäten zu Lebzeiten ohne Erfolg, doch sein Werk wurde nach dem Zweiten Weltkrieg und dem Holocaust geschichtswirksam.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107044500 +0000" stop="20261107053000 +0000"><title lang="de">Erbe Österreich</title>
+    <sub-title lang="de">Von Wien nach Jerusalem - Theodor Herzl und sein Buch Der Judenstaat</sub-title>
+    <desc lang="de">Die Weltpolitik im Nahen Osten hat mehr mit der Wiener Geschichte zu tun, als vielen bewusst ist. So stammte doch die Vision eines eigenen jüdischen Staates aus der Feder des Wiener Publizisten Theodor Herzl. Sein Buch "Der Judenstaat" schuf die ideellen Voraussetzungen für die spätere Gründung Israels. Zwar blieben Herzls eigene diplomatische Aktivitäten zu Lebzeiten ohne Erfolg, doch sein Werk wurde nach dem Zweiten Weltkrieg und dem Holocaust geschichtswirksam.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107053000 +0000" stop="20261107060000 +0000"><title lang="de">KulturHeute</title>
+    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
+    <category lang="de">Art</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107060000 +0000" stop="20261107080000 +0000"><title lang="de">WETTER / INFO</title>
+    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
+    <category lang="de">Weather</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107060600 +0000" stop="20261107081000 +0000"><title lang="de">WETTER / INFO</title>
+    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
+    <category lang="de">Weather</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107080000 +0000" stop="20261107085000 +0000"><title lang="de">Landleben</title>
+    <sub-title lang="de">Rund um den Stubenbergsee</sub-title>
+    <desc lang="de">Die Oststeiermark erzählt Geschichten voller Leidenschaft, Handwerk und Abenteuer. Bergbauern und Surfpioniere zeigen, wie lebendig regionale Traditionen bis heute sind. Es entsteht ein buntes Porträt einer einzigartigen Region.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107081000 +0000" stop="20261107085800 +0000"><title lang="de">Landleben</title>
+    <sub-title lang="de">Rund um den Stubenbergsee</sub-title>
+    <desc lang="de">Die Oststeiermark erzählt Geschichten voller Leidenschaft, Handwerk und Abenteuer. Bergbauern und Surfpioniere zeigen, wie lebendig regionale Traditionen bis heute sind. Es entsteht ein buntes Porträt einer einzigartigen Region.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107085000 +0000" stop="20261107094000 +0000"><title lang="de">Heimat Österreich</title>
+    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
+    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107085800 +0000" stop="20261107094600 +0000"><title lang="de">Heimat Österreich</title>
+    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
+    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107094000 +0000" stop="20261107103000 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Rund ums Karwendel</sub-title>
+    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107094600 +0000" stop="20261107103200 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Rund ums Karwendel</sub-title>
+    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107103000 +0000" stop="20261107112000 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Vom oberen Gericht ins Kaunertal</sub-title>
+    <desc lang="de">Die Sendung lädt ein auf eine Reise durch eisige Höhen und traditionsreiche Regionen der Tiroler Bergwelt. Hoch oben, zwischen scharfen Graten und leuchtend weißen Schneefeldern, liegt er, der zweitgrößte Gletscher Österreichs: der Gepatschferner.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107103200 +0000" stop="20261107111900 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Vom oberen Gericht ins Kaunertal</sub-title>
+    <desc lang="de">Die Sendung lädt ein auf eine Reise durch eisige Höhen und traditionsreiche Regionen der Tiroler Bergwelt. Hoch oben, zwischen scharfen Graten und leuchtend weißen Schneefeldern, liegt er, der zweitgrößte Gletscher Österreichs: der Gepatschferner.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107111900 +0000" stop="20261107120600 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Quer durch die Alpen</sub-title>
+    <desc lang="de">Die Sendung zeigt eindrucksvolle Bilder einer der großartigsten Landschaften der Welt: die Alpen. Graubünden ist der größte Kanton der Schweiz; durch beschauliche Dörfer und wilde Bergnatur hebt sich die an Österreich grenzende Region hervor.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107112000 +0000" stop="20261107121000 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Quer durch die Alpen</sub-title>
+    <desc lang="de">Die Sendung zeigt eindrucksvolle Bilder einer der großartigsten Landschaften der Welt: die Alpen. Graubünden ist der größte Kanton der Schweiz; durch beschauliche Dörfer und wilde Bergnatur hebt sich die an Österreich grenzende Region hervor.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107120600 +0000" stop="20261107125800 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Wirbel im Parks</sub-title>
+    <desc lang="de">Elkes Pariser Chef im Architekturbüro hat sie überredet, den Umbau einer schicken Millionärsvilla in St. Tropez zu kontrollieren. In ihrer Abwesenheit ist der Hotelbetrieb Leo überlassen. Und der geht dem gewinkelten Banker Thomas Kramer auf den Leim. Kramer lässt sich von dem einfältigen Leo die Rechte am Schlosshotel abtreten. Nicht einmal André Blandeau, der endlich aus Thailand zurückgekehrt ist, überschaut die Situation.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107121000 +0000" stop="20261107130500 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Wirbel im Parks</sub-title>
+    <desc lang="de">Elkes Pariser Chef im Architekturbüro hat sie überredet, den Umbau einer schicken Millionärsvilla in St. Tropez zu kontrollieren. In ihrer Abwesenheit ist der Hotelbetrieb Leo überlassen. Und der geht dem gewinkelten Banker Thomas Kramer auf den Leim. Kramer lässt sich von dem einfältigen Leo die Rechte am Schlosshotel abtreten. Nicht einmal André Blandeau, der endlich aus Thailand zurückgekehrt ist, überschaut die Situation.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107125800 +0000" stop="20261107135300 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Frank &amp; Eddy</sub-title>
+    <desc lang="de">Bei einer Galavorstellung des Hotels soll der Berliner Star Eddy Castelli Höhepunkt des Abends sein. Eine schicksalhafte Panne macht den Sänger am Tag seines Auftritts allerdings arbeitsunfähig. Da eine Spritze Schlafmittel in seinem Allerwertesten landet, kann das Ereignis nicht wie geplant über die Bühne gehen. Doch Frank, der Veranstaltungsleiter, verfügt über eine große Ähnlichkeit mit dem Entertainer.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107130500 +0000" stop="20261107140000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Frank &amp; Eddy</sub-title>
+    <desc lang="de">Bei einer Galavorstellung des Hotels soll der Berliner Star Eddy Castelli Höhepunkt des Abends sein. Eine schicksalhafte Panne macht den Sänger am Tag seines Auftritts allerdings arbeitsunfähig. Da eine Spritze Schlafmittel in seinem Allerwertesten landet, kann das Ereignis nicht wie geplant über die Bühne gehen. Doch Frank, der Veranstaltungsleiter, verfügt über eine große Ähnlichkeit mit dem Entertainer.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107135300 +0000" stop="20261107144600 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Verzwickte Verhältnisse</sub-title>
+    <desc lang="de">Elke hat beschlossen, sich energischer um das Schlosshotel zu kümmern. Unterstützt wird sie von André und dem Architekten Peter Tauschitz, der die neue Chefin plötzlich gar nicht mehr so unsympathisch findet. Aber allmählich wird klar, dass Elke sich in einer ausweglosen Situation befindet. Der leichtfertige Vertrag, den Leo mit dem skrupellosen Geschäftemacher Thomas Kramer geschlossen hat, sichert der "Bank of Bermudas" praktisch alle Rechte am Schlosshotel.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107140000 +0000" stop="20261107145000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Verzwickte Verhältnisse</sub-title>
+    <desc lang="de">Elke hat beschlossen, sich energischer um das Schlosshotel zu kümmern. Unterstützt wird sie von André und dem Architekten Peter Tauschitz, der die neue Chefin plötzlich gar nicht mehr so unsympathisch findet. Aber allmählich wird klar, dass Elke sich in einer ausweglosen Situation befindet. Der leichtfertige Vertrag, den Leo mit dem skrupellosen Geschäftemacher Thomas Kramer geschlossen hat, sichert der "Bank of Bermudas" praktisch alle Rechte am Schlosshotel.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107144600 +0000" stop="20261107154000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Abenteuer in den Bergen</sub-title>
+    <desc lang="de">Elke sieht keine Möglichkeit, den Vertrag mit Kramer aufzulösen. Zwar bietet André an, sein Loire-Schloss zu verkaufen, damit sie ihre Hotels halten kann - aber ein solches Geschenk will sie nicht annehmen. Nur Leo zeigt weiter Optimismus.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107145000 +0000" stop="20261107154000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Abenteuer in den Bergen</sub-title>
+    <desc lang="de">Elke sieht keine Möglichkeit, den Vertrag mit Kramer aufzulösen. Zwar bietet André an, sein Loire-Schloss zu verkaufen, damit sie ihre Hotels halten kann - aber ein solches Geschenk will sie nicht annehmen. Nur Leo zeigt weiter Optimismus.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107154000 +0000" stop="20261107172400 +0000"><title lang="de">Das Sacher. In bester Gesellschaft</title>
+    <sub-title lang="de">Teil 1</sub-title>
+    <desc lang="de">Anna Sacher ist dreiunddreißig und verwitwet mit drei Kindern. Das berühmte Hotel ihres verstorbenen Mannes soll verkauft werden, denn eine Frau darf den Betrieb nicht alleine weiterführen. Während Anna um ihre Existenz kämpft, verkehren in ihrem Haus zwei jungvermählte Paare, die österreichischen Adeligen von Traunstein und die Aderholds aus Berlin. Ihre Schicksale werden sich bald auf das heftigste überkreuzen. Am Heimweg von der Arbeit im Sacher verschwindet das junge Putzmädel Marie spurlos.</desc>
+    <category lang="de">Historical drama</category>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107172400 +0000" stop="20261107191500 +0000"><title lang="de">Das Sacher. In bester Gesellschaft</title>
+    <sub-title lang="de">Teil 2</sub-title>
+    <desc lang="de">Mit der überraschenden Wiederkehr des Putzmädels Marie nach Jahren der Gefangenschaft gerät die schillernde Welt von Constanze und Hans Georg von Traunstein vollends aus den Fugen. Was hat Maries Schicksal mit der Familie von Traunstein zu tun? Constanzes Fehltritt mit Maximilian Aderhold bringt Marthas Aderholds Ehe an den Rand des Scheiterns. Anna Sacher wird indes zur legendären Patronin des Sacher. Doch nach der Ermordung der Kaiserin Sisi stehen die Zeichen der Zeit auf Veränderung.</desc>
+    <category lang="de">Historical drama</category>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107172500 +0000" stop="20261107191500 +0000"><title lang="de">Das Sacher. In bester Gesellschaft</title>
+    <sub-title lang="de">Teil 2</sub-title>
+    <desc lang="de">Mit der überraschenden Wiederkehr des Putzmädels Marie nach Jahren der Gefangenschaft gerät die schillernde Welt von Constanze und Hans Georg von Traunstein vollends aus den Fugen. Was hat Maries Schicksal mit der Familie von Traunstein zu tun? Constanzes Fehltritt mit Maximilian Aderhold bringt Marthas Aderholds Ehe an den Rand des Scheiterns. Anna Sacher wird indes zur legendären Patronin des Sacher. Doch nach der Ermordung der Kaiserin Sisi stehen die Zeichen der Zeit auf Veränderung.</desc>
+    <category lang="de">Historical drama</category>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating>
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107191500 +0000" stop="20261107201100 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Große Momente - Als Österreich die Welt bewegte</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107200500 +0000" stop="20261107205500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Ungarische Revolution 1956 - Neue Heimat Österreich</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107201100 +0000" stop="20261107210300 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Ungarische Revolution 1956 - Neue Heimat Österreich</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107205500 +0000" stop="20261107214500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Baumeisterinnen der Republik - Benita Ferrero-Waldner</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107210300 +0000" stop="20261107215400 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Baumeisterinnen der Republik - Benita Ferrero-Waldner</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107214500 +0000" stop="20261107223500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Wie's wirklich war - Die Berichterstatter:innen der Republik</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107215400 +0000" stop="20261107224700 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Wie's wirklich war - Die Berichterstatter:innen der Republik</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107223500 +0000" stop="20261107231500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Erlebt, erzählt - Paul Lendvai</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107224700 +0000" stop="20261107232200 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Erlebt, erzählt - Paul Lendvai</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107231500 +0000" stop="20261108001500 +0000"><title lang="de">Kabarett im Turm</title>
+    <sub-title lang="de">Isabell Pannagl - Neues aus dem Dachgeschoss</sub-title>
+    <desc lang="de">Sie ist einer der Shootingstars des österreichischen Kabaretts: Isabell Pannagl. In ihrem aktuellen Kabarettprogramm beweist sie einmal mehr ihr erfrischend freches Mundwerk und ihre pointierten Beobachtungen der Gesellschaft.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261107232200 +0000" stop="20261108002100 +0000"><title lang="de">Kabarett im Turm</title>
+    <sub-title lang="de">Isabell Pannagl - Neues aus dem Dachgeschoss</sub-title>
+    <desc lang="de">Sie ist einer der Shootingstars des österreichischen Kabaretts: Isabell Pannagl. In ihrem aktuellen Kabarettprogramm beweist sie einmal mehr ihr erfrischend freches Mundwerk und ihre pointierten Beobachtungen der Gesellschaft.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108001500 +0000" stop="20261108010000 +0000"><title lang="de">Wiener Liedkunst</title>
+    <sub-title lang="de">Roland Neuwirth &amp; radio.string.quartet</sub-title>
+    <desc lang="de">In dieser musikalischen Sendung werden großartige Interpreten des Wiener Lieds präsentiert.</desc>
+    <category lang="de">Music</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108002100 +0000" stop="20261108010400 +0000"><title lang="de">Wiener Liedkunst</title>
+    <sub-title lang="de">Roland Neuwirth &amp; radio.string.quartet</sub-title>
+    <desc lang="de">In dieser musikalischen Sendung werden großartige Interpreten des Wiener Lieds präsentiert.</desc>
+    <category lang="de">Music</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108010000 +0000" stop="20261108014500 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
+    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108010400 +0000" stop="20261108015200 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
+    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108014500 +0000" stop="20261108023500 +0000"><title lang="de">kult.reloaded</title>
+    <sub-title lang="de">Die kranken Schwestern (2/36)</sub-title>
+    <desc lang="de">In der Sendung werden Archivschätze aus dem ORF-Programm vergangener Jahrzehnte gezeigt.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108015200 +0000" stop="20261108024400 +0000"><title lang="de">kult.reloaded</title>
+    <sub-title lang="de">Die kranken Schwestern (2/36)</sub-title>
+    <desc lang="de">In der Sendung werden Archivschätze aus dem ORF-Programm vergangener Jahrzehnte gezeigt.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108023500 +0000" stop="20261108032500 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Rund ums Karwendel</sub-title>
+    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108024400 +0000" stop="20261108032700 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Rund ums Karwendel</sub-title>
+    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108032500 +0000" stop="20261108041500 +0000"><title lang="de">Heimat Österreich</title>
+    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
+    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108032700 +0000" stop="20261108041600 +0000"><title lang="de">Heimat Österreich</title>
+    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
+    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108041500 +0000" stop="20261108053000 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
+    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108041600 +0000" stop="20261108050300 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
+    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108050300 +0000" stop="20261108053000 +0000"><title lang="de">Erlebnis Österreich</title>
+    <sub-title lang="de">Ein Leben mit Alpakas</sub-title>
+    <desc lang="de">Auf einem Hof am Seefelder Plateau züchten Nadin und Florian Haslwanter-Egger Alpakas. Zunächst sollte es nur ein Ausgleich zum stressigen Arbeitsalltag werden. Nun haben sie rund 35 Alpakas und es werden Wanderungen angeboten.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108053000 +0000" stop="20261108060600 +0000"><title lang="de">KulturHeute</title>
+    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
+    <category lang="de">Art</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108060000 +0000" stop="20261108071500 +0000"><title lang="de">WETTER / INFO</title>
+    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
+    <category lang="de">Weather</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108060600 +0000" stop="20261108072200 +0000"><title lang="de">WETTER / INFO</title>
+    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
+    <category lang="de">Weather</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108071500 +0000" stop="20261108080500 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Rund ums Karwendel</sub-title>
+    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108072200 +0000" stop="20261108080800 +0000"><title lang="de">Erlebnis Bühne Matinee</title>
+    <sub-title lang="de">In memoriam Herbert Blomstedt: Brahms' Violinkonzert mit Leonidas Kavakos</sub-title>
+    <desc lang="de">Die Sendung berichtet über bekannte österreichische Künstler aus dem Musikbereich.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108080500 +0000" stop="20261108082500 +0000"><title lang="de">Erlebnis Bühne</title>
+    <sub-title lang="de">30 Jahre L'Orfeo Barockorchester</sub-title>
+    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108080800 +0000" stop="20261108082800 +0000"><title lang="de">Erlebnis Bühne</title>
+    <sub-title lang="de">30 Jahre L'Orfeo Barockorchester</sub-title>
+    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108082500 +0000" stop="20261108090000 +0000"><title>Säg amol - Vorarlberg im Interview</title>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108082800 +0000" stop="20261108090000 +0000"><title>Säg amol - Vorarlberg im Interview</title>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108090000 +0000" stop="20261108100300 +0000"><title lang="de">ORF III Live</title>
+    <sub-title lang="de">Katholischer Gottesdienst aus Mattersburg im Burgenland</sub-title>
+    <desc lang="de">In dieser Sendung werden verschiedene Live-Events aus verschiedenen Bereichen übertragen.</desc>
+    <category lang="de">Music</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108100300 +0000" stop="20261108103700 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Erlebt, erzählt - Paul Lendvai</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108100500 +0000" stop="20261108104500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Erlebt, erzählt - Paul Lendvai</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108103700 +0000" stop="20261108112600 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Österreich erzählt - Zeitzeuginnen und Zeitzeugen berichten</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108104500 +0000" stop="20261108113500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Österreich erzählt - Zeitzeuginnen und Zeitzeugen berichten</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108112600 +0000" stop="20261108121400 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Meine jüdische Familie</sub-title>
+    <desc lang="de">Die Sendung zeigt, was die österreichische Geschichte für einzelne Familien bedeuten kann. Jahrzehntelang ist in ihrer Familie geschwiegen worden. Es war ein Tabu, sich an die einschneidenden Jahre zwischen 1938 und 1945 zu erinnern.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108113500 +0000" stop="20261108122500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Meine jüdische Familie</sub-title>
+    <desc lang="de">Die Sendung zeigt, was die österreichische Geschichte für einzelne Familien bedeuten kann. Jahrzehntelang ist in ihrer Familie geschwiegen worden. Es war ein Tabu, sich an die einschneidenden Jahre zwischen 1938 und 1945 zu erinnern.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108121400 +0000" stop="20261108124900 +0000"><title lang="de">Landleben</title>
+    <sub-title lang="de">Auf der Gerlitzen</sub-title>
+    <desc lang="de">Hoch über dem Ossiachersee liegt auf rund zweitausend Meter Seehöhe die Gerlitzen Alpe. Ein erhabener Blick über das Südkärntner Panorama eröffnet sich dort. Die Sendung begleitet mehrere Gerlitzen Originale wie etwa den Bauern Johann Maier.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108122500 +0000" stop="20261108125500 +0000"><title lang="de">Landleben</title>
+    <sub-title lang="de">Auf der Gerlitzen</sub-title>
+    <desc lang="de">Hoch über dem Ossiachersee liegt auf rund zweitausend Meter Seehöhe die Gerlitzen Alpe. Ein erhabener Blick über das Südkärntner Panorama eröffnet sich dort. Die Sendung begleitet mehrere Gerlitzen Originale wie etwa den Bauern Johann Maier.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108124900 +0000" stop="20261108142700 +0000"><title lang="de">Meine Tochter nicht</title>
+    <desc lang="de">Der Absturz erfolgt derart rasant, dass er wie ein böser Traum wirkt. Gerade noch war die 16-jährige Nadja ein unbeschwertes, fröhliches junges Mädchen, kurz darauf folgt der Horror: Der ältere Junge, in den sie sich verliebt, ist ein Junkie, der auch Nadja ins Elend zieht. Ihre wohlhabenden Eltern lernen auf äußerst schmerzliche Weise eine Welt kennen, die sie bislang bloß vom Hörensagen kannten: Ihre Suche nach der Tochter wird buchstäblich zur Reise in die Unterwelt.</desc>
+    <category lang="de">Drama</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108125500 +0000" stop="20261108143000 +0000"><title lang="de">Meine Tochter nicht</title>
+    <desc lang="de">Der Absturz erfolgt derart rasant, dass er wie ein böser Traum wirkt. Gerade noch war die 16-jährige Nadja ein unbeschwertes, fröhliches junges Mädchen, kurz darauf folgt der Horror: Der ältere Junge, in den sie sich verliebt, ist ein Junkie, der auch Nadja ins Elend zieht. Ihre wohlhabenden Eltern lernen auf äußerst schmerzliche Weise eine Welt kennen, die sie bislang bloß vom Hörensagen kannten: Ihre Suche nach der Tochter wird buchstäblich zur Reise in die Unterwelt.</desc>
+    <category lang="de">Drama</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108142700 +0000" stop="20261108160200 +0000"><title lang="de">Gefangen - Der Fall K</title>
+    <desc lang="de">Lange waren die Vermögensberaterin Elke und der Automechaniker Wastl glücklich miteinander liiert - bis Elke sich mehr und mehr auf dubiose Finanztransaktionen einlässt, die ihr Erfolg auf der ganzen Linie bringen. Als ihr Mann diesen windigen Geschäften Einhalt gebieten will, trennt sie sich von ihm. Und sie geht noch weiter - der Vorwurf, ihr Mann habe sie geschlagen, bringt Wastl für lange Zeit in eine psychiatrische Klinik.</desc>
+    <category lang="de">Drama</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108143000 +0000" stop="20261108160500 +0000"><title lang="de">Gefangen - Der Fall K</title>
+    <desc lang="de">Lange waren die Vermögensberaterin Elke und der Automechaniker Wastl glücklich miteinander liiert - bis Elke sich mehr und mehr auf dubiose Finanztransaktionen einlässt, die ihr Erfolg auf der ganzen Linie bringen. Als ihr Mann diesen windigen Geschäften Einhalt gebieten will, trennt sie sich von ihm. Und sie geht noch weiter - der Vorwurf, ihr Mann habe sie geschlagen, bringt Wastl für lange Zeit in eine psychiatrische Klinik.</desc>
+    <category lang="de">Drama</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108160200 +0000" stop="20261108173900 +0000"><title lang="de">Inspektor Jury</title>
+    <sub-title lang="de">Der Tote im Pub</sub-title>
+    <desc lang="de">Der idyllische Ort Long Piddleton im Südwesten Englands wird von einem bizarren Mord erschüttert. Scotland Yard schickt seinen besten Mann, Inspektor Richard Jury, begleitet von seinem stets erkälteten Assistenten Sergeant Wiggins. Kaum sind die beiden angekommen, geschieht ein zweiter Mord. Alles deutet darauf hin, dass die Opfer jemanden erpresst haben. Nur eine kleine Zahl der Bewohner kommt als Täter infrage. Gemeinsam mit dem Einwohner Melrose Plant soll der Fall gelöst werden.</desc>
+    <category lang="de">Thriller</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108160500 +0000" stop="20261108174000 +0000"><title lang="de">Inspektor Jury</title>
+    <sub-title lang="de">Der Tote im Pub</sub-title>
+    <desc lang="de">Der idyllische Ort Long Piddleton im Südwesten Englands wird von einem bizarren Mord erschüttert. Scotland Yard schickt seinen besten Mann, Inspektor Richard Jury, begleitet von seinem stets erkälteten Assistenten Sergeant Wiggins. Kaum sind die beiden angekommen, geschieht ein zweiter Mord. Alles deutet darauf hin, dass die Opfer jemanden erpresst haben. Nur eine kleine Zahl der Bewohner kommt als Täter infrage. Gemeinsam mit dem Einwohner Melrose Plant soll der Fall gelöst werden.</desc>
+    <category lang="de">Thriller</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108173900 +0000" stop="20261108191600 +0000"><title lang="de">Inspektor Jury</title>
+    <sub-title lang="de">Mord im Nebel</sub-title>
+    <desc lang="de">Im ländlichen Dorset sind ein Metzgerssohn und ein Chorknabe ermordet worden. Inspektor Jury sieht einen Zusammenhang zwischen den Morden und einem früheren grausamen Verbrechen. Ermordet wurde damals eine Mutter im Beisein ihrer Tochter, der fünfjährigen Tess, die ein Trauma erlitt und seitdem kein Wort mehr sprach. Sam Waterhouse, der Geliebte der Mutter, wurde als Mörder zu 20 Jahren Haft verurteilt und ist nun wieder auf freiem Fuß.</desc>
+    <category lang="de">Thriller</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108174000 +0000" stop="20261108191500 +0000"><title lang="de">Inspektor Jury</title>
+    <sub-title lang="de">Mord im Nebel</sub-title>
+    <desc lang="de">Im ländlichen Dorset sind ein Metzgerssohn und ein Chorknabe ermordet worden. Inspektor Jury sieht einen Zusammenhang zwischen den Morden und einem früheren grausamen Verbrechen. Ermordet wurde damals eine Mutter im Beisein ihrer Tochter, der fünfjährigen Tess, die ein Trauma erlitt und seitdem kein Wort mehr sprach. Sam Waterhouse, der Geliebte der Mutter, wurde als Mörder zu 20 Jahren Haft verurteilt und ist nun wieder auf freiem Fuß.</desc>
+    <category lang="de">Thriller</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108191500 +0000" stop="20261108201500 +0000"><title lang="de">Erlebnis Bühne</title>
+    <sub-title lang="de">80 Jahre Tonkünstler-Orchester Niederösterreich</sub-title>
+    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108191600 +0000" stop="20261108201600 +0000"><title lang="de">Erlebnis Bühne</title>
+    <sub-title lang="de">80 Jahre Tonkünstler-Orchester Niederösterreich</sub-title>
+    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108201500 +0000" stop="20261108213000 +0000"><title lang="de">Erlebnis Bühne</title>
+    <sub-title lang="de">Die Tonkünstler zu Gast am Domplatz St. Pölten</sub-title>
+    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108201600 +0000" stop="20261108213700 +0000"><title lang="de">Erlebnis Bühne</title>
+    <sub-title lang="de">Die Tonkünstler zu Gast am Domplatz St. Pölten</sub-title>
+    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108213000 +0000" stop="20261108230500 +0000"><title lang="de">Elser - Er hätte die Welt verändert</title>
+    <desc lang="de">Am 8. November 1939, als Hitler bereits Millionen von Menschen auf seine Seite ziehen konnte, sträubt sich der Widerstandskämpfer Georg Elser und möchte die Welt verändern. Um Hitler zu stoppen und den schrecklichen Terror des NS-Regimes zu beenden, plant er ein Attentat. Eine Bombe im Münchner Bürgerbräukeller soll Adolf Hitler töten. Was Elser nicht einplanen konnte, ist, dass Hitler das Gebäude bereits eher verlässt. Daraufhin muss Elser fliehen und versuchen, sein Leben zu retten.</desc>
+    <category lang="de">Historical drama</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108213700 +0000" stop="20261108231200 +0000"><title lang="de">Elser - Er hätte die Welt verändert</title>
+    <desc lang="de">Am 8. November 1939, als Hitler bereits Millionen von Menschen auf seine Seite ziehen konnte, sträubt sich der Widerstandskämpfer Georg Elser und möchte die Welt verändern. Um Hitler zu stoppen und den schrecklichen Terror des NS-Regimes zu beenden, plant er ein Attentat. Eine Bombe im Münchner Bürgerbräukeller soll Adolf Hitler töten. Was Elser nicht einplanen konnte, ist, dass Hitler das Gebäude bereits eher verlässt. Daraufhin muss Elser fliehen und versuchen, sein Leben zu retten.</desc>
+    <category lang="de">Historical drama</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108230500 +0000" stop="20261108235500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Große Momente - Als Österreich die Welt bewegte</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108231200 +0000" stop="20261109000100 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Große Momente - Als Österreich die Welt bewegte</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261108235500 +0000" stop="20261109004500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Ungarische Revolution 1956 - Neue Heimat Österreich</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109000100 +0000" stop="20261109004800 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Ungarische Revolution 1956 - Neue Heimat Österreich</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109004800 +0000" stop="20261109013500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Baumeisterinnen der Republik - Benita Ferrero-Waldner</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109013500 +0000" stop="20261109022500 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Wie's wirklich war - Die Berichterstatter:innen der Republik</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109022500 +0000" stop="20261109031200 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Österreich erzählt - Zeitzeuginnen und Zeitzeugen berichten</sub-title>
+    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109031200 +0000" stop="20261109035900 +0000"><title lang="de">zeit.geschichte</title>
+    <sub-title lang="de">Meine jüdische Familie</sub-title>
+    <desc lang="de">Die Sendung zeigt, was die österreichische Geschichte für einzelne Familien bedeuten kann. Jahrzehntelang ist in ihrer Familie geschwiegen worden. Es war ein Tabu, sich an die einschneidenden Jahre zwischen 1938 und 1945 zu erinnern.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109035900 +0000" stop="20261109044400 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Quer durch die Alpen</sub-title>
+    <desc lang="de">Die Sendung zeigt eindrucksvolle Bilder einer der großartigsten Landschaften der Welt: die Alpen. Graubünden ist der größte Kanton der Schweiz; durch beschauliche Dörfer und wilde Bergnatur hebt sich die an Österreich grenzende Region hervor.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109044400 +0000" stop="20261109053000 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
+    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109053000 +0000" stop="20261109060000 +0000"><title lang="de">KulturHeute</title>
+    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
+    <category lang="de">Art</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109060000 +0000" stop="20261109072500 +0000"><title lang="de">WETTER / INFO</title>
+    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
+    <category lang="de">Weather</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109072500 +0000" stop="20261109075500 +0000"><title lang="de">Dobar dan Hrvati</title>
+    <desc lang="de">Dieses Magazin präsentiert Neuigkeiten der kroatischen Volksgruppe im Burgenland auf Kroatisch.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109075500 +0000" stop="20261109083000 +0000"><title lang="de">Dober dan Koroska</title>
+    <desc lang="de">Dieses Wochenmagazin berichtet über aktuelle und relevante Themen für die Kärntner Slowenen.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109083000 +0000" stop="20261109120500 +0000"><title lang="de">ORF III aktuell</title>
+    <desc lang="de">Diese Sendung präsentiert Beiträge und Reden zu aktuellen Themen in Österreich und Europa.</desc>
+    <category lang="de">Talk</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109120500 +0000" stop="20261109131500 +0000"><title lang="de">DialogForum</title>
+    <sub-title lang="de">Africa Now!</sub-title>
+    <desc lang="de">In dieser Sendung werden öffentliche Fragen zur Medienqualität bei Podiumsdiskussionen debattiert. Dabei nehmen Vertreter der Wissenschaft, der Zivilgesellschaft sowie der Medien teil und auch das Publikum bringt seine Kritik ein.</desc>
+    <category lang="de">Politics</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109131500 +0000" stop="20261109141000 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Von der Steppe in die Alpen - Vögel in Österreich</sub-title>
+    <desc lang="de">Die Sendung zeigt die Graugänse im Burgenland, die im Februar mit dem Brutgeschäft beginnen. Bald kehren auch Kiebitze in den Seewinkel zurück. Erst wenn der Schnee in den Bergen Kärntens geschmolzen ist, beginnt die Balz der Alpenvögel.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109141000 +0000" stop="20261109150000 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Turmfalken - Jäger der Großstadt</sub-title>
+    <desc lang="de">Turmfalken sind die erfolgreichsten Greifvögel Europas und wohnen in Au-Gebieten und alpinen Regionen. Begleitet werden zwei Brutpaare: eines in einer gut geschützten Mauernische, eines am Fensterbrett desselben Innenstadthauses.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109150000 +0000" stop="20261109151000 +0000"><title lang="de">ORF III Aktuell am Nachmittag</title>
+    <desc lang="de">Im Fokus stehen Nachrichten und Analysen zu aktuellen Themen aus Österreich und der Welt.</desc>
+    <category lang="de">News</category>
+    <episode-num system="onscreen">S2026E46</episode-num>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109151000 +0000" stop="20261109160000 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Rund ums Karwendel</sub-title>
+    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109160000 +0000" stop="20261109165000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Zwei Männer um Elke</sub-title>
+    <desc lang="de">Zwei Verehrer buhlen um die Gunst der attraktiven Hotelbesitzerin Elke. Der galante Franzose André scheint die besseren Karten zu haben. Denn Elke hat herausgefunden, dass der Architekt Peter bei den Umbauplänen des Schlosshotels ein falsches Spiel spielt. Im Hotel kommt es derweil zu einem ungewöhnlichen Zwischenfall. Eine Limousine fährt vor, deren Chauffeur ein Baby im Hotel abliefert. Der Fahrer erklärt, der Hausdiener Jossip sei der Vater.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109165000 +0000" stop="20261109174500 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Falsches Spiel mit Patrick</sub-title>
+    <desc lang="de">Die Hotelbesitzerin Elke entzieht sich dem Buhlen ihrer beiden Verehrer André und Peter, indem sie kurzerhand auf Geschäftsreise geht. Krista will derweil groß ins Showgeschäft einsteigen. Sie steckt viel Geld in die Organisation einer Konzert-Tournee des amerikanischen Popstars Patrick Riley. Doch dies erweist sich als riskante Investition. Denn seit der schmerzlichen Trennung von seiner Frau hat der exzentrische Musiker auch nicht mehr die rechte Lust zum Singen.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109174500 +0000" stop="20261109181800 +0000"><title lang="de">MERYN am Montag</title>
+    <desc lang="de">Gemeinsam mit einem Experten zum aktuellen Thema beantwortet Prof. Meryn Publikumsfragen. Volkskrankheiten wie Diabetes oder Rheuma werden ebenso behandelt, wie saisonale Krankheiten oder neueste Forschungsansätze in der Krebsmedizin.</desc>
+    <category lang="de">Health</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109181800 +0000" stop="20261109182500 +0000"><title lang="de">ORF III Aktuell am Abend</title>
+    <desc lang="de">Im Fokus stehen Nachrichten und Analysen zu aktuellen Themen aus Österreich und der Welt.</desc>
+    <category lang="de">News</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109182500 +0000" stop="20261109184000 +0000"><title lang="de">Nachrichten in einfacher Sprache</title>
+    <desc lang="de">Tagesaktuelle Meldungen werden leicht verständlich und auf mehr Zeilen aufgeteilt angeboten. Die Nachrichten sind dabei in kurzen Sätzen verfasst. Auf schwierige Wörter wird nach Möglichkeit verzichtet oder diese werden in einer Ergänzung erklärt.</desc>
+    <category lang="de">News</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109184000 +0000" stop="20261109191500 +0000"><title lang="de">KulturHeute</title>
+    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
+    <category lang="de">Art</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109191500 +0000" stop="20261109200500 +0000"><title>Der Miet-Check</title>
+    <category>Special</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109200500 +0000" stop="20261109210000 +0000"><title lang="de">Am Schauplatz</title>
+    <sub-title lang="de">Die teuerste Stadt Österreichs</sub-title>
+    <desc lang="de">Innsbruck ist nicht nur ein teures, sondern auch ein gefragtes Pflaster. Die große Nachfrage und das begrenzte Angebot an Mietwohnungen lassen die Mieten steigen, zum Leid der Mieter und Freude der Anleger. Beate Haselmayer besucht in Innsbruck heruntergekommene Mini-Wohnungen, luxuriöse Eigentumsdomizile und rentable Anlageobjekte. Sie zeigt, wer von den horrenden Mietpreisen profitiert und konfrontiert Politiker mit der Preisexplosion am Mietmarkt.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109210000 +0000" stop="20261109215500 +0000"><title lang="de">ORFIII Themenmontag</title>
+    <desc lang="de">Gezeigt werden Geschichten aus den Bereichen Chronik, Gesellschaftspolitik, Soziales und Kurioses.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109215500 +0000" stop="20261109224500 +0000"><title>Therapiegeschichten</title>
+    <sub-title>Wenn Worte verändern (2/8)</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109224500 +0000" stop="20261109233000 +0000"><title lang="de">Therapiegeschichten</title>
+    <sub-title lang="de">Wenn Worte verändern (1/8)</sub-title>
+    <desc lang="de">Tamara möchte weniger streng mit sich sein und ihre Grenzen kennenlernen. Daniel will lernen, öfter Nein zu sagen. Miriam und Thomas sprechen über Nähe, Eifersucht und persönliche Grenzen in ihrer Paarbeziehung, was ihre starke Verbundenheit zeigt.</desc>
+    <category lang="de">Health</category>
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261109233000 +0000" stop="20261110001500 +0000"><title>Der Miet-Check</title>
+    <category>Special</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110001500 +0000" stop="20261110011000 +0000"><title lang="de">Am Schauplatz</title>
+    <sub-title lang="de">Die teuerste Stadt Österreichs</sub-title>
+    <desc lang="de">Innsbruck ist nicht nur ein teures, sondern auch ein gefragtes Pflaster. Die große Nachfrage und das begrenzte Angebot an Mietwohnungen lassen die Mieten steigen, zum Leid der Mieter und Freude der Anleger. Beate Haselmayer besucht in Innsbruck heruntergekommene Mini-Wohnungen, luxuriöse Eigentumsdomizile und rentable Anlageobjekte. Sie zeigt, wer von den horrenden Mietpreisen profitiert und konfrontiert Politiker mit der Preisexplosion am Mietmarkt.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110011000 +0000" stop="20261110020000 +0000"><title lang="de">ORFIII Themenmontag</title>
+    <desc lang="de">Gezeigt werden Geschichten aus den Bereichen Chronik, Gesellschaftspolitik, Soziales und Kurioses.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110020000 +0000" stop="20261110024500 +0000"><title>SCHAU-FENSTER</title>
+    <sub-title>Museumsquartier Wien</sub-title>
+    <category>Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110024500 +0000" stop="20261110033500 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Von der Steppe in die Alpen - Vögel in Österreich</sub-title>
+    <desc lang="de">Die Sendung zeigt die Graugänse im Burgenland, die im Februar mit dem Brutgeschäft beginnen. Bald kehren auch Kiebitze in den Seewinkel zurück. Erst wenn der Schnee in den Bergen Kärntens geschmolzen ist, beginnt die Balz der Alpenvögel.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110033500 +0000" stop="20261110042500 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Turmfalken - Jäger der Großstadt</sub-title>
+    <desc lang="de">Turmfalken sind die erfolgreichsten Greifvögel Europas und wohnen in Au-Gebieten und alpinen Regionen. Begleitet werden zwei Brutpaare: eines in einer gut geschützten Mauernische, eines am Fensterbrett desselben Innenstadthauses.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110042500 +0000" stop="20261110053000 +0000"><title lang="de">Erbe Österreich</title>
+    <sub-title lang="de">Von Wien nach Jerusalem - Theodor Herzl und sein Buch Der Judenstaat</sub-title>
+    <desc lang="de">Die Weltpolitik im Nahen Osten hat mehr mit der Wiener Geschichte zu tun, als vielen bewusst ist. So stammte doch die Vision eines eigenen jüdischen Staates aus der Feder des Wiener Publizisten Theodor Herzl. Sein Buch "Der Judenstaat" schuf die ideellen Voraussetzungen für die spätere Gründung Israels. Zwar blieben Herzls eigene diplomatische Aktivitäten zu Lebzeiten ohne Erfolg, doch sein Werk wurde nach dem Zweiten Weltkrieg und dem Holocaust geschichtswirksam.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110053000 +0000" stop="20261110060000 +0000"><title lang="de">KulturHeute</title>
+    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
+    <category lang="de">Art</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110060000 +0000" stop="20261110063500 +0000"><title lang="de">WETTER / INFO</title>
+    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
+    <category lang="de">Weather</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110063500 +0000" stop="20261110070000 +0000"><title lang="de">Adj'Isten magyarok</title>
+    <desc lang="de">Das Magazin für die Ungarn in Österreich.</desc>
+    <category lang="de">Variety</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110070000 +0000" stop="20261110073000 +0000"><title lang="de">WIR</title>
+    <sub-title lang="de">Das Volksgruppenmagazin</sub-title>
+    <desc lang="de">Unter anderem wird der Roma Aleksandar Nikolic porträtiert und es geht um 35 Jahre VHS der Ungarn. Weiters wird über die Wälder der Zukunft in der Slowakei berichtet und über die neue Saison im Werner Berg Museum in Slowenien.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110073000 +0000" stop="20261110083000 +0000"><title lang="de">DialogForum</title>
+    <sub-title lang="de">Africa Now!</sub-title>
+    <desc lang="de">In dieser Sendung werden öffentliche Fragen zur Medienqualität bei Podiumsdiskussionen debattiert. Dabei nehmen Vertreter der Wissenschaft, der Zivilgesellschaft sowie der Medien teil und auch das Publikum bringt seine Kritik ein.</desc>
+    <category lang="de">Politics</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110083000 +0000" stop="20261110120000 +0000"><title lang="de">ORF III aktuell</title>
+    <desc lang="de">Diese Sendung präsentiert Beiträge und Reden zu aktuellen Themen in Österreich und Europa.</desc>
+    <category lang="de">Talk</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110120000 +0000" stop="20261110125000 +0000"><title lang="de">Land der Berge</title>
+    <sub-title lang="de">Rund ums Karwendel</sub-title>
+    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110125000 +0000" stop="20261110132000 +0000"><title lang="de">Unser Österreich</title>
+    <sub-title lang="de">Vogelparadies Weidmoos - Neues Leben für eine Salzburger Torfwüste</sub-title>
+    <desc lang="de">Das Vogelparadies Weidmoos liegt nördlich der Stadt Salzburg. Das 140 Hektar große Gebiet zählt heute zu Österreichs spektakulärsten Naturschutzprojekten. Ornithologen haben dort mittlerweile bereits 150 Vogelarten dokumentiert.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110132000 +0000" stop="20261110141000 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Der Flug des Seeadlers</sub-title>
+    <desc lang="de">Victors Leben beginnt so wie das eines jeden Seeadlerkükens. Er nimmt durch seine Eischale seine Eltern wahr, die unermüdlich Wache über ihn und seinen Bruder halten. Dann kommt der große Tag - seine Schale passt ihm nicht mehr, die Nährstoffe werden knapp, und so beginnt er sich unter Aufwand all seiner Kräfte zu befreien. Er pickt ein Loch in die Eischale und befreit sich. Victor ist erschöpft. Das Leben beginnt also mit Erschöpfung.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110141000 +0000" stop="20261110150000 +0000"><title lang="de">Expeditionen</title>
+    <sub-title lang="de">Der Flug der Eule</sub-title>
+    <desc lang="de">Die Geschichte eines Schleiereulenweibchens, das durch widrige Umstände seinen Lebensraum verliert und sich einen neuen Platz sucht, bildet die Rahmenhandlung der Dokumentation. Auf der Suche nach einem Zuhause trifft es viele andere Eulenarten.</desc>
+    <category lang="de">Documentary</category>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110150000 +0000" stop="20261110151000 +0000"><title lang="de">ORF III Aktuell am Nachmittag</title>
+    <desc lang="de">Im Fokus stehen Nachrichten und Analysen zu aktuellen Themen aus Österreich und der Welt.</desc>
+    <category lang="de">News</category>
+    <episode-num system="onscreen">S2026E47</episode-num>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110151000 +0000" stop="20261110154000 +0000"><title lang="de">Unser Österreich</title>
+    <sub-title lang="de">Der Wolf kommt zurück</sub-title>
+    <desc lang="de">Wölfe kehren in unsere Wälder zurück. Während sie bei Naturschutzorganisationen höchst willkommen sind, ist die Landwirtschaft alles andere als begeistert. Die Wölfe reißen so viele Schafe, dass manche Almen nicht mehr bewirtschaftet werden können.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110154000 +0000" stop="20261110163000 +0000"><title lang="de">Heimat Österreich</title>
+    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
+    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110163000 +0000" stop="20261110172500 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Eine goldene Nase</sub-title>
+    <desc lang="de">Der Generaldirektor der Global-Reisen, Dr. Kiefer, hat seinen Besuch angekündigt. Gemeinsam mit Andre will er einen Vertrag für die kommende Hauptsaison aushandeln. Kiefer weiß, dass für seinen Aufenthalt fieberhafte Vorbereitungen im Gange sind. Da tauscht er mit seinem Chauffeur die Rollen, um das Schlosshotel unerkannt zu testen.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110172500 +0000" stop="20261110181800 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
+    <sub-title lang="de">Anjas Baby</sub-title>
+    <desc lang="de">Anja bringt einen Buben zur Welt. Thomas Kramer besucht sie in der Klinik und spielt noch immer den Verliebten. Doch als er ihr Kind zum ersten Mal sieht, zeigt er sein wahres Gesicht, denn das Kleine ist von dunkler Hautfarbe.</desc>
+    <category lang="de">Drama</category>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110181800 +0000" stop="20261110182500 +0000"><title lang="de">ORF III Aktuell am Abend</title>
+    <desc lang="de">Im Fokus stehen Nachrichten und Analysen zu aktuellen Themen aus Österreich und der Welt.</desc>
+    <category lang="de">News</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110182500 +0000" stop="20261110184000 +0000"><title lang="de">Nachrichten in einfacher Sprache</title>
+    <desc lang="de">Tagesaktuelle Meldungen werden leicht verständlich und auf mehr Zeilen aufgeteilt angeboten. Die Nachrichten sind dabei in kurzen Sätzen verfasst. Auf schwierige Wörter wird nach Möglichkeit verzichtet oder diese werden in einer Ergänzung erklärt.</desc>
+    <category lang="de">News</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110184000 +0000" stop="20261110191500 +0000"><title lang="de">KulturHeute</title>
+    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
+    <category lang="de">Art</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110191500 +0000" stop="20261110200500 +0000"><title lang="de">Erbe Österreich</title>
+    <sub-title lang="de">Eine Stadt wird satt - die Verpflegung Wiens</sub-title>
+    <desc lang="de">Eine Großstadt wie Wien mit Essen zu versorgen, war früher eine tägliche logistische Meisterleistung. Brot etwa war in der Zwei-Millionen-Metropole immer wieder Mangelware, weil die Bäcker sich durchwegs auf die lukrativeren Süßwaren verlegt hatten.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110200500 +0000" stop="20261110205500 +0000"><title lang="de">Erbe Österreich</title>
+    <sub-title lang="de">Kochen für den Kaiser - die Hofburg-Küche</sub-title>
+    <desc lang="de">Wie sahen die Essgewohnheiten der Habsburger aus der Perspektive des Küchenpersonals aus? Adolf Rußwurm war in Schönbrunn für Diäten des Kaisers zuständig und Karl Soukup wurde mit der Nachbildung des Eiffelturms aus Huhn- und Wildhaschee berühmt.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110205500 +0000" stop="20261110214500 +0000"><title lang="de">Erbe Österreich</title>
+    <sub-title lang="de">Voll elektrisch - als der Strom das Land eroberte</sub-title>
+    <desc lang="de">Diese Dokumentation beschäftigt sich mit den Anfängen der Elektrizität in Österreich. Schon auf der Wiener Weltausstellung 1873 erregten einige elektrische Exponate Aufsehen. Thronfolger Franz Ferdinand interessierte sich später sehr für die Technik.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110214500 +0000" stop="20261110223500 +0000"><title lang="de">Erbe Österreich</title>
+    <sub-title lang="de">Der Sagenjäger - Max Müller</sub-title>
+    <desc lang="de">Es werden zwei Sagen untersucht: Die der Edelinde, die nach ihrem Tod wiederbelebt wurde und ein Kind gebar, sowie die Kärntner Sage vom Riesen vom Mirnock, dessen gebrochenes Herz die Landschaft prägte. Fachleute suchen nach Erklärungen.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110223500 +0000" stop="20261110232000 +0000"><title lang="de">Erbe Österreich</title>
+    <sub-title lang="de">Eine Stadt wird satt - die Verpflegung Wiens</sub-title>
+    <desc lang="de">Eine Großstadt wie Wien mit Essen zu versorgen, war früher eine tägliche logistische Meisterleistung. Brot etwa war in der Zwei-Millionen-Metropole immer wieder Mangelware, weil die Bäcker sich durchwegs auf die lukrativeren Süßwaren verlegt hatten.</desc>
+    <category lang="de">Documentary</category>
+  </programme><programme channel="ORF3HD.at (m3u4u)" start="20261110232000 +0000" stop="20261111000500 +0000"><title lang="de">Erbe Österreich</title>
+    <sub-title lang="de">Kochen für den Kaiser - die Hofburg-Küche</sub-title>
+    <desc lang="de">Wie sahen die Essgewohnheiten der Habsburger aus der Perspektive des Küchenpersonals aus? Adolf Rußwurm war in Schönbrunn für Diäten des Kaisers zuständig und Karl Soukup wurde mit der Nachbildung des Eiffelturms aus Huhn- und Wildhaschee berühmt.</desc>
+    <category lang="de">Documentary</category>
   </programme><programme channel="C+Action.at (src01)" start="20261107000000 +0000" stop="20261107024000 +0000"><title lang="de">Once Upon a Time in... Hollywood</title>
     <sub-title lang="de">USA</sub-title>
     <desc lang="de">Quentin Tarantinos "Once Upon a Time in... Hollywood" spielt im Los Angeles von 1969, zu einer Zeit, als alles im Umbruch ist. Auch TV-Star Rick Dalton (Leonardo DiCaprio) und sein langjähriges Stunt-Double Cliff Booth (Brad Pitt) müssen sich in einer Branche zurechtfinden, die sie kaum mehr wiedererkennen. Der neunte Film von Kultregisseur und Drehbuchautor Quentin Tarantino wartet mit einer großen Ensemble-Besetzung und zahlreichen Erzählsträngen auf und huldigt den letzten Momenten von Hollywoods goldenem Zeitalter.</desc>
@@ -46141,765 +46902,6 @@
     <category lang="de">Newsmagazine</category>
   </programme><programme channel="KURIER.at (m3u4u)" start="20261110231000 +0000" stop="20261111000000 +0000"><title>Reisedokumentation</title>
     <category>Special</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107000000 +0000" stop="20261107004800 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
-    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107000500 +0000" stop="20261107005000 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
-    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107004800 +0000" stop="20261107013500 +0000"><title lang="de">Heimat Österreich</title>
-    <sub-title lang="de">Am Fuß des Hochkar</sub-title>
-    <desc lang="de">Am Hochkar, dem Tor zu den Alpen, prägen Menschen mit Leidenschaft und Tradition das Leben in den Bergen. Wir begleiten Bergretter, Almhalter, Volkstänzer und Jagdhornbläser, die Brauchtum und Natur mit viel Herzblut bewahren. Zwischen Almhütten, Musik und harter Arbeit entsteht ein eindrucksvolles Porträt einer Region, in der Gemeinschaft und Heimatgefühl bis heute gelebt werden.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107005000 +0000" stop="20261107014000 +0000"><title lang="de">Heimat Österreich</title>
-    <sub-title lang="de">Am Fuß des Hochkar</sub-title>
-    <desc lang="de">Am Hochkar, dem Tor zu den Alpen, prägen Menschen mit Leidenschaft und Tradition das Leben in den Bergen. Wir begleiten Bergretter, Almhalter, Volkstänzer und Jagdhornbläser, die Brauchtum und Natur mit viel Herzblut bewahren. Zwischen Almhütten, Musik und harter Arbeit entsteht ein eindrucksvolles Porträt einer Region, in der Gemeinschaft und Heimatgefühl bis heute gelebt werden.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107013500 +0000" stop="20261107022200 +0000"><title lang="de">Landleben</title>
-    <sub-title lang="de">Rund um den Stubenbergsee</sub-title>
-    <desc lang="de">Die Oststeiermark erzählt Geschichten voller Leidenschaft, Handwerk und Abenteuer. Bergbauern und Surfpioniere zeigen, wie lebendig regionale Traditionen bis heute sind. Es entsteht ein buntes Porträt einer einzigartigen Region.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107014000 +0000" stop="20261107022500 +0000"><title lang="de">Landleben</title>
-    <sub-title lang="de">Rund um den Stubenbergsee</sub-title>
-    <desc lang="de">Die Oststeiermark erzählt Geschichten voller Leidenschaft, Handwerk und Abenteuer. Bergbauern und Surfpioniere zeigen, wie lebendig regionale Traditionen bis heute sind. Es entsteht ein buntes Porträt einer einzigartigen Region.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107022200 +0000" stop="20261107030800 +0000"><title lang="de">Landleben</title>
-    <sub-title lang="de">Hoch über dem Gailtal</sub-title>
-    <desc lang="de">Im Gailtal haben Dinge ihre Bedeutung erhalten, die anderswo längst verschüttet sind. Der Anblick des Weißensees lässt einen den Blick für das Wesentliche im Leben behalten. Auf der Egger Alm arbeiten die Menschen teilweise noch wie früher.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107022500 +0000" stop="20261107031500 +0000"><title lang="de">Landleben</title>
-    <sub-title lang="de">Hoch über dem Gailtal</sub-title>
-    <desc lang="de">Im Gailtal haben Dinge ihre Bedeutung erhalten, die anderswo längst verschüttet sind. Der Anblick des Weißensees lässt einen den Blick für das Wesentliche im Leben behalten. Auf der Egger Alm arbeiten die Menschen teilweise noch wie früher.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107030800 +0000" stop="20261107035200 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Central Park - Das Herz Manhattans</sub-title>
-    <desc lang="de">Der Central Park ist der erste künstlich angelegte Park der USA und nach der Katastrophe vom 11. September 2001 erfüllt der Park in New York mehr denn je die Idee des amerikanischen Traums - als Ort der Begegnung zwischen den Menschen.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107031500 +0000" stop="20261107040000 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Central Park - Das Herz Manhattans</sub-title>
-    <desc lang="de">Der Central Park ist der erste künstlich angelegte Park der USA und nach der Katastrophe vom 11. September 2001 erfüllt der Park in New York mehr denn je die Idee des amerikanischen Traums - als Ort der Begegnung zwischen den Menschen.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107035200 +0000" stop="20261107043800 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Big Bend - Amerikas wildeste Grenze</sub-title>
-    <desc lang="de">Der Rio Grande schneidet tiefe Schluchten zwischen die USA und Mexiko. Der spektakuläre Nationalpark Big Bend beherbergt mehr Arten von Vögeln, Schmetterlingen, Fledermäusen, Reptilien und Skorpionen als jeder andere US-Nationalpark.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107040000 +0000" stop="20261107044500 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Big Bend - Amerikas wildeste Grenze</sub-title>
-    <desc lang="de">Der Rio Grande schneidet tiefe Schluchten zwischen die USA und Mexiko. Der spektakuläre Nationalpark Big Bend beherbergt mehr Arten von Vögeln, Schmetterlingen, Fledermäusen, Reptilien und Skorpionen als jeder andere US-Nationalpark.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107043800 +0000" stop="20261107060600 +0000"><title lang="de">Erbe Österreich</title>
-    <sub-title lang="de">Von Wien nach Jerusalem - Theodor Herzl und sein Buch Der Judenstaat</sub-title>
-    <desc lang="de">Die Weltpolitik im Nahen Osten hat mehr mit der Wiener Geschichte zu tun, als vielen bewusst ist. So stammte doch die Vision eines eigenen jüdischen Staates aus der Feder des Wiener Publizisten Theodor Herzl. Sein Buch "Der Judenstaat" schuf die ideellen Voraussetzungen für die spätere Gründung Israels. Zwar blieben Herzls eigene diplomatische Aktivitäten zu Lebzeiten ohne Erfolg, doch sein Werk wurde nach dem Zweiten Weltkrieg und dem Holocaust geschichtswirksam.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107044500 +0000" stop="20261107053000 +0000"><title lang="de">Erbe Österreich</title>
-    <sub-title lang="de">Von Wien nach Jerusalem - Theodor Herzl und sein Buch Der Judenstaat</sub-title>
-    <desc lang="de">Die Weltpolitik im Nahen Osten hat mehr mit der Wiener Geschichte zu tun, als vielen bewusst ist. So stammte doch die Vision eines eigenen jüdischen Staates aus der Feder des Wiener Publizisten Theodor Herzl. Sein Buch "Der Judenstaat" schuf die ideellen Voraussetzungen für die spätere Gründung Israels. Zwar blieben Herzls eigene diplomatische Aktivitäten zu Lebzeiten ohne Erfolg, doch sein Werk wurde nach dem Zweiten Weltkrieg und dem Holocaust geschichtswirksam.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107053000 +0000" stop="20261107060000 +0000"><title lang="de">KulturHeute</title>
-    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
-    <category lang="de">Art</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107060000 +0000" stop="20261107080000 +0000"><title lang="de">WETTER / INFO</title>
-    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
-    <category lang="de">Weather</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107060600 +0000" stop="20261107081000 +0000"><title lang="de">WETTER / INFO</title>
-    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
-    <category lang="de">Weather</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107080000 +0000" stop="20261107085000 +0000"><title lang="de">Landleben</title>
-    <sub-title lang="de">Rund um den Stubenbergsee</sub-title>
-    <desc lang="de">Die Oststeiermark erzählt Geschichten voller Leidenschaft, Handwerk und Abenteuer. Bergbauern und Surfpioniere zeigen, wie lebendig regionale Traditionen bis heute sind. Es entsteht ein buntes Porträt einer einzigartigen Region.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107081000 +0000" stop="20261107085800 +0000"><title lang="de">Landleben</title>
-    <sub-title lang="de">Rund um den Stubenbergsee</sub-title>
-    <desc lang="de">Die Oststeiermark erzählt Geschichten voller Leidenschaft, Handwerk und Abenteuer. Bergbauern und Surfpioniere zeigen, wie lebendig regionale Traditionen bis heute sind. Es entsteht ein buntes Porträt einer einzigartigen Region.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107085000 +0000" stop="20261107094000 +0000"><title lang="de">Heimat Österreich</title>
-    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
-    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107085800 +0000" stop="20261107094600 +0000"><title lang="de">Heimat Österreich</title>
-    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
-    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107094000 +0000" stop="20261107103000 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Rund ums Karwendel</sub-title>
-    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107094600 +0000" stop="20261107103200 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Rund ums Karwendel</sub-title>
-    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107103000 +0000" stop="20261107112000 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Vom oberen Gericht ins Kaunertal</sub-title>
-    <desc lang="de">Die Sendung lädt ein auf eine Reise durch eisige Höhen und traditionsreiche Regionen der Tiroler Bergwelt. Hoch oben, zwischen scharfen Graten und leuchtend weißen Schneefeldern, liegt er, der zweitgrößte Gletscher Österreichs: der Gepatschferner.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107103200 +0000" stop="20261107111900 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Vom oberen Gericht ins Kaunertal</sub-title>
-    <desc lang="de">Die Sendung lädt ein auf eine Reise durch eisige Höhen und traditionsreiche Regionen der Tiroler Bergwelt. Hoch oben, zwischen scharfen Graten und leuchtend weißen Schneefeldern, liegt er, der zweitgrößte Gletscher Österreichs: der Gepatschferner.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107111900 +0000" stop="20261107120600 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Quer durch die Alpen</sub-title>
-    <desc lang="de">Die Sendung zeigt eindrucksvolle Bilder einer der großartigsten Landschaften der Welt: die Alpen. Graubünden ist der größte Kanton der Schweiz; durch beschauliche Dörfer und wilde Bergnatur hebt sich die an Österreich grenzende Region hervor.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107112000 +0000" stop="20261107121000 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Quer durch die Alpen</sub-title>
-    <desc lang="de">Die Sendung zeigt eindrucksvolle Bilder einer der großartigsten Landschaften der Welt: die Alpen. Graubünden ist der größte Kanton der Schweiz; durch beschauliche Dörfer und wilde Bergnatur hebt sich die an Österreich grenzende Region hervor.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107120600 +0000" stop="20261107125800 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Wirbel im Parks</sub-title>
-    <desc lang="de">Elkes Pariser Chef im Architekturbüro hat sie überredet, den Umbau einer schicken Millionärsvilla in St. Tropez zu kontrollieren. In ihrer Abwesenheit ist der Hotelbetrieb Leo überlassen. Und der geht dem gewinkelten Banker Thomas Kramer auf den Leim. Kramer lässt sich von dem einfältigen Leo die Rechte am Schlosshotel abtreten. Nicht einmal André Blandeau, der endlich aus Thailand zurückgekehrt ist, überschaut die Situation.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107121000 +0000" stop="20261107130500 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Wirbel im Parks</sub-title>
-    <desc lang="de">Elkes Pariser Chef im Architekturbüro hat sie überredet, den Umbau einer schicken Millionärsvilla in St. Tropez zu kontrollieren. In ihrer Abwesenheit ist der Hotelbetrieb Leo überlassen. Und der geht dem gewinkelten Banker Thomas Kramer auf den Leim. Kramer lässt sich von dem einfältigen Leo die Rechte am Schlosshotel abtreten. Nicht einmal André Blandeau, der endlich aus Thailand zurückgekehrt ist, überschaut die Situation.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107125800 +0000" stop="20261107135300 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Frank &amp; Eddy</sub-title>
-    <desc lang="de">Bei einer Galavorstellung des Hotels soll der Berliner Star Eddy Castelli Höhepunkt des Abends sein. Eine schicksalhafte Panne macht den Sänger am Tag seines Auftritts allerdings arbeitsunfähig. Da eine Spritze Schlafmittel in seinem Allerwertesten landet, kann das Ereignis nicht wie geplant über die Bühne gehen. Doch Frank, der Veranstaltungsleiter, verfügt über eine große Ähnlichkeit mit dem Entertainer.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107130500 +0000" stop="20261107140000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Frank &amp; Eddy</sub-title>
-    <desc lang="de">Bei einer Galavorstellung des Hotels soll der Berliner Star Eddy Castelli Höhepunkt des Abends sein. Eine schicksalhafte Panne macht den Sänger am Tag seines Auftritts allerdings arbeitsunfähig. Da eine Spritze Schlafmittel in seinem Allerwertesten landet, kann das Ereignis nicht wie geplant über die Bühne gehen. Doch Frank, der Veranstaltungsleiter, verfügt über eine große Ähnlichkeit mit dem Entertainer.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107135300 +0000" stop="20261107144600 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Verzwickte Verhältnisse</sub-title>
-    <desc lang="de">Elke hat beschlossen, sich energischer um das Schlosshotel zu kümmern. Unterstützt wird sie von André und dem Architekten Peter Tauschitz, der die neue Chefin plötzlich gar nicht mehr so unsympathisch findet. Aber allmählich wird klar, dass Elke sich in einer ausweglosen Situation befindet. Der leichtfertige Vertrag, den Leo mit dem skrupellosen Geschäftemacher Thomas Kramer geschlossen hat, sichert der "Bank of Bermudas" praktisch alle Rechte am Schlosshotel.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107140000 +0000" stop="20261107145000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Verzwickte Verhältnisse</sub-title>
-    <desc lang="de">Elke hat beschlossen, sich energischer um das Schlosshotel zu kümmern. Unterstützt wird sie von André und dem Architekten Peter Tauschitz, der die neue Chefin plötzlich gar nicht mehr so unsympathisch findet. Aber allmählich wird klar, dass Elke sich in einer ausweglosen Situation befindet. Der leichtfertige Vertrag, den Leo mit dem skrupellosen Geschäftemacher Thomas Kramer geschlossen hat, sichert der "Bank of Bermudas" praktisch alle Rechte am Schlosshotel.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107144600 +0000" stop="20261107154000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Abenteuer in den Bergen</sub-title>
-    <desc lang="de">Elke sieht keine Möglichkeit, den Vertrag mit Kramer aufzulösen. Zwar bietet André an, sein Loire-Schloss zu verkaufen, damit sie ihre Hotels halten kann - aber ein solches Geschenk will sie nicht annehmen. Nur Leo zeigt weiter Optimismus.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107145000 +0000" stop="20261107154000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Abenteuer in den Bergen</sub-title>
-    <desc lang="de">Elke sieht keine Möglichkeit, den Vertrag mit Kramer aufzulösen. Zwar bietet André an, sein Loire-Schloss zu verkaufen, damit sie ihre Hotels halten kann - aber ein solches Geschenk will sie nicht annehmen. Nur Leo zeigt weiter Optimismus.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107154000 +0000" stop="20261107172400 +0000"><title lang="de">Das Sacher. In bester Gesellschaft</title>
-    <sub-title lang="de">Teil 1</sub-title>
-    <desc lang="de">Anna Sacher ist dreiunddreißig und verwitwet mit drei Kindern. Das berühmte Hotel ihres verstorbenen Mannes soll verkauft werden, denn eine Frau darf den Betrieb nicht alleine weiterführen. Während Anna um ihre Existenz kämpft, verkehren in ihrem Haus zwei jungvermählte Paare, die österreichischen Adeligen von Traunstein und die Aderholds aus Berlin. Ihre Schicksale werden sich bald auf das heftigste überkreuzen. Am Heimweg von der Arbeit im Sacher verschwindet das junge Putzmädel Marie spurlos.</desc>
-    <category lang="de">Historical drama</category>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107172400 +0000" stop="20261107191500 +0000"><title lang="de">Das Sacher. In bester Gesellschaft</title>
-    <sub-title lang="de">Teil 2</sub-title>
-    <desc lang="de">Mit der überraschenden Wiederkehr des Putzmädels Marie nach Jahren der Gefangenschaft gerät die schillernde Welt von Constanze und Hans Georg von Traunstein vollends aus den Fugen. Was hat Maries Schicksal mit der Familie von Traunstein zu tun? Constanzes Fehltritt mit Maximilian Aderhold bringt Marthas Aderholds Ehe an den Rand des Scheiterns. Anna Sacher wird indes zur legendären Patronin des Sacher. Doch nach der Ermordung der Kaiserin Sisi stehen die Zeichen der Zeit auf Veränderung.</desc>
-    <category lang="de">Historical drama</category>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107172500 +0000" stop="20261107191500 +0000"><title lang="de">Das Sacher. In bester Gesellschaft</title>
-    <sub-title lang="de">Teil 2</sub-title>
-    <desc lang="de">Mit der überraschenden Wiederkehr des Putzmädels Marie nach Jahren der Gefangenschaft gerät die schillernde Welt von Constanze und Hans Georg von Traunstein vollends aus den Fugen. Was hat Maries Schicksal mit der Familie von Traunstein zu tun? Constanzes Fehltritt mit Maximilian Aderhold bringt Marthas Aderholds Ehe an den Rand des Scheiterns. Anna Sacher wird indes zur legendären Patronin des Sacher. Doch nach der Ermordung der Kaiserin Sisi stehen die Zeichen der Zeit auf Veränderung.</desc>
-    <category lang="de">Historical drama</category>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <rating>
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107191500 +0000" stop="20261107201100 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Große Momente - Als Österreich die Welt bewegte</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107200500 +0000" stop="20261107205500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Ungarische Revolution 1956 - Neue Heimat Österreich</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107201100 +0000" stop="20261107210300 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Ungarische Revolution 1956 - Neue Heimat Österreich</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107205500 +0000" stop="20261107214500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Baumeisterinnen der Republik - Benita Ferrero-Waldner</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107210300 +0000" stop="20261107215400 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Baumeisterinnen der Republik - Benita Ferrero-Waldner</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107214500 +0000" stop="20261107223500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Wie's wirklich war - Die Berichterstatter:innen der Republik</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107215400 +0000" stop="20261107224700 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Wie's wirklich war - Die Berichterstatter:innen der Republik</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107223500 +0000" stop="20261107231500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Erlebt, erzählt - Paul Lendvai</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107224700 +0000" stop="20261107232200 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Erlebt, erzählt - Paul Lendvai</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107231500 +0000" stop="20261108001500 +0000"><title lang="de">Kabarett im Turm</title>
-    <sub-title lang="de">Isabell Pannagl - Neues aus dem Dachgeschoss</sub-title>
-    <desc lang="de">Sie ist einer der Shootingstars des österreichischen Kabaretts: Isabell Pannagl. In ihrem aktuellen Kabarettprogramm beweist sie einmal mehr ihr erfrischend freches Mundwerk und ihre pointierten Beobachtungen der Gesellschaft.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261107232200 +0000" stop="20261108002100 +0000"><title lang="de">Kabarett im Turm</title>
-    <sub-title lang="de">Isabell Pannagl - Neues aus dem Dachgeschoss</sub-title>
-    <desc lang="de">Sie ist einer der Shootingstars des österreichischen Kabaretts: Isabell Pannagl. In ihrem aktuellen Kabarettprogramm beweist sie einmal mehr ihr erfrischend freches Mundwerk und ihre pointierten Beobachtungen der Gesellschaft.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108001500 +0000" stop="20261108010000 +0000"><title lang="de">Wiener Liedkunst</title>
-    <sub-title lang="de">Roland Neuwirth &amp; radio.string.quartet</sub-title>
-    <desc lang="de">In dieser musikalischen Sendung werden großartige Interpreten des Wiener Lieds präsentiert.</desc>
-    <category lang="de">Music</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108002100 +0000" stop="20261108010400 +0000"><title lang="de">Wiener Liedkunst</title>
-    <sub-title lang="de">Roland Neuwirth &amp; radio.string.quartet</sub-title>
-    <desc lang="de">In dieser musikalischen Sendung werden großartige Interpreten des Wiener Lieds präsentiert.</desc>
-    <category lang="de">Music</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108010000 +0000" stop="20261108014500 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
-    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108010400 +0000" stop="20261108015200 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
-    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108014500 +0000" stop="20261108023500 +0000"><title lang="de">kult.reloaded</title>
-    <sub-title lang="de">Die kranken Schwestern (2/36)</sub-title>
-    <desc lang="de">In der Sendung werden Archivschätze aus dem ORF-Programm vergangener Jahrzehnte gezeigt.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108015200 +0000" stop="20261108024400 +0000"><title lang="de">kult.reloaded</title>
-    <sub-title lang="de">Die kranken Schwestern (2/36)</sub-title>
-    <desc lang="de">In der Sendung werden Archivschätze aus dem ORF-Programm vergangener Jahrzehnte gezeigt.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108023500 +0000" stop="20261108032500 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Rund ums Karwendel</sub-title>
-    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108024400 +0000" stop="20261108032700 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Rund ums Karwendel</sub-title>
-    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108032500 +0000" stop="20261108041500 +0000"><title lang="de">Heimat Österreich</title>
-    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
-    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108032700 +0000" stop="20261108041600 +0000"><title lang="de">Heimat Österreich</title>
-    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
-    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108041500 +0000" stop="20261108053000 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
-    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108041600 +0000" stop="20261108050300 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
-    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108050300 +0000" stop="20261108053000 +0000"><title lang="de">Erlebnis Österreich</title>
-    <sub-title lang="de">Ein Leben mit Alpakas</sub-title>
-    <desc lang="de">Auf einem Hof am Seefelder Plateau züchten Nadin und Florian Haslwanter-Egger Alpakas. Zunächst sollte es nur ein Ausgleich zum stressigen Arbeitsalltag werden. Nun haben sie rund 35 Alpakas und es werden Wanderungen angeboten.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108053000 +0000" stop="20261108060600 +0000"><title lang="de">KulturHeute</title>
-    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
-    <category lang="de">Art</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108060000 +0000" stop="20261108071500 +0000"><title lang="de">WETTER / INFO</title>
-    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
-    <category lang="de">Weather</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108060600 +0000" stop="20261108072200 +0000"><title lang="de">WETTER / INFO</title>
-    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
-    <category lang="de">Weather</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108071500 +0000" stop="20261108080500 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Rund ums Karwendel</sub-title>
-    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108072200 +0000" stop="20261108080800 +0000"><title lang="de">Erlebnis Bühne Matinee</title>
-    <sub-title lang="de">In memoriam Herbert Blomstedt: Brahms' Violinkonzert mit Leonidas Kavakos</sub-title>
-    <desc lang="de">Die Sendung berichtet über bekannte österreichische Künstler aus dem Musikbereich.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108080500 +0000" stop="20261108082500 +0000"><title lang="de">Erlebnis Bühne</title>
-    <sub-title lang="de">30 Jahre L'Orfeo Barockorchester</sub-title>
-    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108080800 +0000" stop="20261108082800 +0000"><title lang="de">Erlebnis Bühne</title>
-    <sub-title lang="de">30 Jahre L'Orfeo Barockorchester</sub-title>
-    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108082500 +0000" stop="20261108090000 +0000"><title>Säg amol - Vorarlberg im Interview</title>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108082800 +0000" stop="20261108090000 +0000"><title>Säg amol - Vorarlberg im Interview</title>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108090000 +0000" stop="20261108100300 +0000"><title lang="de">ORF III Live</title>
-    <sub-title lang="de">Katholischer Gottesdienst aus Mattersburg im Burgenland</sub-title>
-    <desc lang="de">In dieser Sendung werden verschiedene Live-Events aus verschiedenen Bereichen übertragen.</desc>
-    <category lang="de">Music</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108100300 +0000" stop="20261108103700 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Erlebt, erzählt - Paul Lendvai</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108100500 +0000" stop="20261108104500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Erlebt, erzählt - Paul Lendvai</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108103700 +0000" stop="20261108112600 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Österreich erzählt - Zeitzeuginnen und Zeitzeugen berichten</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108104500 +0000" stop="20261108113500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Österreich erzählt - Zeitzeuginnen und Zeitzeugen berichten</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108112600 +0000" stop="20261108121400 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Meine jüdische Familie</sub-title>
-    <desc lang="de">Die Sendung zeigt, was die österreichische Geschichte für einzelne Familien bedeuten kann. Jahrzehntelang ist in ihrer Familie geschwiegen worden. Es war ein Tabu, sich an die einschneidenden Jahre zwischen 1938 und 1945 zu erinnern.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108113500 +0000" stop="20261108122500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Meine jüdische Familie</sub-title>
-    <desc lang="de">Die Sendung zeigt, was die österreichische Geschichte für einzelne Familien bedeuten kann. Jahrzehntelang ist in ihrer Familie geschwiegen worden. Es war ein Tabu, sich an die einschneidenden Jahre zwischen 1938 und 1945 zu erinnern.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108121400 +0000" stop="20261108124900 +0000"><title lang="de">Landleben</title>
-    <sub-title lang="de">Auf der Gerlitzen</sub-title>
-    <desc lang="de">Hoch über dem Ossiachersee liegt auf rund zweitausend Meter Seehöhe die Gerlitzen Alpe. Ein erhabener Blick über das Südkärntner Panorama eröffnet sich dort. Die Sendung begleitet mehrere Gerlitzen Originale wie etwa den Bauern Johann Maier.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108122500 +0000" stop="20261108125500 +0000"><title lang="de">Landleben</title>
-    <sub-title lang="de">Auf der Gerlitzen</sub-title>
-    <desc lang="de">Hoch über dem Ossiachersee liegt auf rund zweitausend Meter Seehöhe die Gerlitzen Alpe. Ein erhabener Blick über das Südkärntner Panorama eröffnet sich dort. Die Sendung begleitet mehrere Gerlitzen Originale wie etwa den Bauern Johann Maier.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108124900 +0000" stop="20261108142700 +0000"><title lang="de">Meine Tochter nicht</title>
-    <desc lang="de">Der Absturz erfolgt derart rasant, dass er wie ein böser Traum wirkt. Gerade noch war die 16-jährige Nadja ein unbeschwertes, fröhliches junges Mädchen, kurz darauf folgt der Horror: Der ältere Junge, in den sie sich verliebt, ist ein Junkie, der auch Nadja ins Elend zieht. Ihre wohlhabenden Eltern lernen auf äußerst schmerzliche Weise eine Welt kennen, die sie bislang bloß vom Hörensagen kannten: Ihre Suche nach der Tochter wird buchstäblich zur Reise in die Unterwelt.</desc>
-    <category lang="de">Drama</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108125500 +0000" stop="20261108143000 +0000"><title lang="de">Meine Tochter nicht</title>
-    <desc lang="de">Der Absturz erfolgt derart rasant, dass er wie ein böser Traum wirkt. Gerade noch war die 16-jährige Nadja ein unbeschwertes, fröhliches junges Mädchen, kurz darauf folgt der Horror: Der ältere Junge, in den sie sich verliebt, ist ein Junkie, der auch Nadja ins Elend zieht. Ihre wohlhabenden Eltern lernen auf äußerst schmerzliche Weise eine Welt kennen, die sie bislang bloß vom Hörensagen kannten: Ihre Suche nach der Tochter wird buchstäblich zur Reise in die Unterwelt.</desc>
-    <category lang="de">Drama</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108142700 +0000" stop="20261108160200 +0000"><title lang="de">Gefangen - Der Fall K</title>
-    <desc lang="de">Lange waren die Vermögensberaterin Elke und der Automechaniker Wastl glücklich miteinander liiert - bis Elke sich mehr und mehr auf dubiose Finanztransaktionen einlässt, die ihr Erfolg auf der ganzen Linie bringen. Als ihr Mann diesen windigen Geschäften Einhalt gebieten will, trennt sie sich von ihm. Und sie geht noch weiter - der Vorwurf, ihr Mann habe sie geschlagen, bringt Wastl für lange Zeit in eine psychiatrische Klinik.</desc>
-    <category lang="de">Drama</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108143000 +0000" stop="20261108160500 +0000"><title lang="de">Gefangen - Der Fall K</title>
-    <desc lang="de">Lange waren die Vermögensberaterin Elke und der Automechaniker Wastl glücklich miteinander liiert - bis Elke sich mehr und mehr auf dubiose Finanztransaktionen einlässt, die ihr Erfolg auf der ganzen Linie bringen. Als ihr Mann diesen windigen Geschäften Einhalt gebieten will, trennt sie sich von ihm. Und sie geht noch weiter - der Vorwurf, ihr Mann habe sie geschlagen, bringt Wastl für lange Zeit in eine psychiatrische Klinik.</desc>
-    <category lang="de">Drama</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108160200 +0000" stop="20261108173900 +0000"><title lang="de">Inspektor Jury</title>
-    <sub-title lang="de">Der Tote im Pub</sub-title>
-    <desc lang="de">Der idyllische Ort Long Piddleton im Südwesten Englands wird von einem bizarren Mord erschüttert. Scotland Yard schickt seinen besten Mann, Inspektor Richard Jury, begleitet von seinem stets erkälteten Assistenten Sergeant Wiggins. Kaum sind die beiden angekommen, geschieht ein zweiter Mord. Alles deutet darauf hin, dass die Opfer jemanden erpresst haben. Nur eine kleine Zahl der Bewohner kommt als Täter infrage. Gemeinsam mit dem Einwohner Melrose Plant soll der Fall gelöst werden.</desc>
-    <category lang="de">Thriller</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108160500 +0000" stop="20261108174000 +0000"><title lang="de">Inspektor Jury</title>
-    <sub-title lang="de">Der Tote im Pub</sub-title>
-    <desc lang="de">Der idyllische Ort Long Piddleton im Südwesten Englands wird von einem bizarren Mord erschüttert. Scotland Yard schickt seinen besten Mann, Inspektor Richard Jury, begleitet von seinem stets erkälteten Assistenten Sergeant Wiggins. Kaum sind die beiden angekommen, geschieht ein zweiter Mord. Alles deutet darauf hin, dass die Opfer jemanden erpresst haben. Nur eine kleine Zahl der Bewohner kommt als Täter infrage. Gemeinsam mit dem Einwohner Melrose Plant soll der Fall gelöst werden.</desc>
-    <category lang="de">Thriller</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108173900 +0000" stop="20261108191600 +0000"><title lang="de">Inspektor Jury</title>
-    <sub-title lang="de">Mord im Nebel</sub-title>
-    <desc lang="de">Im ländlichen Dorset sind ein Metzgerssohn und ein Chorknabe ermordet worden. Inspektor Jury sieht einen Zusammenhang zwischen den Morden und einem früheren grausamen Verbrechen. Ermordet wurde damals eine Mutter im Beisein ihrer Tochter, der fünfjährigen Tess, die ein Trauma erlitt und seitdem kein Wort mehr sprach. Sam Waterhouse, der Geliebte der Mutter, wurde als Mörder zu 20 Jahren Haft verurteilt und ist nun wieder auf freiem Fuß.</desc>
-    <category lang="de">Thriller</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108174000 +0000" stop="20261108191500 +0000"><title lang="de">Inspektor Jury</title>
-    <sub-title lang="de">Mord im Nebel</sub-title>
-    <desc lang="de">Im ländlichen Dorset sind ein Metzgerssohn und ein Chorknabe ermordet worden. Inspektor Jury sieht einen Zusammenhang zwischen den Morden und einem früheren grausamen Verbrechen. Ermordet wurde damals eine Mutter im Beisein ihrer Tochter, der fünfjährigen Tess, die ein Trauma erlitt und seitdem kein Wort mehr sprach. Sam Waterhouse, der Geliebte der Mutter, wurde als Mörder zu 20 Jahren Haft verurteilt und ist nun wieder auf freiem Fuß.</desc>
-    <category lang="de">Thriller</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108191500 +0000" stop="20261108201500 +0000"><title lang="de">Erlebnis Bühne</title>
-    <sub-title lang="de">80 Jahre Tonkünstler-Orchester Niederösterreich</sub-title>
-    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108191600 +0000" stop="20261108201600 +0000"><title lang="de">Erlebnis Bühne</title>
-    <sub-title lang="de">80 Jahre Tonkünstler-Orchester Niederösterreich</sub-title>
-    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108201500 +0000" stop="20261108213000 +0000"><title lang="de">Erlebnis Bühne</title>
-    <sub-title lang="de">Die Tonkünstler zu Gast am Domplatz St. Pölten</sub-title>
-    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108201600 +0000" stop="20261108213700 +0000"><title lang="de">Erlebnis Bühne</title>
-    <sub-title lang="de">Die Tonkünstler zu Gast am Domplatz St. Pölten</sub-title>
-    <desc lang="de">Opern, Theater und Konzerte stehen im Mittelpunkt, neben Künstlerportraits der Opernstars.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108213000 +0000" stop="20261108230500 +0000"><title lang="de">Elser - Er hätte die Welt verändert</title>
-    <desc lang="de">Am 8. November 1939, als Hitler bereits Millionen von Menschen auf seine Seite ziehen konnte, sträubt sich der Widerstandskämpfer Georg Elser und möchte die Welt verändern. Um Hitler zu stoppen und den schrecklichen Terror des NS-Regimes zu beenden, plant er ein Attentat. Eine Bombe im Münchner Bürgerbräukeller soll Adolf Hitler töten. Was Elser nicht einplanen konnte, ist, dass Hitler das Gebäude bereits eher verlässt. Daraufhin muss Elser fliehen und versuchen, sein Leben zu retten.</desc>
-    <category lang="de">Historical drama</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108213700 +0000" stop="20261108231200 +0000"><title lang="de">Elser - Er hätte die Welt verändert</title>
-    <desc lang="de">Am 8. November 1939, als Hitler bereits Millionen von Menschen auf seine Seite ziehen konnte, sträubt sich der Widerstandskämpfer Georg Elser und möchte die Welt verändern. Um Hitler zu stoppen und den schrecklichen Terror des NS-Regimes zu beenden, plant er ein Attentat. Eine Bombe im Münchner Bürgerbräukeller soll Adolf Hitler töten. Was Elser nicht einplanen konnte, ist, dass Hitler das Gebäude bereits eher verlässt. Daraufhin muss Elser fliehen und versuchen, sein Leben zu retten.</desc>
-    <category lang="de">Historical drama</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108230500 +0000" stop="20261108235500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Große Momente - Als Österreich die Welt bewegte</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108231200 +0000" stop="20261109000100 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Große Momente - Als Österreich die Welt bewegte</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261108235500 +0000" stop="20261109004500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Ungarische Revolution 1956 - Neue Heimat Österreich</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109000100 +0000" stop="20261109004800 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Ungarische Revolution 1956 - Neue Heimat Österreich</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109004800 +0000" stop="20261109013500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Baumeisterinnen der Republik - Benita Ferrero-Waldner</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109013500 +0000" stop="20261109022500 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Wie's wirklich war - Die Berichterstatter:innen der Republik</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109022500 +0000" stop="20261109031200 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Österreich erzählt - Zeitzeuginnen und Zeitzeugen berichten</sub-title>
-    <desc lang="de">Gezeigt werden Dokumentationen zu zeitgeschichtlichen Jubiläen, der Geschichte der Zweiten Republik, zu Personen der jüngeren österreichischen und europäischen Zeitgeschichte sowie zu den wechselvollen und dunklen Jahren von 1918 bis 1945.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109031200 +0000" stop="20261109035900 +0000"><title lang="de">zeit.geschichte</title>
-    <sub-title lang="de">Meine jüdische Familie</sub-title>
-    <desc lang="de">Die Sendung zeigt, was die österreichische Geschichte für einzelne Familien bedeuten kann. Jahrzehntelang ist in ihrer Familie geschwiegen worden. Es war ein Tabu, sich an die einschneidenden Jahre zwischen 1938 und 1945 zu erinnern.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109035900 +0000" stop="20261109044400 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Quer durch die Alpen</sub-title>
-    <desc lang="de">Die Sendung zeigt eindrucksvolle Bilder einer der großartigsten Landschaften der Welt: die Alpen. Graubünden ist der größte Kanton der Schweiz; durch beschauliche Dörfer und wilde Bergnatur hebt sich die an Österreich grenzende Region hervor.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109044400 +0000" stop="20261109053000 +0000"><title lang="de">Fernsehen wie damals - 16mm - Schätze aus dem Fernseharchiv</title>
-    <desc lang="de">Die Sendung zeigt Highlights aus 50 Jahren Fernsehgeschichte und dokumentiert so den gesellschaftlichen und sozialen Wandel der vergangenen Jahrzehnte. Ein spezieller Blick wird dabei auf den Alltag und die Kultur vergangener Zeiten geworfen.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109053000 +0000" stop="20261109060000 +0000"><title lang="de">KulturHeute</title>
-    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
-    <category lang="de">Art</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109060000 +0000" stop="20261109072500 +0000"><title lang="de">WETTER / INFO</title>
-    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
-    <category lang="de">Weather</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109072500 +0000" stop="20261109075500 +0000"><title lang="de">Dobar dan Hrvati</title>
-    <desc lang="de">Dieses Magazin präsentiert Neuigkeiten der kroatischen Volksgruppe im Burgenland auf Kroatisch.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109075500 +0000" stop="20261109083000 +0000"><title lang="de">Dober dan Koroska</title>
-    <desc lang="de">Dieses Wochenmagazin berichtet über aktuelle und relevante Themen für die Kärntner Slowenen.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109083000 +0000" stop="20261109120500 +0000"><title lang="de">ORF III aktuell</title>
-    <desc lang="de">Diese Sendung präsentiert Beiträge und Reden zu aktuellen Themen in Österreich und Europa.</desc>
-    <category lang="de">Talk</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109120500 +0000" stop="20261109131500 +0000"><title lang="de">DialogForum</title>
-    <sub-title lang="de">Africa Now!</sub-title>
-    <desc lang="de">In dieser Sendung werden öffentliche Fragen zur Medienqualität bei Podiumsdiskussionen debattiert. Dabei nehmen Vertreter der Wissenschaft, der Zivilgesellschaft sowie der Medien teil und auch das Publikum bringt seine Kritik ein.</desc>
-    <category lang="de">Politics</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109131500 +0000" stop="20261109141000 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Von der Steppe in die Alpen - Vögel in Österreich</sub-title>
-    <desc lang="de">Die Sendung zeigt die Graugänse im Burgenland, die im Februar mit dem Brutgeschäft beginnen. Bald kehren auch Kiebitze in den Seewinkel zurück. Erst wenn der Schnee in den Bergen Kärntens geschmolzen ist, beginnt die Balz der Alpenvögel.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109141000 +0000" stop="20261109150000 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Turmfalken - Jäger der Großstadt</sub-title>
-    <desc lang="de">Turmfalken sind die erfolgreichsten Greifvögel Europas und wohnen in Au-Gebieten und alpinen Regionen. Begleitet werden zwei Brutpaare: eines in einer gut geschützten Mauernische, eines am Fensterbrett desselben Innenstadthauses.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109150000 +0000" stop="20261109151000 +0000"><title lang="de">ORF III Aktuell am Nachmittag</title>
-    <desc lang="de">Im Fokus stehen Nachrichten und Analysen zu aktuellen Themen aus Österreich und der Welt.</desc>
-    <category lang="de">News</category>
-    <episode-num system="onscreen">S2026E46</episode-num>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109151000 +0000" stop="20261109160000 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Rund ums Karwendel</sub-title>
-    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109160000 +0000" stop="20261109165000 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Zwei Männer um Elke</sub-title>
-    <desc lang="de">Zwei Verehrer buhlen um die Gunst der attraktiven Hotelbesitzerin Elke. Der galante Franzose André scheint die besseren Karten zu haben. Denn Elke hat herausgefunden, dass der Architekt Peter bei den Umbauplänen des Schlosshotels ein falsches Spiel spielt. Im Hotel kommt es derweil zu einem ungewöhnlichen Zwischenfall. Eine Limousine fährt vor, deren Chauffeur ein Baby im Hotel abliefert. Der Fahrer erklärt, der Hausdiener Jossip sei der Vater.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109165000 +0000" stop="20261109174500 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Falsches Spiel mit Patrick</sub-title>
-    <desc lang="de">Die Hotelbesitzerin Elke entzieht sich dem Buhlen ihrer beiden Verehrer André und Peter, indem sie kurzerhand auf Geschäftsreise geht. Krista will derweil groß ins Showgeschäft einsteigen. Sie steckt viel Geld in die Organisation einer Konzert-Tournee des amerikanischen Popstars Patrick Riley. Doch dies erweist sich als riskante Investition. Denn seit der schmerzlichen Trennung von seiner Frau hat der exzentrische Musiker auch nicht mehr die rechte Lust zum Singen.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109174500 +0000" stop="20261109181800 +0000"><title lang="de">MERYN am Montag</title>
-    <desc lang="de">Gemeinsam mit einem Experten zum aktuellen Thema beantwortet Prof. Meryn Publikumsfragen. Volkskrankheiten wie Diabetes oder Rheuma werden ebenso behandelt, wie saisonale Krankheiten oder neueste Forschungsansätze in der Krebsmedizin.</desc>
-    <category lang="de">Health</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109181800 +0000" stop="20261109182500 +0000"><title lang="de">ORF III Aktuell am Abend</title>
-    <desc lang="de">Im Fokus stehen Nachrichten und Analysen zu aktuellen Themen aus Österreich und der Welt.</desc>
-    <category lang="de">News</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109182500 +0000" stop="20261109184000 +0000"><title lang="de">Nachrichten in einfacher Sprache</title>
-    <desc lang="de">Tagesaktuelle Meldungen werden leicht verständlich und auf mehr Zeilen aufgeteilt angeboten. Die Nachrichten sind dabei in kurzen Sätzen verfasst. Auf schwierige Wörter wird nach Möglichkeit verzichtet oder diese werden in einer Ergänzung erklärt.</desc>
-    <category lang="de">News</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109184000 +0000" stop="20261109191500 +0000"><title lang="de">KulturHeute</title>
-    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
-    <category lang="de">Art</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109191500 +0000" stop="20261109200500 +0000"><title>Der Miet-Check</title>
-    <category>Special</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109200500 +0000" stop="20261109210000 +0000"><title lang="de">Am Schauplatz</title>
-    <sub-title lang="de">Die teuerste Stadt Österreichs</sub-title>
-    <desc lang="de">Innsbruck ist nicht nur ein teures, sondern auch ein gefragtes Pflaster. Die große Nachfrage und das begrenzte Angebot an Mietwohnungen lassen die Mieten steigen, zum Leid der Mieter und Freude der Anleger. Beate Haselmayer besucht in Innsbruck heruntergekommene Mini-Wohnungen, luxuriöse Eigentumsdomizile und rentable Anlageobjekte. Sie zeigt, wer von den horrenden Mietpreisen profitiert und konfrontiert Politiker mit der Preisexplosion am Mietmarkt.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109210000 +0000" stop="20261109215500 +0000"><title lang="de">ORFIII Themenmontag</title>
-    <desc lang="de">Gezeigt werden Geschichten aus den Bereichen Chronik, Gesellschaftspolitik, Soziales und Kurioses.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109215500 +0000" stop="20261109224500 +0000"><title>Therapiegeschichten</title>
-    <sub-title>Wenn Worte verändern (2/8)</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109224500 +0000" stop="20261109233000 +0000"><title lang="de">Therapiegeschichten</title>
-    <sub-title lang="de">Wenn Worte verändern (1/8)</sub-title>
-    <desc lang="de">Tamara möchte weniger streng mit sich sein und ihre Grenzen kennenlernen. Daniel will lernen, öfter Nein zu sagen. Miriam und Thomas sprechen über Nähe, Eifersucht und persönliche Grenzen in ihrer Paarbeziehung, was ihre starke Verbundenheit zeigt.</desc>
-    <category lang="de">Health</category>
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261109233000 +0000" stop="20261110001500 +0000"><title>Der Miet-Check</title>
-    <category>Special</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110001500 +0000" stop="20261110011000 +0000"><title lang="de">Am Schauplatz</title>
-    <sub-title lang="de">Die teuerste Stadt Österreichs</sub-title>
-    <desc lang="de">Innsbruck ist nicht nur ein teures, sondern auch ein gefragtes Pflaster. Die große Nachfrage und das begrenzte Angebot an Mietwohnungen lassen die Mieten steigen, zum Leid der Mieter und Freude der Anleger. Beate Haselmayer besucht in Innsbruck heruntergekommene Mini-Wohnungen, luxuriöse Eigentumsdomizile und rentable Anlageobjekte. Sie zeigt, wer von den horrenden Mietpreisen profitiert und konfrontiert Politiker mit der Preisexplosion am Mietmarkt.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110011000 +0000" stop="20261110020000 +0000"><title lang="de">ORFIII Themenmontag</title>
-    <desc lang="de">Gezeigt werden Geschichten aus den Bereichen Chronik, Gesellschaftspolitik, Soziales und Kurioses.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110020000 +0000" stop="20261110024500 +0000"><title>SCHAU-FENSTER</title>
-    <sub-title>Museumsquartier Wien</sub-title>
-    <category>Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110024500 +0000" stop="20261110033500 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Von der Steppe in die Alpen - Vögel in Österreich</sub-title>
-    <desc lang="de">Die Sendung zeigt die Graugänse im Burgenland, die im Februar mit dem Brutgeschäft beginnen. Bald kehren auch Kiebitze in den Seewinkel zurück. Erst wenn der Schnee in den Bergen Kärntens geschmolzen ist, beginnt die Balz der Alpenvögel.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110033500 +0000" stop="20261110042500 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Turmfalken - Jäger der Großstadt</sub-title>
-    <desc lang="de">Turmfalken sind die erfolgreichsten Greifvögel Europas und wohnen in Au-Gebieten und alpinen Regionen. Begleitet werden zwei Brutpaare: eines in einer gut geschützten Mauernische, eines am Fensterbrett desselben Innenstadthauses.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110042500 +0000" stop="20261110053000 +0000"><title lang="de">Erbe Österreich</title>
-    <sub-title lang="de">Von Wien nach Jerusalem - Theodor Herzl und sein Buch Der Judenstaat</sub-title>
-    <desc lang="de">Die Weltpolitik im Nahen Osten hat mehr mit der Wiener Geschichte zu tun, als vielen bewusst ist. So stammte doch die Vision eines eigenen jüdischen Staates aus der Feder des Wiener Publizisten Theodor Herzl. Sein Buch "Der Judenstaat" schuf die ideellen Voraussetzungen für die spätere Gründung Israels. Zwar blieben Herzls eigene diplomatische Aktivitäten zu Lebzeiten ohne Erfolg, doch sein Werk wurde nach dem Zweiten Weltkrieg und dem Holocaust geschichtswirksam.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110053000 +0000" stop="20261110060000 +0000"><title lang="de">KulturHeute</title>
-    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
-    <category lang="de">Art</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110060000 +0000" stop="20261110063500 +0000"><title lang="de">WETTER / INFO</title>
-    <desc lang="de">Das Wetter und aktuelle Informationen auf ORF 3.</desc>
-    <category lang="de">Weather</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110063500 +0000" stop="20261110070000 +0000"><title lang="de">Adj'Isten magyarok</title>
-    <desc lang="de">Das Magazin für die Ungarn in Österreich.</desc>
-    <category lang="de">Variety</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110070000 +0000" stop="20261110073000 +0000"><title lang="de">WIR</title>
-    <sub-title lang="de">Das Volksgruppenmagazin</sub-title>
-    <desc lang="de">Unter anderem wird der Roma Aleksandar Nikolic porträtiert und es geht um 35 Jahre VHS der Ungarn. Weiters wird über die Wälder der Zukunft in der Slowakei berichtet und über die neue Saison im Werner Berg Museum in Slowenien.</desc>
-    <category lang="de">Entertainment</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110073000 +0000" stop="20261110083000 +0000"><title lang="de">DialogForum</title>
-    <sub-title lang="de">Africa Now!</sub-title>
-    <desc lang="de">In dieser Sendung werden öffentliche Fragen zur Medienqualität bei Podiumsdiskussionen debattiert. Dabei nehmen Vertreter der Wissenschaft, der Zivilgesellschaft sowie der Medien teil und auch das Publikum bringt seine Kritik ein.</desc>
-    <category lang="de">Politics</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110083000 +0000" stop="20261110120000 +0000"><title lang="de">ORF III aktuell</title>
-    <desc lang="de">Diese Sendung präsentiert Beiträge und Reden zu aktuellen Themen in Österreich und Europa.</desc>
-    <category lang="de">Talk</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110120000 +0000" stop="20261110125000 +0000"><title lang="de">Land der Berge</title>
-    <sub-title lang="de">Rund ums Karwendel</sub-title>
-    <desc lang="de">Die Sendung zeigt die atemberaubende Gipfelwelt des Karwendels sowie die Tiroler Silberstadt Schwaz. Schwaz war ein bedeutendes Silberabbaugebiet in Europa. Für Kaiser Maximilian war das Schwazer Silber eine wichtige Einnahmequelle.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110125000 +0000" stop="20261110132000 +0000"><title lang="de">Unser Österreich</title>
-    <sub-title lang="de">Vogelparadies Weidmoos - Neues Leben für eine Salzburger Torfwüste</sub-title>
-    <desc lang="de">Das Vogelparadies Weidmoos liegt nördlich der Stadt Salzburg. Das 140 Hektar große Gebiet zählt heute zu Österreichs spektakulärsten Naturschutzprojekten. Ornithologen haben dort mittlerweile bereits 150 Vogelarten dokumentiert.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110132000 +0000" stop="20261110141000 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Der Flug des Seeadlers</sub-title>
-    <desc lang="de">Victors Leben beginnt so wie das eines jeden Seeadlerkükens. Er nimmt durch seine Eischale seine Eltern wahr, die unermüdlich Wache über ihn und seinen Bruder halten. Dann kommt der große Tag - seine Schale passt ihm nicht mehr, die Nährstoffe werden knapp, und so beginnt er sich unter Aufwand all seiner Kräfte zu befreien. Er pickt ein Loch in die Eischale und befreit sich. Victor ist erschöpft. Das Leben beginnt also mit Erschöpfung.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110141000 +0000" stop="20261110150000 +0000"><title lang="de">Expeditionen</title>
-    <sub-title lang="de">Der Flug der Eule</sub-title>
-    <desc lang="de">Die Geschichte eines Schleiereulenweibchens, das durch widrige Umstände seinen Lebensraum verliert und sich einen neuen Platz sucht, bildet die Rahmenhandlung der Dokumentation. Auf der Suche nach einem Zuhause trifft es viele andere Eulenarten.</desc>
-    <category lang="de">Documentary</category>
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110150000 +0000" stop="20261110151000 +0000"><title lang="de">ORF III Aktuell am Nachmittag</title>
-    <desc lang="de">Im Fokus stehen Nachrichten und Analysen zu aktuellen Themen aus Österreich und der Welt.</desc>
-    <category lang="de">News</category>
-    <episode-num system="onscreen">S2026E47</episode-num>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110151000 +0000" stop="20261110154000 +0000"><title lang="de">Unser Österreich</title>
-    <sub-title lang="de">Der Wolf kommt zurück</sub-title>
-    <desc lang="de">Wölfe kehren in unsere Wälder zurück. Während sie bei Naturschutzorganisationen höchst willkommen sind, ist die Landwirtschaft alles andere als begeistert. Die Wölfe reißen so viele Schafe, dass manche Almen nicht mehr bewirtschaftet werden können.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110154000 +0000" stop="20261110163000 +0000"><title lang="de">Heimat Österreich</title>
-    <sub-title lang="de">Die Sonne über dem Gurktal</sub-title>
-    <desc lang="de">Die Sendung zeigt das Gurktal, indem sich seit jeher eine ausgedehnte Almwirtschaft erhalten hat. Was einst den Broterwerb der bäuerlichen Bevölkerung getragen hat, ist heute eine Landschaftspflege mit überschaubarem Ertrag.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110163000 +0000" stop="20261110172500 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Eine goldene Nase</sub-title>
-    <desc lang="de">Der Generaldirektor der Global-Reisen, Dr. Kiefer, hat seinen Besuch angekündigt. Gemeinsam mit Andre will er einen Vertrag für die kommende Hauptsaison aushandeln. Kiefer weiß, dass für seinen Aufenthalt fieberhafte Vorbereitungen im Gange sind. Da tauscht er mit seinem Chauffeur die Rollen, um das Schlosshotel unerkannt zu testen.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E10</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110172500 +0000" stop="20261110181800 +0000"><title lang="de">Ein Schloss am Wörthersee</title>
-    <sub-title lang="de">Anjas Baby</sub-title>
-    <desc lang="de">Anja bringt einen Buben zur Welt. Thomas Kramer besucht sie in der Klinik und spielt noch immer den Verliebten. Doch als er ihr Kind zum ersten Mal sieht, zeigt er sein wahres Gesicht, denn das Kleine ist von dunkler Hautfarbe.</desc>
-    <category lang="de">Drama</category>
-    <episode-num system="onscreen">S03E11</episode-num>
-    <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110181800 +0000" stop="20261110182500 +0000"><title lang="de">ORF III Aktuell am Abend</title>
-    <desc lang="de">Im Fokus stehen Nachrichten und Analysen zu aktuellen Themen aus Österreich und der Welt.</desc>
-    <category lang="de">News</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110182500 +0000" stop="20261110184000 +0000"><title lang="de">Nachrichten in einfacher Sprache</title>
-    <desc lang="de">Tagesaktuelle Meldungen werden leicht verständlich und auf mehr Zeilen aufgeteilt angeboten. Die Nachrichten sind dabei in kurzen Sätzen verfasst. Auf schwierige Wörter wird nach Möglichkeit verzichtet oder diese werden in einer Ergänzung erklärt.</desc>
-    <category lang="de">News</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110184000 +0000" stop="20261110191500 +0000"><title lang="de">KulturHeute</title>
-    <desc lang="de">Neben Beiträgen und Portraits nationaler Kunst- und Kulturprojekte stehen immer wieder die wichtigsten Kulturereignisse in den Bundesländern im Mittelpunkt. Mehrmals in der Woche bittet das Team einen Live-Gast ins Studio.</desc>
-    <category lang="de">Art</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110191500 +0000" stop="20261110200500 +0000"><title lang="de">Erbe Österreich</title>
-    <sub-title lang="de">Eine Stadt wird satt - die Verpflegung Wiens</sub-title>
-    <desc lang="de">Eine Großstadt wie Wien mit Essen zu versorgen, war früher eine tägliche logistische Meisterleistung. Brot etwa war in der Zwei-Millionen-Metropole immer wieder Mangelware, weil die Bäcker sich durchwegs auf die lukrativeren Süßwaren verlegt hatten.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110200500 +0000" stop="20261110205500 +0000"><title lang="de">Erbe Österreich</title>
-    <sub-title lang="de">Kochen für den Kaiser - die Hofburg-Küche</sub-title>
-    <desc lang="de">Wie sahen die Essgewohnheiten der Habsburger aus der Perspektive des Küchenpersonals aus? Adolf Rußwurm war in Schönbrunn für Diäten des Kaisers zuständig und Karl Soukup wurde mit der Nachbildung des Eiffelturms aus Huhn- und Wildhaschee berühmt.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110205500 +0000" stop="20261110214500 +0000"><title lang="de">Erbe Österreich</title>
-    <sub-title lang="de">Voll elektrisch - als der Strom das Land eroberte</sub-title>
-    <desc lang="de">Diese Dokumentation beschäftigt sich mit den Anfängen der Elektrizität in Österreich. Schon auf der Wiener Weltausstellung 1873 erregten einige elektrische Exponate Aufsehen. Thronfolger Franz Ferdinand interessierte sich später sehr für die Technik.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110214500 +0000" stop="20261110223500 +0000"><title lang="de">Erbe Österreich</title>
-    <sub-title lang="de">Der Sagenjäger - Max Müller</sub-title>
-    <desc lang="de">Es werden zwei Sagen untersucht: Die der Edelinde, die nach ihrem Tod wiederbelebt wurde und ein Kind gebar, sowie die Kärntner Sage vom Riesen vom Mirnock, dessen gebrochenes Herz die Landschaft prägte. Fachleute suchen nach Erklärungen.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110223500 +0000" stop="20261110232000 +0000"><title lang="de">Erbe Österreich</title>
-    <sub-title lang="de">Eine Stadt wird satt - die Verpflegung Wiens</sub-title>
-    <desc lang="de">Eine Großstadt wie Wien mit Essen zu versorgen, war früher eine tägliche logistische Meisterleistung. Brot etwa war in der Zwei-Millionen-Metropole immer wieder Mangelware, weil die Bäcker sich durchwegs auf die lukrativeren Süßwaren verlegt hatten.</desc>
-    <category lang="de">Documentary</category>
-  </programme><programme channel="ORFIII.at (m3u4u)" start="20261110232000 +0000" stop="20261111000500 +0000"><title lang="de">Erbe Österreich</title>
-    <sub-title lang="de">Kochen für den Kaiser - die Hofburg-Küche</sub-title>
-    <desc lang="de">Wie sahen die Essgewohnheiten der Habsburger aus der Perspektive des Küchenpersonals aus? Adolf Rußwurm war in Schönbrunn für Diäten des Kaisers zuständig und Karl Soukup wurde mit der Nachbildung des Eiffelturms aus Huhn- und Wildhaschee berühmt.</desc>
-    <category lang="de">Documentary</category>
   </programme><programme channel="ORFSPPL.at (m3u4u)" start="20261106223000 +0000" stop="20261107003000 +0000"><title lang="de">Eishockey Highlights</title>
     <sub-title lang="de">Deutschland Cup: Deutschland - Österreich</sub-title>
     <desc lang="de">Länderspiel Herren Deutschland Cup - Highlights aus Düsseldorf.</desc>
@@ -47756,27 +47758,7 @@
     <category lang="de">News</category>
   </programme><channel id="6866525c8a412a0e95c438b4"><display-name>Dyn Sport Mix</display-name>
     <icon src="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" />
-  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261108082200 +0000" stop="20261108102600 +0000"><title>Hockey 1. Bundesliga Herren</title>
-    <live />
-    <episode-num system="original-air-date">20261108082200 +0000</episode-num>
-    <desc>Crefelder HTC gegen Der Club an der Alster live in der 1. Feldhockey Bundesliga Herren 26/27. Die Partie des 10. Spieltags in der 1. Feldhockey Bundesliga Herren 26/27 findet am Samstag, den 10. Oktober 2026 um 13:00 Uhr statt.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bcc8/tile_1755713557193.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ff99889a990edd7bcc8</series-id>
-    <sub-title>Crefelder HTC - Der Club an der Alster</sub-title>
-    <category>Series</category>
-    <category>Sports</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261108102600 +0000" stop="20261108122800 +0000"><title>Tischtennis</title>
-    <live />
-    <episode-num system="original-air-date">20261108102600 +0000</episode-num>
-    <desc>Die Tischtennis Konferenz zum Achtelfinale Session 2 beim Leapmotor Grand Opening mit Timo Boll und Dennis Heinemann live bei Dyn.</desc>
-    <icon src="https://images.pluto.tv/series/68a610029889a990edd7ce4a/tile_1755713580712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a610029889a990edd7ce4a</series-id>
-    <sub-title>Konferenz - Leapmotor Grand Opening - Achtelfinale Session 2</sub-title>
-    <category>Series</category>
-    <category>Sports</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261108122800 +0000" stop="20261108132800 +0000"><title>Dyn Highlights All Sports</title>
+  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261108122800 +0000" stop="20261108132800 +0000"><title>Dyn Highlights All Sports</title>
     <live />
     <episode-num system="original-air-date">20261108122800 +0000</episode-num>
     <desc>Dyn Highlights All Sports.</desc>
@@ -47854,6 +47836,26 @@
     <date>19700101</date>
     <series-id system="pluto">68e6303333c97983912da349</series-id>
     <sub-title>SVG Lüneburg - BERLIN RECYCLING Volleys</sub-title>
+    <category>Series</category>
+    <category>Sports</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261109034300 +0000" stop="20261109044300 +0000"><title>Dyn Highlights All Sports</title>
+    <live />
+    <episode-num system="original-air-date">20261109034300 +0000</episode-num>
+    <desc>Dyn Highlights All Sports.</desc>
+    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
+    <sub-title>Handball</sub-title>
+    <category>Series</category>
+    <category>Sports</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261109044300 +0000" stop="20261109071600 +0000"><title>Handball Bundesliga</title>
+    <live />
+    <episode-num system="original-air-date">20261109044300 +0000</episode-num>
+    <desc>From PSD Bank Nürnberg ARENA in Nuremberg, Bavaria, Germany.</desc>
+    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bd5d/tile_1755713588336.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a60ff99889a990edd7bd5d</series-id>
+    <sub-title>HC Erlangen - MT Melsungen</sub-title>
     <category>Series</category>
     <category>Sports</category>
   </programme><channel id="NFLNetwork.us12"><display-name>NFL NETWORK HD ◉</display-name>
