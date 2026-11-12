@@ -49950,17 +49950,7 @@
     <category lang="de">News</category>
   </programme><channel id="6866525c8a412a0e95c438b4"><display-name>Dyn Sport Mix</display-name>
     <icon src="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" />
-  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261112020100 +0000" stop="20261112042900 +0000"><title>BBL Pokal</title>
-    <live />
-    <episode-num system="original-air-date">20261112020100 +0000</episode-num>
-    <desc>MLP Academics Heidelberg gegen EWE Baskets Oldenburg heute live im Netto BBL Pokal. Die Partie der 1. Pokalrunde findet am Samstag, den 13. September um 18:00 Uhr statt. Die Übertragung beginnt um 17:45 Uhr. Kommentar: Chris Schmidt.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ffb9889a990edd7c0d9/tile_1772104471160.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ffb9889a990edd7c0d9</series-id>
-    <sub-title>Heidelberg - EWE Baskets Oldenburg</sub-title>
-    <category>Series</category>
-    <category>Sports</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261112042900 +0000" stop="20261112071000 +0000"><title>Volleyball Bundesliga Frauen</title>
+  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261112042900 +0000" stop="20261112071000 +0000"><title>Volleyball Bundesliga Frauen</title>
     <live />
     <episode-num system="original-air-date">20261112042900 +0000</episode-num>
     <desc>Das Finale 3 der Playoffs in der VBL findet am Mittwoch, 22. April 2026 um 19:00 Uhr statt. Das Spiel wird in der Suhler Vogtland Arena in Suhl ausgetragen. Die Übertragung beginnt um 18:30 Uhr.</desc>
@@ -49968,8 +49958,8 @@
     <date>19700101</date>
     <series-id system="pluto">68aee704d2b4de67e6c650f9</series-id>
     <sub-title>VfB Suhl LOTTO Thüringen - Dresdner SC</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261112071000 +0000" stop="20261112081000 +0000"><title>Dyn Highlights All Sports</title>
     <live />
     <episode-num system="original-air-date">20261112071000 +0000</episode-num>
@@ -49978,8 +49968,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
     <sub-title>Handball</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261112081000 +0000" stop="20261112103700 +0000"><title>Handball Bundesliga</title>
     <live />
     <episode-num system="original-air-date">20261112081000 +0000</episode-num>
@@ -49988,8 +49978,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bd5d</series-id>
     <sub-title>MT Melsungen - SC Magdeburg</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261112103700 +0000" stop="20261112131000 +0000"><title>Basketball: easyCredit BBL</title>
     <live />
     <episode-num system="original-air-date">20261112103700 +0000</episode-num>
@@ -49998,8 +49988,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ffa9889a990edd7bf0e</series-id>
     <sub-title>Fitness First Würzburg Baskets - FC Bayern München</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261112131000 +0000" stop="20261112141000 +0000"><title>Dyn Highlights All Sports</title>
     <live />
     <episode-num system="original-air-date">20261112131000 +0000</episode-num>
@@ -50008,8 +49998,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
     <sub-title>Handball</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261112141000 +0000" stop="20261112162300 +0000"><title>Handball Bundesliga</title>
     <live />
     <episode-num system="original-air-date">20261112141000 +0000</episode-num>
@@ -50018,8 +50008,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bd5d</series-id>
     <sub-title>TBV Lemgo Lippe - SG Flensburg-Handewitt</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261112162300 +0000" stop="20261112193500 +0000"><title>TTBL: Tischtennis Bundesliga</title>
     <live />
     <episode-num system="original-air-date">20261112162300 +0000</episode-num>
@@ -50028,8 +50018,8 @@
     <date>19700101</date>
     <series-id system="pluto">68da7cefd70c07ace87bb7ba</series-id>
     <sub-title>1. FC Saarbrücken-TT den SV Werder Bremen</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261112193500 +0000" stop="20261112203500 +0000"><title>Dyn Highlights All Sports</title>
     <live />
     <episode-num system="original-air-date">20261112193500 +0000</episode-num>
@@ -50038,8 +50028,18 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
     <sub-title>Handball</sub-title>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261112203500 +0000" stop="20261112225600 +0000"><title>Volleyball 1. Bundesliga Männer</title>
+    <live />
+    <episode-num system="original-air-date">20261112203500 +0000</episode-num>
+    <desc>SVG Lüneburg gegen SWD powervolleys Düren heute live in der 1. Volleyball-Bundesliga Männer. Das 1. Halbfinale in den Playoffs der VBL findet am Sonntag, 12. April 2026 um 17:00 Uhr statt. Die Übertragung beginnt um 16:30 Uhr.</desc>
+    <icon src="https://images.pluto.tv/series/68e6303333c97983912da349/tile_1762256063628.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68e6303333c97983912da349</series-id>
+    <sub-title>SVG Lüneburg - SWD Powervolleys Düren</sub-title>
+    <category>Sports</category>
+    <category>Series</category>
   </programme><channel id="NFLNetwork.us12"><display-name>NFL NETWORK HD ◉</display-name>
     <display-name>US - NFL NETWORK HD ◉</display-name>
     <display-name>NFL NETWORK</display-name>
