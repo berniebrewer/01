@@ -166,7 +166,7 @@
       "format": "gz",
       "prefix": "",
       "channels": [
-        "xxx111692",
+        "Sat.1.Gold.Österreich.be",
 		"Hitradio.OE3.be",
 		"XPLORE.be",
 		"SWR.Fernsehen.BW.HD.be",
@@ -194,6 +194,9 @@
         "111692",
 		"Lilo.TV.ch",
 		"Bergblick.ch",
+		"ORF.1.ch",
+		"ORF.2.ch",
+		"National.Geographic.D.ch",
 		"Just.fishing.ch",
 		"Sky.Nature.ch",
 		"Servus.TV.ch"
