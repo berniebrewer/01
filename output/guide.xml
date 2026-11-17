@@ -62105,6 +62105,10 @@
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/584bfb81-ff68-2300-7048-d8d59d805f5e_W90.png" />
     <url>http://www.tv.blue.ch</url>
     <display-name lang="de">Bergblick</display-name>
+  </channel><channel id="SRF.1.ch"><icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/74f9021a-675e-4cfe-b46e-fcaa495a0676_W90.png" />
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/74f9021a-675e-4cfe-b46e-fcaa495a0676_W90.png" />
+    <url>http://www.tv.blue.ch</url>
+    <display-name lang="de">SRF 1</display-name>
   </channel><channel id="National.Geographic.D.ch"><icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/fec0b19a-2d35-0300-7048-2ffbe0b6f99a_W90.png" />
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/fec0b19a-2d35-0300-7048-2ffbe0b6f99a_W90.png" />
     <url>http://www.tv.blue.ch</url>
@@ -62133,7 +62137,2227 @@
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/7e0384dd-cd58-48bf-a3b1-192b4740923e_W90.png" />
     <url>http://www.tv.blue.ch</url>
     <display-name lang="de">Servus TV</display-name>
-  </channel><programme channel="ORF.1.ch" start="20261116035700 +0000" stop="20261116043800 +0000"><title lang="de">New Amsterdam</title>
+  </channel><channel id="SRF.zwei.ch"><icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/d5156e2e-bb98-423e-a46e-589ac75dac29_W90.png" />
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/channel/d5156e2e-bb98-423e-a46e-589ac75dac29_W90.png" />
+    <url>http://www.tv.blue.ch</url>
+    <display-name lang="de">SRF zwei</display-name>
+  </channel><programme channel="SRF.1.ch" start="20261116034000 +0000" stop="20261116042000 +0000"><title lang="de">Samschtig-Jass</title>
+    <sub-title lang="de">Ursus und Nadeschkin im Jassfieber</sub-title>
+    <desc lang="de">Ursus und Nadeschkin haben das Jassen für sich entdeckt und wollen nun auch am berühmtesten Jasstisch der Schweiz beweisen, was in ihnen steckt. Ob am Schluss sogar einer der beiden den Jasspokal ergattert?</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34429714eh8aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116042000 +0000" stop="20261116045000 +0000"><title lang="de">SRF bi de Lüt - Landfrauenküche</title>
+    <sub-title lang="de">Sonja Rutz aus Küssnacht am Rigi SZ</sub-title>
+    <desc lang="de">Was hat ein Wetterschmöcker mit einem Rindsfilet zu tun? Auf der Seebodenalp oberhalb des Vierwaldstättersees überrascht Sonja Rutz die Landfrauen mit einem Menü voller ungewöhnlicher Ideen und einem geheimnisvollen Aroma.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep032176010140x958_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116045000 +0000" stop="20261116052500 +0000"><title lang="de">Einstein</title>
+    <sub-title lang="de">Die Rekordhitze ist erst der Anfang. Was kommt jetzt?</sub-title>
+    <desc lang="de">Das Wissensmagazin von Schweizer Radio und Fernsehen berichtet wöchentlich über aktuelle und hintergründige Themen aus allen Wissensbereichen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34564353eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116052500 +0000" stop="20261116070000 +0000"><title lang="de">News-Schlagzeilen</title>
+    <desc lang="de">Diese Sendung bietet Berichte zu aktuellen Themen aus Bereichen wie Wirtschaft und Politik.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16995706bdh10ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116070000 +0000" stop="20261116081000 +0000"><title lang="de">Wetterkanal</title>
+    <desc lang="de">Diese Sendung zeigt aktuelle Wetterbilder aus der Schweiz und präsentiert Wetterprognosen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11181770bdh10ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116081000 +0000" stop="20261116081500 +0000"><title lang="de">Nussbaumbandi in Gebärdensprache</title>
+    <sub-title lang="de">S Summergwitter</sub-title>
+    <desc lang="de">Wir erzählen kurze, liebevolle Geschichten rund um die drei Hauptfiguren Yoko, Vikram und Silóe.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34457192eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116081500 +0000" stop="20261116084500 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Ålandinseln, Finnland</sub-title>
+    <desc lang="de">Kaum einer kennt sie, dabei liegen sie vor unserer Haustür - inmitten der Ostsee. Mit ihren etwa 6.700 Inseln sind die Ålandinseln eine der grössten Inselgruppen der Welt, aber nur jede hundertste Insel ist bewohnt.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32207537eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261116084500 +0000" stop="20261116102500 +0000"><title lang="de">Rosamunde Pilcher</title>
+    <sub-title lang="de">Ein Doktor &amp; drei Frauen</sub-title>
+    <desc lang="de">Der einzige Arzt verabschiedet sich vom Örtchen St. Mark. Obwohl er jahrelang vergeblich versucht hatte, einen Nachfolger zu finden, gibt es nur einen Bewerber: Dr. Nael Rayan. Ausgerechnet er ist die grosse, unglückliche Liebe der Bürgermeisterin.</desc>
+    <credits>
+      <actor role="Helen Thomson">Anja Knauer</actor>
+      <actor role="Nael Rayan">Xaver Hutter</actor>
+      <actor role="Lord Hurrleton">Harald Schmidt</actor>
+      <actor role="Edward Donalds">Anian Zollner</actor>
+      <actor role="Donna Trafts">Nele Kiper</actor>
+      <actor role="Jasemin Rayan">Clelia Sarto</actor>
+      <actor role="Arnold">Alexander-Klaus Stecher</actor>
+      <actor role="Doris">Gitta Schweighöfer</actor>
+      <director>Stefan Bartmann</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12759328eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <country lang="de">AT</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261116102500 +0000" stop="20261116112500 +0000"><title lang="de">SRF DOK</title>
+    <sub-title lang="de">Johatsu - Die sich in Luft auflösen</sub-title>
+    <desc lang="de">Jedes Jahr verschwinden in Japan Tausende von Menschen spurlos. Bekannt als Johatsu, lassen sie ihr Leben aus verschiedenen Gründen hinter sich: eine schwierige Beziehung, wachsende Schulden oder Drohungen der Mafia.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34440383eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116112500 +0000" stop="20261116114500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Ravioli - Tag 5</sub-title>
+    <desc lang="de">Zum letzten Mal in dieser Mini Chuchi, dini Chuchi-Woche gibt es ein Menü mit Ravioli. Jens aus Oberramsern SO powert sich gerne beim Joggen in der Natur aus und setzt sich dabei gerne sportliche Ziele.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116114500 +0000" stop="20261116115000 +0000"><title lang="de">Tagesschau kompakt - Mittagsausgabe</title>
+    <desc lang="de">Es wird über die wichtigsten Themen aus Politik, Wirtschaft und Kultur am Mittag berichtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32581704bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116115000 +0000" stop="20261116120500 +0000"><title lang="de">Meteo - Mittagsausgabe</title>
+    <desc lang="de">In der Sendung gibt es umfassende Informationen zur aktuellen Wetterlage sowie Prognosen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005178bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116120500 +0000" stop="20261116124000 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Ålandinseln, Finnland</sub-title>
+    <desc lang="de">Kaum einer kennt sie, dabei liegen sie vor unserer Haustür - inmitten der Ostsee. Mit ihren etwa 6.700 Inseln sind die Ålandinseln eine der grössten Inselgruppen der Welt, aber nur jede hundertste Insel ist bewohnt.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32207537eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261116124000 +0000" stop="20261116133000 +0000"><title lang="de">Jetzt oder nie - Lebe deinen Traum</title>
+    <sub-title lang="de">Abenteurerin Thesi Zwyssig</sub-title>
+    <desc lang="de">Die Protagonistinnen und Protagonisten lassen Revue passieren, wie sie ihren Traum verwirklicht haben. Den Start macht die Extremsportlerin Thesi Zwyssig. Nach ihrem Abenteuer im Himalaya wartet die nächste Herausforderung in Sibirien.</desc>
+    <credits>
+      <director>Roger Ammann</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep030447740005x675_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116133000 +0000" stop="20261116142000 +0000"><title lang="de">Jetzt oder nie - Lebe deinen Traum</title>
+    <sub-title lang="de">Spezial: Das Wiedersehen - Liebe im Alter mit Willi Baldi Wehrli</sub-title>
+    <desc lang="de">In drei Folgen lassen die Protagonisten Revue passieren, wie sie ihren Traum verwirklicht haben und was sich in ihrem Leben verändert hat. Bei Willi Baldi Wehrli, 76, geht es um das Suchen und Finden der Liebe im Alter.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep030447740006x189_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116142000 +0000" stop="20261116145000 +0000"><title lang="de">Legendäre Badehäuser</title>
+    <sub-title lang="de">Kilic Ali Pasa Hamami</sub-title>
+    <desc lang="de">In Istanbuls Hafenviertel lässt sich in einem Hamam in die orientalische Badekultur eintauchen. Den Hamam Kilic Ali Pasa hat Sinan, der bedeutendste osmanische Architekt aller Zeiten, erbaut. Die traditionelle Badekultur besteht dort noch immer.</desc>
+    <credits>
+      <director>Anke Hillmann</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19023365eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261116145000 +0000" stop="20261116154000 +0000"><title lang="de">In aller Freundschaft</title>
+    <sub-title lang="de">Keine Zeit für Träume</sub-title>
+    <desc lang="de">Nachdem Sarah Marquardt beim Solaranlagenkauf auf eine Betrügerin hereingefallen ist, wartet die nächste Überraschung auf sie. Magdalena Herold erscheint bei ihr, um sich einen Überblick über Steuern und Zahlungen der Sachsenklinik zu verschaffen.</desc>
+    <credits>
+      <actor role="Dr. Roland Heilmann">Thomas Rühmann</actor>
+      <actor role="Dr. Kathrin Globisch">Andrea Kathrin Loewig</actor>
+      <actor role="Ariana Messerschmidt">Linda Berthold</actor>
+      <actor role="Magdalena Herold">Franziska Arndt</actor>
+      <actor role="Jasmin Hatem">Leslie-Vanessa Lill</actor>
+      <actor role="Agathe Riemer">Aline Hochscheid</actor>
+      <actor role="Martin Stein">Bernhard Bettermann</actor>
+      <actor role="Maria Weber">Annett Renneberg</actor>
+      <actor role="Kai Hoffmann">Julian Weigend</actor>
+      <actor role="Lilly Phan">Mai Duong Kieu</actor>
+      <director>Mathias Luther</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24497355eh8aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S26 E5</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261116154000 +0000" stop="20261116163000 +0000"><title lang="de">In aller Freundschaft</title>
+    <sub-title lang="de">Menschen ändern sich</sub-title>
+    <desc lang="de">Georg Feldhusen, gerade auf Drogenentzug, wird nach einem Treppensturz in die Sachsenklinik eingeliefert. Als seine erwachsene Tochter Emily zu ihm kommt, fürchtet sie zunächst, ihr Vater sei doch wieder rückfällig geworden.</desc>
+    <credits>
+      <actor role="Dr. Roland Heilmann">Thomas Rühmann</actor>
+      <actor role="Dr. Kathrin Globisch">Andrea Kathrin Loewig</actor>
+      <director>Jürgen Brauer</director>
+      <director>Mathias Luther</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24518665eh8aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S26 E6</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261116163000 +0000" stop="20261116164000 +0000"><title lang="de">Guetnachtgschichtli</title>
+    <sub-title lang="de">Nussbaumbandi - Drache!</sub-title>
+    <desc lang="de">Verschiedene Kinderserien mit spannenden Charakteren dienen als Gute-Nacht-Geschichten. Der kleine Pingu, Mascha und ihr Bär oder der Hase Flipper erleben kurze Geschichten über Freundschaft, Abenteuer und die Facetten des Lebens.</desc>
+    <credits>
+      <director>Gabriela Kasperski</director>
+      <director>Marek Beles</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34457218eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116164000 +0000" stop="20261116170000 +0000"><title lang="de">Telesguard</title>
+    <desc lang="de">Von Montag bis Freitag wird über das aktuelle Geschehen in der Schweiz und in Graubünden sowie über weitere relevante Themen berichtet. Auf Rätoromanisch wird gezeigt, was Graubünden und die rätoromanische Schweiz bewegt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182612bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116170000 +0000" stop="20261116170500 +0000"><title lang="de">Tagesschau kompakt - Vorabendausgabe</title>
+    <desc lang="de">Es wird über die wichtigsten Themen aus Politik, Wirtschaft und Kultur am Vorabend berichtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32581726bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116170500 +0000" stop="20261116171000 +0000"><title lang="de">Meteo - Vorabendausgabe</title>
+    <desc lang="de">Es wird hier informiert über die aktuellen Wetteraussichten für die gesamte Schweiz.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005713bdh10ae_Backdrop_W660.webp" />
+  </programme><programme channel="SRF.1.ch" start="20261116171000 +0000" stop="20261116172500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 1</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116172500 +0000" stop="20261116180000 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Aargau, Schweiz</sub-title>
+    <desc lang="de">Das "Rüebli", wie die Karotte in der Schweiz heisst, hat im Kanton Aargau einen besonderen Stellenwert. Die Region im Nordwesten trägt auch den Beinamen Rüebliland. In der Küche ist das Wurzelgemüse ein wahrer Alleskönner.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32832682eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261116180000 +0000" stop="20261116182500 +0000"><title lang="de">Schweiz aktuell</title>
+    <desc lang="de">Die wichtigsten kantonalen, regionalen und kommunalen Themen des Tages werden ausführlich dargestellt und mit Hintergrundberichten vervollständigt. Abgerundet wird die Sendung durch Interviews mit Politikern und anderen belangvollen Persönlichkeiten.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182578bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116182500 +0000" stop="20261116183000 +0000"><title lang="de">SRF Börse</title>
+    <desc lang="de">Alle aktuellen Entwicklungen und wichtigsten Ereignisse der Schweizer Börse werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182347bdh10ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116183000 +0000" stop="20261116185500 +0000"><title lang="de">Tagesschau - Hauptausgabe</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages aus der Schweiz und der Welt werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18925663bdh10af_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116185500 +0000" stop="20261116191000 +0000"><title lang="de">Meteo - Abendausgabe</title>
+    <desc lang="de">Es werden aktuelle Prognosen und Berichte über das Wetter in der Schweiz präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182414bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116191000 +0000" stop="20261116201000 +0000"><title lang="de">1 gegen 100</title>
+    <sub-title lang="de">Moana aus Amriswil</sub-title>
+    <desc lang="de">In dieser Sendung tritt ein Kandidat gegen 100 Gegner bei einem schwierigen Quiz an.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11180977bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116201000 +0000" stop="20261116205000 +0000"><title lang="de">Puls</title>
+    <sub-title lang="de">Reflux - Was tun, wenn saures Aufstossen zum Dauerthema wird?</sub-title>
+    <desc lang="de">In der Sendung es geht es um die Frage, was man selbst tun kann, um seine Gesundheit zu erhalten oder wiederherzustellen. Präsentiert werden Tipps und Informationen zu Trends, Neuigkeiten und Überraschendem aus Diagnose, Prävention und Therapie.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep020322530459x637_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116205000 +0000" stop="20261116211500 +0000"><title lang="de">10 vor 10</title>
+    <desc lang="de">Das Tagesgeschehen mit den aktuellsten und brisantesten Themen aus der Schweiz wird vorgestellt. In Reportagen, Porträts und Live-Gesprächen werden die Hintergründe von Schlagzeilen sowie das Geschehen aus dem In- und Ausland erläutert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10905661bdh8ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116211500 +0000" stop="20261116212500 +0000"><title lang="de">Meteo - Spätausgabe</title>
+    <desc lang="de">In dieser Spätausgabe werden die Wetteraussichten für die gesamte Schweiz vorgestellt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005730bdh10ad_Backdrop_W660.webp" />
+  </programme><programme channel="SRF.1.ch" start="20261116212500 +0000" stop="20261116220500 +0000"><title lang="de">ECO Talk</title>
+    <sub-title lang="de">Mobiliar-Versicherung: Als Genossenschaft im Spannungsfeld des Marktes</sub-title>
+    <desc lang="de">Verschiedene Führungspersönlichkeiten der Wirtschaft stehen im Mittelpunkt. Sie werden befragt, wie sie in Krisen reagieren, wann sie Entscheide umsetzen und wie sie zwischen unternehmerischem Vorteil und gesellschaftlicher Verantwortung abwägen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11776995bdh8ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116220500 +0000" stop="20261116231000 +0000"><title lang="de">Sternstunde Philosophie</title>
+    <sub-title lang="de">Zimmer 42 mit Fritz Espenlaub</sub-title>
+    <desc lang="de">Wer ist wofür verantwortlich? Worin besteht die menschliche Freiheit? Was bestimmt unseren Lebenssinn? Zu Gast sind Persönlichkeiten aus den unterschiedlichsten Fachbereichen, die zum Denken anregen und unser Zeitgeschehen reflektieren.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10903697bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116231000 +0000" stop="20261116234500 +0000"><title lang="de">True Crime Schweiz</title>
+    <sub-title lang="de">Amok in Biel - Rentner K. schiesst auf Polizei und taucht unter</sub-title>
+    <desc lang="de">Echte Kriminalfälle und Verbrechen aus der Schweiz werden näher beleuchtet und untersucht. Dabei geben Betroffene der Fälle exklusive und besonders nahe Einblicke. Experten und Expertinnen geben kompetente Einordnungen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31988552bdh10ab_Backdrop_W660.webp" />
+    <episode-num system="onscreen">S3 E22</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261116234500 +0000" stop="20261116235000 +0000"><title lang="de">Newsflash SRF 1</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19777513bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261116235000 +0000" stop="20261117004500 +0000"><title lang="de">1 gegen 100</title>
+    <sub-title lang="de">Moana aus Amriswil</sub-title>
+    <desc lang="de">In dieser Sendung tritt ein Kandidat gegen 100 Gegner bei einem schwierigen Quiz an.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11180977bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117004500 +0000" stop="20261117010000 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 1</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117010000 +0000" stop="20261117013500 +0000"><title lang="de">ECO Talk</title>
+    <sub-title lang="de">Mobiliar-Versicherung: Als Genossenschaft im Spannungsfeld des Marktes</sub-title>
+    <desc lang="de">Verschiedene Führungspersönlichkeiten der Wirtschaft stehen im Mittelpunkt. Sie werden befragt, wie sie in Krisen reagieren, wann sie Entscheide umsetzen und wie sie zwischen unternehmerischem Vorteil und gesellschaftlicher Verantwortung abwägen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11776995bdh8ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117013500 +0000" stop="20261117020000 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Aargau, Schweiz</sub-title>
+    <desc lang="de">Das "Rüebli", wie die Karotte in der Schweiz heisst, hat im Kanton Aargau einen besonderen Stellenwert. Die Region im Nordwesten trägt auch den Beinamen Rüebliland. In der Küche ist das Wurzelgemüse ein wahrer Alleskönner.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32832682eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117020000 +0000" stop="20261117021500 +0000"><title lang="de">Die Schweiz von oben - Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive</title>
+    <sub-title lang="de">Engadin</sub-title>
+    <desc lang="de">Gewährt werden einzigartige Blicke auf die malerischen Landschaften des Engadin. Die Zuschauenden fliegen unter anderem über den Morteratschgletscher, den Silvaplanersee, die Halbinsel Chastè und den Albulapass.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p29131538eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117021500 +0000" stop="20261117024000 +0000"><title lang="de">Notrufzentrale</title>
+    <sub-title lang="de">Rega-Notruf: Lawinenunglück</sub-title>
+    <desc lang="de">Thematisiert wird ein dramatischer Grosseinsatz nach einer Lawine, der die gesamte Rega-Notrufzentrale fordert. Zudem wird die Alarmbereitschaft bei der Kantonspolizei Aargau wegen eines verschwundenen Kindes näher beleuchtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep060405310006x216_stage_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261117024000 +0000" stop="20261117030500 +0000"><title lang="de">Notrufzentrale</title>
+    <sub-title lang="de">Sanitätsnotruf: Ohnmacht oder Hirnschlag?</sub-title>
+    <desc lang="de">Thematisiert werden kritische Entscheidungen in der Notrufzentrale Bern, wo sich eine scheinbar harmlose Ohnmacht binnen Sekunden zum Notfall entwickelt. Zudem wird ein dramatischer Anruf beim Basler Sanitätsnotruf nach einer Vergiftung beleuchtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34406337eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261117030500 +0000" stop="20261117034000 +0000"><title lang="de">Samschtig-Jass</title>
+    <sub-title lang="de">Ursus und Nadeschkin im Jassfieber</sub-title>
+    <desc lang="de">Ursus und Nadeschkin haben das Jassen für sich entdeckt und wollen nun auch am berühmtesten Jasstisch der Schweiz beweisen, was in ihnen steckt. Ob am Schluss sogar einer der beiden den Jasspokal ergattert?</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34429714eh8aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117034000 +0000" stop="20261117042500 +0000"><title lang="de">SRF bi de Lüt - Landfrauenküche</title>
+    <sub-title lang="de">Sonja Rutz aus Küssnacht am Rigi SZ</sub-title>
+    <desc lang="de">Was hat ein Wetterschmöcker mit einem Rindsfilet zu tun? Auf der Seebodenalp oberhalb des Vierwaldstättersees überrascht Sonja Rutz die Landfrauen mit einem Menü voller ungewöhnlicher Ideen und einem geheimnisvollen Aroma.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep032176010140x958_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117042500 +0000" stop="20261117045500 +0000"><title lang="de">Puls</title>
+    <sub-title lang="de">Reflux - Was tun, wenn saures Aufstossen zum Dauerthema wird?</sub-title>
+    <desc lang="de">In der Sendung es geht es um die Frage, was man selbst tun kann, um seine Gesundheit zu erhalten oder wiederherzustellen. Präsentiert werden Tipps und Informationen zu Trends, Neuigkeiten und Überraschendem aus Diagnose, Prävention und Therapie.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep020322530459x637_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117045500 +0000" stop="20261117052500 +0000"><title lang="de">nano</title>
+    <desc lang="de">Im Mittelpunkt steht die Vermittlung von aktuellen Themen aus den Bereichen Technik, Medizin und Forschung. Darüber hinaus wird der praktische Nutzen der vorgestellten wissenschaftlichen Erkenntnisse für den Alltag beleuchtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9125869bdh8ag_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117052500 +0000" stop="20261117070000 +0000"><title lang="de">News-Schlagzeilen</title>
+    <desc lang="de">Diese Sendung bietet Berichte zu aktuellen Themen aus Bereichen wie Wirtschaft und Politik.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16995706bdh10ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117070000 +0000" stop="20261117075000 +0000"><title lang="de">Wetterkanal</title>
+    <desc lang="de">Diese Sendung zeigt aktuelle Wetterbilder aus der Schweiz und präsentiert Wetterprognosen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11181770bdh10ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117075000 +0000" stop="20261117075500 +0000"><title lang="de">Nussbaumbandi in Gebärdensprache</title>
+    <sub-title lang="de">Drache!</sub-title>
+    <desc lang="de">Wir erzählen kurze, liebevolle Geschichten rund um die drei Hauptfiguren Yoko, Vikram und Silóe.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34457321eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261117075500 +0000" stop="20261117082500 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Aargau, Schweiz</sub-title>
+    <desc lang="de">Das "Rüebli", wie die Karotte in der Schweiz heisst, hat im Kanton Aargau einen besonderen Stellenwert. Die Region im Nordwesten trägt auch den Beinamen Rüebliland. In der Küche ist das Wurzelgemüse ein wahrer Alleskönner.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32832682eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117082500 +0000" stop="20261117091500 +0000"><title lang="de">In aller Freundschaft</title>
+    <sub-title lang="de">Keine Zeit für Träume</sub-title>
+    <desc lang="de">Nachdem Sarah Marquardt beim Solaranlagenkauf auf eine Betrügerin hereingefallen ist, wartet die nächste Überraschung auf sie. Magdalena Herold erscheint bei ihr, um sich einen Überblick über Steuern und Zahlungen der Sachsenklinik zu verschaffen.</desc>
+    <credits>
+      <actor role="Dr. Roland Heilmann">Thomas Rühmann</actor>
+      <actor role="Dr. Kathrin Globisch">Andrea Kathrin Loewig</actor>
+      <actor role="Ariana Messerschmidt">Linda Berthold</actor>
+      <actor role="Magdalena Herold">Franziska Arndt</actor>
+      <actor role="Jasmin Hatem">Leslie-Vanessa Lill</actor>
+      <actor role="Agathe Riemer">Aline Hochscheid</actor>
+      <actor role="Martin Stein">Bernhard Bettermann</actor>
+      <actor role="Maria Weber">Annett Renneberg</actor>
+      <actor role="Kai Hoffmann">Julian Weigend</actor>
+      <actor role="Lilly Phan">Mai Duong Kieu</actor>
+      <director>Mathias Luther</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24497355eh8aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S26 E5</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117091500 +0000" stop="20261117100500 +0000"><title lang="de">In aller Freundschaft</title>
+    <sub-title lang="de">Menschen ändern sich</sub-title>
+    <desc lang="de">Georg Feldhusen, gerade auf Drogenentzug, wird nach einem Treppensturz in die Sachsenklinik eingeliefert. Als seine erwachsene Tochter Emily zu ihm kommt, fürchtet sie zunächst, ihr Vater sei doch wieder rückfällig geworden.</desc>
+    <credits>
+      <actor role="Dr. Roland Heilmann">Thomas Rühmann</actor>
+      <actor role="Dr. Kathrin Globisch">Andrea Kathrin Loewig</actor>
+      <director>Jürgen Brauer</director>
+      <director>Mathias Luther</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24518665eh8aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S26 E6</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117100500 +0000" stop="20261117104500 +0000"><title lang="de">ECO Talk</title>
+    <sub-title lang="de">Mobiliar-Versicherung: Als Genossenschaft im Spannungsfeld des Marktes</sub-title>
+    <desc lang="de">Verschiedene Führungspersönlichkeiten der Wirtschaft stehen im Mittelpunkt. Sie werden befragt, wie sie in Krisen reagieren, wann sie Entscheide umsetzen und wie sie zwischen unternehmerischem Vorteil und gesellschaftlicher Verantwortung abwägen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11776995bdh8ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117104500 +0000" stop="20261117112500 +0000"><title lang="de">Puls</title>
+    <sub-title lang="de">Reflux - Was tun, wenn saures Aufstossen zum Dauerthema wird?</sub-title>
+    <desc lang="de">In der Sendung es geht es um die Frage, was man selbst tun kann, um seine Gesundheit zu erhalten oder wiederherzustellen. Präsentiert werden Tipps und Informationen zu Trends, Neuigkeiten und Überraschendem aus Diagnose, Prävention und Therapie.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep020322530459x637_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117112500 +0000" stop="20261117114500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 1</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117114500 +0000" stop="20261117115000 +0000"><title lang="de">Tagesschau kompakt - Mittagsausgabe</title>
+    <desc lang="de">Es wird über die wichtigsten Themen aus Politik, Wirtschaft und Kultur am Mittag berichtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32581704bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117115000 +0000" stop="20261117120500 +0000"><title lang="de">Meteo - Mittagsausgabe</title>
+    <desc lang="de">In der Sendung gibt es umfassende Informationen zur aktuellen Wetterlage sowie Prognosen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005178bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117120500 +0000" stop="20261117123500 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Aargau, Schweiz</sub-title>
+    <desc lang="de">Das "Rüebli", wie die Karotte in der Schweiz heisst, hat im Kanton Aargau einen besonderen Stellenwert. Die Region im Nordwesten trägt auch den Beinamen Rüebliland. In der Küche ist das Wurzelgemüse ein wahrer Alleskönner.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32832682eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117123500 +0000" stop="20261117132500 +0000"><title lang="de">Jetzt oder nie - Lebe deinen Traum</title>
+    <sub-title lang="de">Spezial: Das Wiedersehen - Leben in Cornwall mit Sabrina Klanig und Ueli Knecht</sub-title>
+    <desc lang="de">Die Protagonistinnen und Protagonisten reflektieren, wie sie ihren Traum verwirklicht haben und was sich in ihrem Leben verändert hat. Sabrina Klanig und Ueli Knecht sind nach Cornwall ausgewandert - mit dem Ziel, ein Bed and Breakfast zu eröffnen.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep030447740007x30_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117132500 +0000" stop="20261117142000 +0000"><title lang="de">SRF bi de Lüt - Familiensache</title>
+    <desc lang="de">Das Abenteuer Jakobsweg ist eine Herausforderung - besonders für eine fünfköpfige Familie mit einem Buben mit Trisomie 21. Familie Hosali aus Winterthur hat dies schon einmal versucht. Und musste abbrechen.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16863994bdh8ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117142000 +0000" stop="20261117145000 +0000"><title lang="de">gesundheitheute</title>
+    <sub-title lang="de">Wie erkennt man Lungenkrebs frühzeitig?</sub-title>
+    <desc lang="de">Es werden aktuelle Themen rund um Gesundheit und Wohlbefinden beleuchtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34489664eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117145000 +0000" stop="20261117163000 +0000"><title lang="de">Inga Lindström</title>
+    <sub-title lang="de">Einfach nur Liebe</sub-title>
+    <desc lang="de">Eigentlich wollte Maja keinen Fuss mehr auf die Insel ihrer Kindheit setzen. Als Maja das malerische Eiland besucht, nimmt sie sein Zauber jedoch schnell wieder gefangen. Majas Bruder Till veranstaltet dort ein Seminar für trennungswillige Paare.</desc>
+    <credits>
+      <director>Marco Serafini</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep016640610102x278_stage_W660.webp" />
+    <country lang="de">DE</country>
+    <country lang="de">AT</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117163000 +0000" stop="20261117164000 +0000"><title lang="de">Guetnachtgschichtli</title>
+    <sub-title lang="de">Nussbaumbandi - S Geburtstagsfescht</sub-title>
+    <desc lang="de">Verschiedene Kinderserien mit spannenden Charakteren dienen als Gute-Nacht-Geschichten. Der kleine Pingu, Mascha und ihr Bär oder der Hase Flipper erleben kurze Geschichten über Freundschaft, Abenteuer und die Facetten des Lebens.</desc>
+    <credits>
+      <director>Gabriela Kasperski</director>
+      <director>Marek Beles</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34469278eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117164000 +0000" stop="20261117170000 +0000"><title lang="de">Telesguard</title>
+    <desc lang="de">Von Montag bis Freitag wird über das aktuelle Geschehen in der Schweiz und in Graubünden sowie über weitere relevante Themen berichtet. Auf Rätoromanisch wird gezeigt, was Graubünden und die rätoromanische Schweiz bewegt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182612bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117170000 +0000" stop="20261117170500 +0000"><title lang="de">Tagesschau kompakt - Vorabendausgabe</title>
+    <desc lang="de">Es wird über die wichtigsten Themen aus Politik, Wirtschaft und Kultur am Vorabend berichtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32581726bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117170500 +0000" stop="20261117171000 +0000"><title lang="de">Meteo - Vorabendausgabe</title>
+    <desc lang="de">Es wird hier informiert über die aktuellen Wetteraussichten für die gesamte Schweiz.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005713bdh10ae_Backdrop_W660.webp" />
+  </programme><programme channel="SRF.1.ch" start="20261117171000 +0000" stop="20261117172500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 2</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117172500 +0000" stop="20261117180000 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Asturien, Spanien</sub-title>
+    <desc lang="de">Dieser kulinarische Reiseführer geht dahin, wo die europäische Kochkunst ihre Wurzeln hat. Es geht in die Regionen, in denen bis heute zubereitet und genossen wird, was Acker, Weiden und Fischgründe hergeben. Eine Entdeckungsreise ist garantiert.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32447928eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117180000 +0000" stop="20261117182500 +0000"><title lang="de">Schweiz aktuell</title>
+    <desc lang="de">Die wichtigsten kantonalen, regionalen und kommunalen Themen des Tages werden ausführlich dargestellt und mit Hintergrundberichten vervollständigt. Abgerundet wird die Sendung durch Interviews mit Politikern und anderen belangvollen Persönlichkeiten.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182578bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117182500 +0000" stop="20261117183000 +0000"><title lang="de">SRF Börse</title>
+    <desc lang="de">Alle aktuellen Entwicklungen und wichtigsten Ereignisse der Schweizer Börse werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182347bdh10ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117183000 +0000" stop="20261117185500 +0000"><title lang="de">Tagesschau - Hauptausgabe</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages aus der Schweiz und der Welt werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18925663bdh10af_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117185500 +0000" stop="20261117190500 +0000"><title lang="de">Meteo - Abendausgabe</title>
+    <desc lang="de">Es werden aktuelle Prognosen und Berichte über das Wetter in der Schweiz präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182414bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117190500 +0000" stop="20261117201000 +0000"><title lang="de">Jenseits der Spree</title>
+    <sub-title lang="de">Kalkuliertes Risiko</sub-title>
+    <desc lang="de">Nachdem die Studentin Kim tot im Park aufgefunden wird und eine Sprachnachricht ihr Verlassen von Berlin ankündigte, decken die Ermittler durch den Fund von 20.000 Euro in ihrer Wohnung ein Doppelleben als Escort auf. War einer der Kunden der Täter?</desc>
+    <credits>
+      <actor role="Kriminalhauptkommissar Robert Heffler">Jürgen Vogel</actor>
+      <actor role="Kommissarin Mavi Neumann">Aybi Era</actor>
+      <actor role="Emmi Heffler">Bella Bading</actor>
+      <actor role="Stella Heffler">Luna Jordan</actor>
+      <actor role="Simon Asmus">Oleg Tikhomirov</actor>
+      <actor role="Charlotta Heffler">Lea Zoe Voss</actor>
+      <actor role="Katharina Koblinski">Elisabeth Baulitz</actor>
+      <actor role="Friederike Hanke">Philippa Jarke</actor>
+      <actor role="Denise Eichler">Anne Müller</actor>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep039927320039x920_stage_W660.webp" />
+    <country lang="de">DE</country>
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117201000 +0000" stop="20261117205000 +0000"><title lang="de">Kassensturz</title>
+    <sub-title lang="de">Entstelltes Gesicht nach Filler-Behandlung im Kosmetiksalon</sub-title>
+    <desc lang="de">Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182432bdh10aj_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117205000 +0000" stop="20261117211500 +0000"><title lang="de">10 vor 10</title>
+    <desc lang="de">Das Tagesgeschehen mit den aktuellsten und brisantesten Themen aus der Schweiz wird vorgestellt. In Reportagen, Porträts und Live-Gesprächen werden die Hintergründe von Schlagzeilen sowie das Geschehen aus dem In- und Ausland erläutert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10905661bdh8ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117211500 +0000" stop="20261117213000 +0000"><title lang="de">Meteo - Spätausgabe</title>
+    <desc lang="de">In dieser Spätausgabe werden die Wetteraussichten für die gesamte Schweiz vorgestellt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005730bdh10ad_Backdrop_W660.webp" />
+  </programme><programme channel="SRF.1.ch" start="20261117213000 +0000" stop="20261117224500 +0000"><title lang="de">Literaturclub</title>
+    <desc lang="de">Lernen Sie eine Auswahl literarischer Neuerscheinungen kennen, die in einer Diskussionsrunde kritisch und differenziert analysiert werden. Auf diese Weise wird intellektueller Anspruch mit unterhaltsamen Debatten verbunden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34144481eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261117224500 +0000" stop="20261117230000 +0000"><title lang="de">Newsflash SRF 1</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19777513bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261117230000 +0000" stop="20261118011500 +0000"><title lang="de">Menschliche Dinge</title>
+    <desc lang="de">Als Alexandre auf Mila, die Tochter des Partners seiner Mutter, trifft, geht er mit ihr aus. Am nächsten Tag erstattet Mila gegen Alexandre wegen Vergewaltigung Anzeige. Doch Alexandre behauptet, dass er von Mila nur aus Rache beschuldigt werde.</desc>
+    <credits>
+      <actor role="Claire Farel">Charlotte Gainsbourg</actor>
+      <actor role="Adam">Mathieu Kassovitz</actor>
+      <actor role="Jean Farel">Pierre Arditi</actor>
+      <actor role="Alexandre Farel">Ben Attal</actor>
+      <actor role="Mila">Suzanne Jouannet</actor>
+      <actor role="Valérie">Audrey Dana</actor>
+      <actor role="Anwalt Arthur Célerier">Benjamin Lavernhe</actor>
+      <actor role="Anwältin Ferré">Judith Chemla</actor>
+      <actor role="Anne Collet">Rejane Kerdaffrec</actor>
+      <actor role="Staatsanwalt">Gérard Watkins</actor>
+      <director>Yvan Attal</director>
+    </credits>
+    <date>2021</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/mv019555370000x320_stage_W660.webp" />
+    <country lang="de">FR</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261118011500 +0000" stop="20261118015000 +0000"><title lang="de">Kassensturz</title>
+    <sub-title lang="de">Entstelltes Gesicht nach Filler-Behandlung im Kosmetiksalon</sub-title>
+    <desc lang="de">Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182432bdh10aj_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118015000 +0000" stop="20261118030500 +0000"><title lang="de">Literaturclub</title>
+    <desc lang="de">Lernen Sie eine Auswahl literarischer Neuerscheinungen kennen, die in einer Diskussionsrunde kritisch und differenziert analysiert werden. Auf diese Weise wird intellektueller Anspruch mit unterhaltsamen Debatten verbunden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34144481eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261118030500 +0000" stop="20261118032000 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 2</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118032000 +0000" stop="20261118041500 +0000"><title lang="de">1 gegen 100</title>
+    <sub-title lang="de">Moana aus Amriswil</sub-title>
+    <desc lang="de">In dieser Sendung tritt ein Kandidat gegen 100 Gegner bei einem schwierigen Quiz an.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11180977bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118041500 +0000" stop="20261118051500 +0000"><title lang="de">Sternstunde Philosophie</title>
+    <sub-title lang="de">Sophia Fritz und Julia Ebner</sub-title>
+    <desc lang="de">Wer ist wofür verantwortlich? Worin besteht die menschliche Freiheit? Was bestimmt unseren Lebenssinn? Zu Gast sind Persönlichkeiten aus den unterschiedlichsten Fachbereichen, die zum Denken anregen und unser Zeitgeschehen reflektieren.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34440291eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118051500 +0000" stop="20261118054500 +0000"><title lang="de">nano</title>
+    <desc lang="de">Im Mittelpunkt steht die Vermittlung von aktuellen Themen aus den Bereichen Technik, Medizin und Forschung. Darüber hinaus wird der praktische Nutzen der vorgestellten wissenschaftlichen Erkenntnisse für den Alltag beleuchtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9125869bdh8ag_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261118054500 +0000" stop="20261118070000 +0000"><title lang="de">News-Schlagzeilen</title>
+    <desc lang="de">Diese Sendung bietet Berichte zu aktuellen Themen aus Bereichen wie Wirtschaft und Politik.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16995706bdh10ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118070000 +0000" stop="20261118081500 +0000"><title lang="de">Wetterkanal</title>
+    <desc lang="de">Diese Sendung zeigt aktuelle Wetterbilder aus der Schweiz und präsentiert Wetterprognosen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11181770bdh10ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118081500 +0000" stop="20261118082000 +0000"><title lang="de">Nussbaumbandi in Gebärdensprache</title>
+    <sub-title lang="de">S Geburtstagsfescht</sub-title>
+    <desc lang="de">Wir erzählen kurze, liebevolle Geschichten rund um die drei Hauptfiguren Yoko, Vikram und Silóe.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34469326eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261118082000 +0000" stop="20261118085000 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Asturien, Spanien</sub-title>
+    <desc lang="de">Dieser kulinarische Reiseführer geht dahin, wo die europäische Kochkunst ihre Wurzeln hat. Es geht in die Regionen, in denen bis heute zubereitet und genossen wird, was Acker, Weiden und Fischgründe hergeben. Eine Entdeckungsreise ist garantiert.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32447928eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261118085000 +0000" stop="20261118103000 +0000"><title lang="de">Inga Lindström</title>
+    <sub-title lang="de">Einfach nur Liebe</sub-title>
+    <desc lang="de">Eigentlich wollte Maja keinen Fuss mehr auf die Insel ihrer Kindheit setzen. Als Maja das malerische Eiland besucht, nimmt sie sein Zauber jedoch schnell wieder gefangen. Majas Bruder Till veranstaltet dort ein Seminar für trennungswillige Paare.</desc>
+    <credits>
+      <director>Marco Serafini</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep016640610102x278_stage_W660.webp" />
+    <country lang="de">DE</country>
+    <country lang="de">AT</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261118103000 +0000" stop="20261118110500 +0000"><title lang="de">Kassensturz</title>
+    <sub-title lang="de">Entstelltes Gesicht nach Filler-Behandlung im Kosmetiksalon</sub-title>
+    <desc lang="de">Faltenfreie Haut und volle Lippen - dank Unterspritzung mit Fillern. Illegalerweise bieten das online auch Beautysalons ohne Fachpersonal an. Mitunter mit gravierenden gesundheitlichen Folgen. Und: alkoholfreie Rotweine im Degustations-Test.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182432bdh10aj_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118110500 +0000" stop="20261118112500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 1</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118112500 +0000" stop="20261118114500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 2</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118114500 +0000" stop="20261118115000 +0000"><title lang="de">Tagesschau kompakt - Mittagsausgabe</title>
+    <desc lang="de">Es wird über die wichtigsten Themen aus Politik, Wirtschaft und Kultur am Mittag berichtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32581704bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118115000 +0000" stop="20261118120000 +0000"><title lang="de">Meteo - Mittagsausgabe</title>
+    <desc lang="de">In der Sendung gibt es umfassende Informationen zur aktuellen Wetterlage sowie Prognosen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005178bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118120000 +0000" stop="20261118123500 +0000"><title lang="de">Tagesgespräch</title>
+    <desc lang="de">Das Thema des Tages wird mit Gästen aus Gesellschaft, Politik und Wirtschaft diskutiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p33922750bdh8ab_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+    <premiere /></programme><programme channel="SRF.1.ch" start="20261118123500 +0000" stop="20261118131000 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Asturien, Spanien</sub-title>
+    <desc lang="de">Dieser kulinarische Reiseführer geht dahin, wo die europäische Kochkunst ihre Wurzeln hat. Es geht in die Regionen, in denen bis heute zubereitet und genossen wird, was Acker, Weiden und Fischgründe hergeben. Eine Entdeckungsreise ist garantiert.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32447928eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261118131000 +0000" stop="20261118140000 +0000"><title lang="de">SRF bi de Lüt</title>
+    <sub-title lang="de">Familiensache</sub-title>
+    <desc lang="de">Das Abenteuer Jakobsweg ist eine Herausforderung, besonders für eine fünfköpfige Familie mit einem Jungen, der an Trisomie 21 erkrankt ist. Familie Hosali aus Winterthur hat dies schon einmal versucht. Und musste abbrechen.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13598356ih10ac_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118140000 +0000" stop="20261118145000 +0000"><title lang="de">SRF bi de Lüt - Familiensache</title>
+    <desc lang="de">Bei Scherrers wird gepoltert. Doch auch der Junggesellenabschied macht Markus' familiäre Konflikte nicht vergessen. Familie Dietrich muss einen Rückschlag verdauen: Thierrys Genesung verzögert sich weiter.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16863994bdh8ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118145000 +0000" stop="20261118163000 +0000"><title lang="de">Rosamunde Pilcher</title>
+    <sub-title lang="de">Ex &amp; Liebe</sub-title>
+    <desc lang="de">Auf dem Weg zu seiner Mutter hat Bruno mit seinem Oldtimer eine Panne, die sein Leben verändern wird. Sophie, die einstige Liebe seines Lebens, steht plötzlich vor ihm. Nach einer stürmischen Liebesnacht war sie damals spurlos verschwunden.</desc>
+    <credits>
+      <actor role="Theresa Brown">Saskia Vester</actor>
+      <actor role="Sophie Stone">Jenny Bach</actor>
+      <actor role="Bruno Brown">Florian Wünsche</actor>
+      <actor role="Eleonore Richardson">Cordula Trantow</actor>
+      <actor role="George Grand">Wolfram Grandezka</actor>
+      <director>Stefan Bartmann</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13281952eh8ac_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <country lang="de">AT</country>
+  </programme><programme channel="SRF.1.ch" start="20261118163000 +0000" stop="20261118164000 +0000"><title lang="de">Guetnachtgschichtli</title>
+    <sub-title lang="de">Nussbaumbandi - Machs guet, Summervogel</sub-title>
+    <desc lang="de">Verschiedene Kinderserien mit spannenden Charakteren dienen als Gute-Nacht-Geschichten. Der kleine Pingu, Mascha und ihr Bär oder der Hase Flipper erleben kurze Geschichten über Freundschaft, Abenteuer und die Facetten des Lebens.</desc>
+    <credits>
+      <director>Gabriela Kasperski</director>
+      <director>Marek Beles</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34479947eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118164000 +0000" stop="20261118170000 +0000"><title lang="de">Telesguard</title>
+    <desc lang="de">Von Montag bis Freitag wird über das aktuelle Geschehen in der Schweiz und in Graubünden sowie über weitere relevante Themen berichtet. Auf Rätoromanisch wird gezeigt, was Graubünden und die rätoromanische Schweiz bewegt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182612bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118170000 +0000" stop="20261118170500 +0000"><title lang="de">Tagesschau kompakt - Vorabendausgabe</title>
+    <desc lang="de">Es wird über die wichtigsten Themen aus Politik, Wirtschaft und Kultur am Vorabend berichtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32581726bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118170500 +0000" stop="20261118171000 +0000"><title lang="de">Meteo - Vorabendausgabe</title>
+    <desc lang="de">Es wird hier informiert über die aktuellen Wetteraussichten für die gesamte Schweiz.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005713bdh10ae_Backdrop_W660.webp" />
+  </programme><programme channel="SRF.1.ch" start="20261118171000 +0000" stop="20261118172500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 3</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118172500 +0000" stop="20261118180000 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Nördliches Baskenland, Frankreich</sub-title>
+    <desc lang="de">Alte, regionale Tierrassen - für Bauern aus dem Nördlichen Baskenland sind sie die Zukunft. Sie verarbeiten das Fleisch der Tiere zu Schinken, Würsten und Fleischkonserven. Auf den Tisch kommen Piperade mit Speck, Apfel-Blutwurst-Crumble und mehr.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p33029300eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261118180000 +0000" stop="20261118182500 +0000"><title lang="de">Schweiz aktuell</title>
+    <desc lang="de">Die wichtigsten kantonalen, regionalen und kommunalen Themen des Tages werden ausführlich dargestellt und mit Hintergrundberichten vervollständigt. Abgerundet wird die Sendung durch Interviews mit Politikern und anderen belangvollen Persönlichkeiten.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182578bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118182500 +0000" stop="20261118183000 +0000"><title lang="de">SRF Börse</title>
+    <desc lang="de">Alle aktuellen Entwicklungen und wichtigsten Ereignisse der Schweizer Börse werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182347bdh10ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118183000 +0000" stop="20261118185500 +0000"><title lang="de">Tagesschau - Hauptausgabe</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages aus der Schweiz und der Welt werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18925663bdh10af_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118185500 +0000" stop="20261118191000 +0000"><title lang="de">Meteo - Abendausgabe</title>
+    <desc lang="de">Es werden aktuelle Prognosen und Berichte über das Wetter in der Schweiz präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182414bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118191000 +0000" stop="20261118200500 +0000"><title lang="de">Rundschau</title>
+    <desc lang="de">In Reportagen und Beiträgen wird über das Geschehen in Politik, Wirtschaft und Gesellschaft berichtet. Die Beiträge bewegen sich oft mitten drin im Themengegenstand, ohne jedoch die kritisch-journalistische Distanz zu verlieren.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11181022bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261118200500 +0000" stop="20261118204000 +0000"><title lang="de">Reporter</title>
+    <sub-title lang="de">Nach 7 Jahren Haft - Wie weiter? (Teil 1)</sub-title>
+    <desc lang="de">Giorgio Lörtscher sitzt wegen Einbruch und Raub im Gefängnis. Als er entlassen wird, versucht er, einen Platz in der Gesellschaft zu finden. Er hat grosse Pläne: Er möchte Rapper werden. Doch bald beginnen die Probleme, ihm über den Kopf zu wachsen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep019563140560x933_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118204000 +0000" stop="20261118205000 +0000"><title lang="de">Ziehung des Schweizer Zahlenlottos</title>
+    <desc lang="de">Die offizielle Ziehung der Gewinnzahlen des Schweizer Zahlenlottos bietet Spannung für alle Teilnehmenden. In der kurzen Sequenz werden die aktuellen Zahlen sowie die Glückszahl ermittelt und direkt im Anschluss an die Ziehung bekannt gegeben.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11176821bdh8ac_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.1.ch" start="20261118205000 +0000" stop="20261118211500 +0000"><title lang="de">10 vor 10</title>
+    <desc lang="de">Das Tagesgeschehen mit den aktuellsten und brisantesten Themen aus der Schweiz wird vorgestellt. In Reportagen, Porträts und Live-Gesprächen werden die Hintergründe von Schlagzeilen sowie das Geschehen aus dem In- und Ausland erläutert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10905661bdh8ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118211500 +0000" stop="20261118212500 +0000"><title lang="de">Meteo - Spätausgabe</title>
+    <desc lang="de">In dieser Spätausgabe werden die Wetteraussichten für die gesamte Schweiz vorgestellt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005730bdh10ad_Backdrop_W660.webp" />
+  </programme><programme channel="SRF.1.ch" start="20261118212500 +0000" stop="20261118220500 +0000"><title lang="de">Kulturplatz</title>
+    <desc lang="de">Wir erfahren von den wichtigsten Kulturereignissen der Woche. Es wird informiert über angesagte Ausstellungen, Trends und Leidenschaften der Kunstszene, kultige Konzerte, Comedyshows. Dabei wird auch das alltägliche Leben aufgegriffen.</desc>
+    <credits>
+      <director>Uta Kenter</director>
+      <director>Stefan Zucker</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34480013eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261118220500 +0000" stop="20261119002500 +0000"><title lang="de">Poor Things</title>
+    <desc lang="de">Eine verstorbene junge Frau wird von einem Wissenschaftler ins Leben zurückgeholt. Sie brennt mit einem zwielichtigen Anwalt durch und erlebt Abenteuer auf mehreren Kontinenten. Dabei entdeckt sie ihre Leidenschaft für soziale Gerechtigkeit.</desc>
+    <credits>
+      <actor role="Bella Baxter">Emma Stone</actor>
+      <actor role="Duncan Wedderburn">Mark Ruffalo</actor>
+      <actor role="Dr. Godwin Baxter">Willem Dafoe</actor>
+      <actor role="Max McCandless">Ramy Youssef</actor>
+      <actor role="Swiney">Kathryn Hunter</actor>
+      <actor role="Alfie Blessington">Christopher Abbott</actor>
+      <actor role="Harry Astley">Jerrod Carmichael</actor>
+      <actor role="Martha Von Kurtzroc">Hanna Schygulla</actor>
+      <actor role="Felicity">Margaret Qualley</actor>
+      <actor role="Toinette">Suzy Bemba</actor>
+      <director>Yorgos Lanthimos</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24799969bdh10ac_Backdrop_W660.webp" />
+    <country lang="de">IE</country>
+    <country lang="de">GB</country>
+    <country lang="de">US</country>
+    <country lang="de">HU</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261119002500 +0000" stop="20261119003500 +0000"><title lang="de">Newsflash SRF 1</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19777513bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119003500 +0000" stop="20261119020000 +0000"><title lang="de">Rosamunde Pilcher</title>
+    <sub-title lang="de">Ex &amp; Liebe</sub-title>
+    <desc lang="de">Auf dem Weg zu seiner Mutter hat Bruno mit seinem Oldtimer eine Panne, die sein Leben verändern wird. Sophie, die einstige Liebe seines Lebens, steht plötzlich vor ihm. Nach einer stürmischen Liebesnacht war sie damals spurlos verschwunden.</desc>
+    <credits>
+      <actor role="Theresa Brown">Saskia Vester</actor>
+      <actor role="Sophie Stone">Jenny Bach</actor>
+      <actor role="Bruno Brown">Florian Wünsche</actor>
+      <actor role="Eleonore Richardson">Cordula Trantow</actor>
+      <actor role="George Grand">Wolfram Grandezka</actor>
+      <director>Stefan Bartmann</director>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13281952eh8ac_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <country lang="de">AT</country>
+  </programme><programme channel="SRF.1.ch" start="20261119020000 +0000" stop="20261119025000 +0000"><title lang="de">Rundschau</title>
+    <desc lang="de">In Reportagen und Beiträgen wird über das Geschehen in Politik, Wirtschaft und Gesellschaft berichtet. Die Beiträge bewegen sich oft mitten drin im Themengegenstand, ohne jedoch die kritisch-journalistische Distanz zu verlieren.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11181022bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261119025000 +0000" stop="20261119032000 +0000"><title lang="de">Reporter</title>
+    <sub-title lang="de">Nach 7 Jahren Haft - Wie weiter? (Teil 1)</sub-title>
+    <desc lang="de">Giorgio Lörtscher sitzt wegen Einbruch und Raub im Gefängnis. Als er entlassen wird, versucht er, einen Platz in der Gesellschaft zu finden. Er hat grosse Pläne: Er möchte Rapper werden. Doch bald beginnen die Probleme, ihm über den Kopf zu wachsen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep019563140560x933_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119032000 +0000" stop="20261119034000 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 3</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119034000 +0000" stop="20261119040500 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Nördliches Baskenland, Frankreich</sub-title>
+    <desc lang="de">Alte, regionale Tierrassen - für Bauern aus dem Nördlichen Baskenland sind sie die Zukunft. Sie verarbeiten das Fleisch der Tiere zu Schinken, Würsten und Fleischkonserven. Auf den Tisch kommen Piperade mit Speck, Apfel-Blutwurst-Crumble und mehr.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p33029300eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261119040500 +0000" stop="20261119043500 +0000"><title lang="de">Puls</title>
+    <sub-title lang="de">Reflux - Was tun, wenn saures Aufstossen zum Dauerthema wird?</sub-title>
+    <desc lang="de">In der Sendung es geht es um die Frage, was man selbst tun kann, um seine Gesundheit zu erhalten oder wiederherzustellen. Präsentiert werden Tipps und Informationen zu Trends, Neuigkeiten und Überraschendem aus Diagnose, Prävention und Therapie.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep020322530459x637_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119043500 +0000" stop="20261119051000 +0000"><title lang="de">Kulturplatz</title>
+    <desc lang="de">Wir erfahren von den wichtigsten Kulturereignissen der Woche. Es wird informiert über angesagte Ausstellungen, Trends und Leidenschaften der Kunstszene, kultige Konzerte, Comedyshows. Dabei wird auch das alltägliche Leben aufgegriffen.</desc>
+    <credits>
+      <director>Uta Kenter</director>
+      <director>Stefan Zucker</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34480013eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119051000 +0000" stop="20261119054000 +0000"><title lang="de">nano</title>
+    <desc lang="de">Im Mittelpunkt steht die Vermittlung von aktuellen Themen aus den Bereichen Technik, Medizin und Forschung. Darüber hinaus wird der praktische Nutzen der vorgestellten wissenschaftlichen Erkenntnisse für den Alltag beleuchtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9125869bdh8ag_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261119054000 +0000" stop="20261119070000 +0000"><title lang="de">News-Schlagzeilen</title>
+    <desc lang="de">Diese Sendung bietet Berichte zu aktuellen Themen aus Bereichen wie Wirtschaft und Politik.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16995706bdh10ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119070000 +0000" stop="20261119074000 +0000"><title lang="de">Wetterkanal</title>
+    <desc lang="de">Diese Sendung zeigt aktuelle Wetterbilder aus der Schweiz und präsentiert Wetterprognosen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11181770bdh10ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119074000 +0000" stop="20261119074500 +0000"><title lang="de">Nussbaumbandi in Gebärdensprache</title>
+    <sub-title lang="de">Machs guet, Summervogel</sub-title>
+    <desc lang="de">Wir erzählen kurze, liebevolle Geschichten rund um die drei Hauptfiguren Yoko, Vikram und Silóe.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34480024eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261119074500 +0000" stop="20261119082000 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Nördliches Baskenland, Frankreich</sub-title>
+    <desc lang="de">Alte, regionale Tierrassen - für Bauern aus dem Nördlichen Baskenland sind sie die Zukunft. Sie verarbeiten das Fleisch der Tiere zu Schinken, Würsten und Fleischkonserven. Auf den Tisch kommen Piperade mit Speck, Apfel-Blutwurst-Crumble und mehr.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p33029300eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261119082000 +0000" stop="20261119090000 +0000"><title lang="de">Kulturplatz</title>
+    <desc lang="de">Wir erfahren von den wichtigsten Kulturereignissen der Woche. Es wird informiert über angesagte Ausstellungen, Trends und Leidenschaften der Kunstszene, kultige Konzerte, Comedyshows. Dabei wird auch das alltägliche Leben aufgegriffen.</desc>
+    <credits>
+      <director>Uta Kenter</director>
+      <director>Stefan Zucker</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34480013eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119090000 +0000" stop="20261119100000 +0000"><title lang="de">Forum - Die aktuelle Debatte</title>
+    <desc lang="de">Mit Gästen und dem Publikum wird über aktuelle Themen aus Gesellschaft, Politik, Wirtschaft und Kultur diskutiert. Dabei fliessen Meinungen und Fragen ein, die das Moderationsteam per Telefon, E-Mail oder Online-Kommentar erreichen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28537928ih10ad_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <premiere /></programme><programme channel="SRF.1.ch" start="20261119100000 +0000" stop="20261119110500 +0000"><title lang="de">Rundschau</title>
+    <desc lang="de">In Reportagen und Beiträgen wird über das Geschehen in Politik, Wirtschaft und Gesellschaft berichtet. Die Beiträge bewegen sich oft mitten drin im Themengegenstand, ohne jedoch die kritisch-journalistische Distanz zu verlieren.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11181022bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261119110500 +0000" stop="20261119112500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 2</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119112500 +0000" stop="20261119114500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 3</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119114500 +0000" stop="20261119115000 +0000"><title lang="de">Tagesschau kompakt - Mittagsausgabe</title>
+    <desc lang="de">Es wird über die wichtigsten Themen aus Politik, Wirtschaft und Kultur am Mittag berichtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32581704bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119115000 +0000" stop="20261119120500 +0000"><title lang="de">Meteo - Mittagsausgabe</title>
+    <desc lang="de">In der Sendung gibt es umfassende Informationen zur aktuellen Wetterlage sowie Prognosen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005178bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119120500 +0000" stop="20261119123500 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Nördliches Baskenland, Frankreich</sub-title>
+    <desc lang="de">Alte, regionale Tierrassen - für Bauern aus dem Nördlichen Baskenland sind sie die Zukunft. Sie verarbeiten das Fleisch der Tiere zu Schinken, Würsten und Fleischkonserven. Auf den Tisch kommen Piperade mit Speck, Apfel-Blutwurst-Crumble und mehr.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p33029300eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261119123500 +0000" stop="20261119133000 +0000"><title lang="de">SRF bi de Lüt</title>
+    <sub-title lang="de">Familiensache</sub-title>
+    <desc lang="de">In dieser Folge geben sich Markus und Patrizia in der Kirche endlich das Jawort. Bei der Familie Hosali geht es auf dem Jakobsweg ziemlich drunter und drüber. Die Familie Dietrich ist mit ihren Kräften hingegen am Anschlag.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13598356ih10ac_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119133000 +0000" stop="20261119143000 +0000"><title lang="de">SRF bi de Lüt</title>
+    <sub-title lang="de">Familiensache</sub-title>
+    <desc lang="de">Patrizia und Markus Scherrer jagen auf ihrer Hochzeitsreise in Lappland die magischen Nordlichter.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13598356ih10ac_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119143000 +0000" stop="20261119161000 +0000"><title lang="de">Zwischen uns die Berge</title>
+    <desc lang="de">Beat entschliesst sich, zwei Jahre in Rom zu dienen. Kurz vor der Abreise verliebt er sich in Jacqueline, die Verlobte seines besten Freundes Dominik. Als dieser ihn zur Rede stellt, kommt es zu einem Handgemenge mit gravierenden Folgen.</desc>
+    <credits>
+      <actor role="Jacqueline Escher">Nelly Borgeaud</actor>
+      <actor role="Beat Matter">Hannes Schmidhauser</actor>
+      <actor role="Dominik">Peter Arens</actor>
+      <actor role="Korporal Rémy">Fred Tanner</actor>
+      <actor role="Posthalter">Heinrich Gretler</actor>
+      <actor role="Federico">Max Haufler</actor>
+      <director>Franz Schnyder</director>
+    </credits>
+    <date>1956</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12019000bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261119161000 +0000" stop="20261119162000 +0000"><title lang="de">SRF Kids News</title>
+    <desc lang="de">Aufgearbeitete Nachrichten aus der Schweiz und anderen Ländern erklären Kindern die Welt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30777559bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119162000 +0000" stop="20261119163000 +0000"><title lang="de">SRF Kids Inside</title>
+    <sub-title lang="de">Letzte Vorbereitungen für die Premierenshow</sub-title>
+    <desc lang="de">Es wird das Leben von Kindern in der Schweiz mit all seinen Höhen und Tiefen gezeigt, sei es Zahnspangen, Trennungen der Eltern oder neue Haustiere. Das Format gibt Einblick in ihre Wünsche, Probleme und Freundschaften - authentisch und nah.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34536973eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S11 E3</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261119163000 +0000" stop="20261119164000 +0000"><title lang="de">Guetnachtgschichtli</title>
+    <sub-title lang="de">Nussbaumbandi - Wer lauft denn da?</sub-title>
+    <desc lang="de">Verschiedene Kinderserien mit spannenden Charakteren dienen als Gute-Nacht-Geschichten. Der kleine Pingu, Mascha und ihr Bär oder der Hase Flipper erleben kurze Geschichten über Freundschaft, Abenteuer und die Facetten des Lebens.</desc>
+    <credits>
+      <director>Gabriela Kasperski</director>
+      <director>Marek Beles</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34491253eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119164000 +0000" stop="20261119170000 +0000"><title lang="de">Telesguard</title>
+    <desc lang="de">Von Montag bis Freitag wird über das aktuelle Geschehen in der Schweiz und in Graubünden sowie über weitere relevante Themen berichtet. Auf Rätoromanisch wird gezeigt, was Graubünden und die rätoromanische Schweiz bewegt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182612bdh10ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119170000 +0000" stop="20261119170500 +0000"><title lang="de">Tagesschau kompakt - Vorabendausgabe</title>
+    <desc lang="de">Es wird über die wichtigsten Themen aus Politik, Wirtschaft und Kultur am Vorabend berichtet.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32581726bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119170500 +0000" stop="20261119171000 +0000"><title lang="de">Meteo - Vorabendausgabe</title>
+    <desc lang="de">Es wird hier informiert über die aktuellen Wetteraussichten für die gesamte Schweiz.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005713bdh10ae_Backdrop_W660.webp" />
+  </programme><programme channel="SRF.1.ch" start="20261119171000 +0000" stop="20261119172500 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 4</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119172500 +0000" stop="20261119180000 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Den Haag, Niederlande</sub-title>
+    <desc lang="de">Den Haag gilt als Hotspot indonesischer Küche in Europa. Hier kocht die gebürtige Indonesierin Yulia Pattopang. Auf den Tisch kommen Klassiker wie das würzige Rendang, die Rindfleischsuppe Soto Betawi oder der frische Weisskrautsalat Karedok.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p33309856eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261119180000 +0000" stop="20261119182500 +0000"><title lang="de">Couleurs locales von RTS sendet in Deutsch</title>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34491284ih8aa_Iconic_W660.webp" />
+  </programme><programme channel="SRF.1.ch" start="20261119182500 +0000" stop="20261119183000 +0000"><title lang="de">SRF Börse</title>
+    <desc lang="de">Alle aktuellen Entwicklungen und wichtigsten Ereignisse der Schweizer Börse werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182347bdh10ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119183000 +0000" stop="20261119185500 +0000"><title lang="de">Tagesschau - Hauptausgabe</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages aus der Schweiz und der Welt werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18925663bdh10af_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119185500 +0000" stop="20261119191000 +0000"><title lang="de">Meteo - Abendausgabe</title>
+    <desc lang="de">Es werden aktuelle Prognosen und Berichte über das Wetter in der Schweiz präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11182414bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119191000 +0000" stop="20261119193500 +0000"><title lang="de">Notrufzentrale</title>
+    <sub-title lang="de">Sanitätsnotruf: Baby mit Atemnot</sub-title>
+    <desc lang="de">Die Calltaker der Notrufzentralen im Land werden in echten Notfällen bei ihrer Arbeit begleitet. Mit originalen Mitschnitten aus den Zentralen erleben die Zuschauer so die Dramen und Extremsituationen, die die Angestellten dort täglich meistern.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34491306eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261119193500 +0000" stop="20261119200500 +0000"><title lang="de">Notrufzentrale</title>
+    <sub-title lang="de">Sanitätsnotruf: Was tun, wenn niemand spricht?</sub-title>
+    <desc lang="de">Die Calltaker der Notrufzentralen im Land werden in echten Notfällen bei ihrer Arbeit begleitet. Mit originalen Mitschnitten aus den Zentralen erleben die Zuschauer so die Dramen und Extremsituationen, die die Angestellten dort täglich meistern.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31183768bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261119200500 +0000" stop="20261119205000 +0000"><title lang="de">Einstein</title>
+    <sub-title lang="de">Was, wenns brennt? Feuer in deinem Zuhause</sub-title>
+    <desc lang="de">Das Wissensmagazin von Schweizer Radio und Fernsehen berichtet wöchentlich über aktuelle und hintergründige Themen aus allen Wissensbereichen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34506564eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119205000 +0000" stop="20261119211500 +0000"><title lang="de">10 vor 10</title>
+    <desc lang="de">Das Tagesgeschehen mit den aktuellsten und brisantesten Themen aus der Schweiz wird vorgestellt. In Reportagen, Porträts und Live-Gesprächen werden die Hintergründe von Schlagzeilen sowie das Geschehen aus dem In- und Ausland erläutert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10905661bdh8ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119211500 +0000" stop="20261119213000 +0000"><title lang="de">Meteo - Spätausgabe</title>
+    <desc lang="de">In dieser Spätausgabe werden die Wetteraussichten für die gesamte Schweiz vorgestellt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20005730bdh10ad_Backdrop_W660.webp" />
+  </programme><programme channel="SRF.1.ch" start="20261119213000 +0000" stop="20261119220500 +0000"><title lang="de">Gredig direkt</title>
+    <sub-title lang="de">Alice Schwarzer: Hat sich der Kampf gelohnt?</sub-title>
+    <desc lang="de">Der Moderator begrüsst in diesem Magazin jeweils eine Persönlichkeit zum tiefgründigen Gespräch über aktuelle Themen. Der Fokus liegt hierbei auf einer sehr persönlichen und zugleich gesellschaftlich relevanten Geschichte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18120631bdh8ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119220500 +0000" stop="20261119230000 +0000"><title lang="de">NZZ Format</title>
+    <sub-title lang="de">Demenz mit 49 - Wenn das Ich verschwindet</sub-title>
+    <desc lang="de">Immer mehr Menschen erkranken an Demenz. Die meisten sind über 65 Jahre, aber es gibt auch immer mehr jüngere Betroffene. Ursina Parr ist 49 Jahre alt, als sie die Diagnose hört: Jugenddemenz. Anders als die Altersdemenz ist die Frühdemenz erblich.</desc>
+    <credits>
+      <director>Annette Berthoud</director>
+      <director>Katharina Deuber</director>
+      <director>Basil Gelpke</director>
+      <director>Gerti Maader</director>
+      <director>Kurt Widmer</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30137843eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.1.ch" start="20261119230000 +0000" stop="20261119231000 +0000"><title lang="de">Newsflash SRF 1</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p19777513bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261119231000 +0000" stop="20261120002000 +0000"><title lang="de">Sternstunde Philosophie</title>
+    <sub-title lang="de">Sophia Fritz und Julia Ebner</sub-title>
+    <desc lang="de">Wer ist wofür verantwortlich? Worin besteht die menschliche Freiheit? Was bestimmt unseren Lebenssinn? Zu Gast sind Persönlichkeiten aus den unterschiedlichsten Fachbereichen, die zum Denken anregen und unser Zeitgeschehen reflektieren.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34440291eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261120002000 +0000" stop="20261120004500 +0000"><title lang="de">Notrufzentrale</title>
+    <sub-title lang="de">Sanitätsnotruf: Baby mit Atemnot</sub-title>
+    <desc lang="de">Die Calltaker der Notrufzentralen im Land werden in echten Notfällen bei ihrer Arbeit begleitet. Mit originalen Mitschnitten aus den Zentralen erleben die Zuschauer so die Dramen und Extremsituationen, die die Angestellten dort täglich meistern.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34491306eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261120004500 +0000" stop="20261120011000 +0000"><title lang="de">Notrufzentrale</title>
+    <sub-title lang="de">Sanitätsnotruf: Was tun, wenn niemand spricht?</sub-title>
+    <desc lang="de">Die Calltaker der Notrufzentralen im Land werden in echten Notfällen bei ihrer Arbeit begleitet. Mit originalen Mitschnitten aus den Zentralen erleben die Zuschauer so die Dramen und Extremsituationen, die die Angestellten dort täglich meistern.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31183768bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme><programme channel="SRF.1.ch" start="20261120011000 +0000" stop="20261120014000 +0000"><title lang="de">Gredig direkt</title>
+    <sub-title lang="de">Alice Schwarzer: Hat sich der Kampf gelohnt?</sub-title>
+    <desc lang="de">Der Moderator begrüsst in diesem Magazin jeweils eine Persönlichkeit zum tiefgründigen Gespräch über aktuelle Themen. Der Fokus liegt hierbei auf einer sehr persönlichen und zugleich gesellschaftlich relevanten Geschichte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18120631bdh8ac_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261120014000 +0000" stop="20261120020000 +0000"><title lang="de">Mini Chuchi, dini Chuchi</title>
+    <sub-title lang="de">Öppis mit Erdnüssli - Tag 4</sub-title>
+    <desc lang="de">Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20479226bdh10ag_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261120020000 +0000" stop="20261120023500 +0000"><title lang="de">ECO Talk</title>
+    <sub-title lang="de">Mobiliar-Versicherung: Als Genossenschaft im Spannungsfeld des Marktes</sub-title>
+    <desc lang="de">Verschiedene Führungspersönlichkeiten der Wirtschaft stehen im Mittelpunkt. Sie werden befragt, wie sie in Krisen reagieren, wann sie Entscheide umsetzen und wie sie zwischen unternehmerischem Vorteil und gesellschaftlicher Verantwortung abwägen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11776995bdh8ad_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.1.ch" start="20261120023500 +0000" stop="20261120035000 +0000"><title lang="de">Literaturclub</title>
+    <desc lang="de">Lernen Sie eine Auswahl literarischer Neuerscheinungen kennen, die in einer Diskussionsrunde kritisch und differenziert analysiert werden. Auf diese Weise wird intellektueller Anspruch mit unterhaltsamen Debatten verbunden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34144481eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.1.ch" start="20261120035000 +0000" stop="20261120041500 +0000"><title lang="de">Zu Tisch ...</title>
+    <sub-title lang="de">Den Haag, Niederlande</sub-title>
+    <desc lang="de">Den Haag gilt als Hotspot indonesischer Küche in Europa. Hier kocht die gebürtige Indonesierin Yulia Pattopang. Auf den Tisch kommen Klassiker wie das würzige Rendang, die Rindfleischsuppe Soto Betawi oder der frische Weisskrautsalat Karedok.</desc>
+    <credits>
+      <director>Elke Sasse</director>
+    </credits>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p33309856eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261116015000 +0000" stop="20261116043500 +0000"><title lang="de">The Wolf of Wall Street</title>
+    <desc lang="de">Der Aktienhändler Jordan Belfort gründet eine eigene Firma und wird zum Multimillionär und Star der New Yorker Börse. Seine unstillbare Gier nach Geld bringt ihn dazu, sich auf illegale Geschäfte einzulassen. Doch das FBI ist ihm bald auf den Fersen.</desc>
+    <credits>
+      <actor role="Jordan Belfort">Leonardo DiCaprio</actor>
+      <actor role="Donnie Azoff">Jonah Hill</actor>
+      <actor role="Naomi">Margot Robbie</actor>
+      <actor role="Mark Hanna">Matthew McConaughey</actor>
+      <actor role="Patrick Denham">Kyle Chandler</actor>
+      <actor role="Brad">Jon Bernthal</actor>
+      <actor role="Manny Riskin">Jon Favreau</actor>
+      <actor role="Max Belfort">Rob Reiner</actor>
+      <actor role="Jean-Jacques Saurel">Jean Dujardin</actor>
+      <actor role="Tante Emma">Joanna Lumley</actor>
+      <director>Martin Scorsese</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/mv006759410000x552_stage_W660.webp" />
+    <country lang="de">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261116043500 +0000" stop="20261116080000 +0000"><title lang="de">3 auf zwei</title>
+    <desc lang="de">Ein abwechslungsreiches Morgenprogramm bietet den idealen Start in den Tag. Eine Mischung aus aktueller Musik, Nachrichten, Wetterberichten, sportlichen Updates und unterhaltsamen Elementen sorgt für eine vielseitige Berichterstattung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11192399bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116080000 +0000" stop="20261116082500 +0000"><title lang="de">Tagesschau vor 20 Jahren</title>
+    <sub-title lang="de">vom 16.11.2006</sub-title>
+    <desc lang="de">Die Sendung dokumentiert alle 20-Uhr-Ausgaben Tag für Tag im Nachrichtenrückblick. Es wird gezeigt, wie die Welt vor 20 Jahren aussah, welche Themen die politische Debatte bestimmten und wie die Probleme bewertet wurden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34457195eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116082500 +0000" stop="20261116091000 +0000"><title lang="de">Jetzt oder nie - Lebe deinen Traum</title>
+    <sub-title lang="de">Ein Traum ist geplatzt</sub-title>
+    <desc lang="de">Der Traum, den New York Marathon zu gewinnen, muss Battesta Albin begraben. Sein Knie macht das nicht mit. Auch bei den Auswanderern gibt es Ärger, sie müssen ihre schimmlige Wohnung verlassen und ziehen auf einen Campingplatz.</desc>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18966783eh10ac_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116091000 +0000" stop="20261116095500 +0000"><title lang="de">Jetzt oder nie - Lebe deinen Traum</title>
+    <sub-title lang="de">Von Kämpferinnen und Kämpfer</sub-title>
+    <desc lang="de">Nach exakt 5013 Kilometern, in denen nonstop gerudert wurde, sind die Frauen der SwissOceanDancers endlich am Ziel in Antigua. Kämpfen müssen auch die Auswanderer in Cornwall, denn wegen Corona ist der Häusermarkt komplett zum Erliegen gekommen.</desc>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18984632eh11aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116095500 +0000" stop="20261116103000 +0000"><title lang="de">Kulturzeit</title>
+    <desc lang="de">Das werktägliche Kulturmagazin mischt sich in kulturelle und gesellschaftspolitische Fragen ein. "Kulturzeit" bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10950682bdh8ah_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261116103000 +0000" stop="20261116104500 +0000"><title lang="de">SRF Kids News</title>
+    <desc lang="de">Aufgearbeitete Nachrichten aus der Schweiz und anderen Ländern erklären Kindern die Welt.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30777559bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116104500 +0000" stop="20261116110000 +0000"><title lang="de">SRF Kids Inside</title>
+    <sub-title lang="de">Bis zu 50 Grad im Zirkuszelt: Gelingen die Tricks?</sub-title>
+    <desc lang="de">Die Sommerhitze erschwert das Training im Zirkuszelt, wo Feline hart für den Grossen Stern auf dem Hochrad übt. Gleichzeitig verdient sich Jérôme sein Sackgeld selbst und sorgt dabei mit den Schlümpfen für eine Überraschung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34532929eh8aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S11 E2</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261116110000 +0000" stop="20261116151000 +0000"><title lang="de">3 auf zwei</title>
+    <desc lang="de">Ein abwechslungsreiches Morgenprogramm bietet den idealen Start in den Tag. Eine Mischung aus aktueller Musik, Nachrichten, Wetterberichten, sportlichen Updates und unterhaltsamen Elementen sorgt für eine vielseitige Berichterstattung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11192399bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116151000 +0000" stop="20261116155500 +0000"><title lang="de">Wege zum Glück</title>
+    <sub-title lang="de">Kapitel 627</sub-title>
+    <desc lang="de">Luisa und Simon planen ihre gemeinsame Zukunft. Da Henning das Hotel von Luisa und dazu sein ganzes Geld verspielt hat, wollen Luisa und Simon zunächst in Falkental bleiben, um Geld für die Realisierung ihres gemeinsamen Traumes zu verdienen.</desc>
+    <credits>
+      <actor role="Eva Landmann">Karin Ugowski</actor>
+      <actor role="Julia Schilling">Susanne Gartner</actor>
+      <actor role="Tobias Becker">Ralph Schicha</actor>
+      <actor role="Luisa Maywald">Susanne Berckhemer</actor>
+      <actor role="Annabelle Gravenberg">Isa Andersen</actor>
+      <actor role="Patrizia Gravenberg">Lucie Muhr</actor>
+      <actor role="Ben Petersen">Hubertus Grimm</actor>
+      <actor role="Viktoria Van Weyden">Mareile Bettina Moeller</actor>
+      <actor role="Hagen Ritter">Jens-Peter Nünemann</actor>
+      <actor role="Daniel Gravenberg">Roman Rossa</actor>
+    </credits>
+    <date>2008</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12913435eh8aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S3 E127</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261116155500 +0000" stop="20261116165000 +0000"><title lang="de">Chicago Fire</title>
+    <sub-title lang="de">Ambitionen</sub-title>
+    <desc lang="de">Casey ist mit Mills' geplantem Wechsel nicht einverstanden. Während Herrmanns Abwesenheit bekommt seine Frau Cindy Komplikationen in ihrer Schwangerschaft. Shay versucht, ihr zu helfen. Zudem gerät sie in einen Streit mit Severide.</desc>
+    <credits>
+      <actor role="Matthew Casey">Jesse Spencer</actor>
+      <actor role="Kelly Severide">Taylor Kinney</actor>
+      <actor role="Peter Mills">Charlie Barnett</actor>
+      <actor role="Gabriela Dawson">Monica Raymund</actor>
+      <actor role="Leslie Shay">Lauren German</actor>
+      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
+      <actor role="Christopher Herrmann">David Eigenberg</actor>
+      <actor role="Hallie Thomas">Teri Reeves</actor>
+      <director>Arthur Forney</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9826834eh8ab_Iconic_W660.webp" />
+    <country lang="de">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261116165000 +0000" stop="20261116175000 +0000"><title lang="de">Passe-moi les jumelles</title>
+    <sub-title lang="de">Der Himmel ist meine Domäne</sub-title>
+    <desc lang="de">Matthieu Fournier setzt seine Reise auf dem Jura Bike fort, mit einer Etappe zwischen Couvet und Sainte-Croix. Dort spricht er mit den Helikopter-Piloten Patrick Fauchère von Air-Glaciers und Pascal Brun, einem Piloten aus Chamonix.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17441364eh8ab_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116175000 +0000" stop="20261116183000 +0000"><title lang="de">Life@SRF</title>
+    <desc lang="de">Es wird in aktuelle gesellschaftliche Themen eingetaucht, die junge Menschen bewegen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21975931bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116183000 +0000" stop="20261116190000 +0000"><title lang="de">Tagesschau - Hauptausgabe</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages aus der Schweiz und der Welt werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18925663bdh10af_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116190000 +0000" stop="20261116191000 +0000"><title lang="de">sportflash</title>
+    <desc lang="de">Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581161bdh10ab_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116191000 +0000" stop="20261116223500 +0000"><title lang="de">UEFA Nations League: Schweiz - Schottland</title>
+    <desc lang="de">Übertragungen der aktuellen Wettbewerbe der UEFA Nations League.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep032704680734x106_stage_W660.webp" />
+    <premiere /></programme><programme channel="SRF.zwei.ch" start="20261116223500 +0000" stop="20261116224000 +0000"><title lang="de">sportflash</title>
+    <desc lang="de">Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581161bdh10ab_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116224000 +0000" stop="20261116225500 +0000"><title lang="de">Newsflash SRF zwei</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581011bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116225500 +0000" stop="20261116233000 +0000"><title lang="de">rec</title>
+    <sub-title lang="de">Kopftuch</sub-title>
+    <desc lang="de">Wir erfahren von verschiedenen Themen, die die Reporter und deren Community bewegen. Die Reporter gehen dorthin, wo es etwas zu ent- oder aufdecken gibt und zeigen die Momentaufnahmen der Welt so, wie sie sie auffinden, echt und ohne Filter.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34457315eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116233000 +0000" stop="20261116235000 +0000"><title lang="de">Tagesschau vor 20 Jahren</title>
+    <sub-title lang="de">vom 16.11.2006</sub-title>
+    <desc lang="de">Die Sendung dokumentiert alle 20-Uhr-Ausgaben Tag für Tag im Nachrichtenrückblick. Es wird gezeigt, wie die Welt vor 20 Jahren aussah, welche Themen die politische Debatte bestimmten und wie die Probleme bewertet wurden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34457195eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261116235000 +0000" stop="20261117002500 +0000"><title lang="de">Life@SRF</title>
+    <desc lang="de">Es wird in aktuelle gesellschaftliche Themen eingetaucht, die junge Menschen bewegen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21975931bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117002500 +0000" stop="20261117011000 +0000"><title lang="de">Chicago Fire</title>
+    <sub-title lang="de">Ambitionen</sub-title>
+    <desc lang="de">Casey ist mit Mills' geplantem Wechsel nicht einverstanden. Während Herrmanns Abwesenheit bekommt seine Frau Cindy Komplikationen in ihrer Schwangerschaft. Shay versucht, ihr zu helfen. Zudem gerät sie in einen Streit mit Severide.</desc>
+    <credits>
+      <actor role="Matthew Casey">Jesse Spencer</actor>
+      <actor role="Kelly Severide">Taylor Kinney</actor>
+      <actor role="Peter Mills">Charlie Barnett</actor>
+      <actor role="Gabriela Dawson">Monica Raymund</actor>
+      <actor role="Leslie Shay">Lauren German</actor>
+      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
+      <actor role="Christopher Herrmann">David Eigenberg</actor>
+      <actor role="Hallie Thomas">Teri Reeves</actor>
+      <director>Arthur Forney</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9826834eh8ab_Iconic_W660.webp" />
+    <country lang="de">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261117011000 +0000" stop="20261117030000 +0000"><title lang="de">UEFA Nations League: Schweiz - Schottland</title>
+    <desc lang="de">Übertragungen der aktuellen Wettbewerbe der UEFA Nations League.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep032704680734x106_stage_W660.webp" />
+  </programme><programme channel="SRF.zwei.ch" start="20261117030000 +0000" stop="20261117034000 +0000"><title lang="de">Wege zum Glück</title>
+    <sub-title lang="de">Kapitel 627</sub-title>
+    <desc lang="de">Luisa und Simon planen ihre gemeinsame Zukunft. Da Henning das Hotel von Luisa und dazu sein ganzes Geld verspielt hat, wollen Luisa und Simon zunächst in Falkental bleiben, um Geld für die Realisierung ihres gemeinsamen Traumes zu verdienen.</desc>
+    <credits>
+      <actor role="Eva Landmann">Karin Ugowski</actor>
+      <actor role="Julia Schilling">Susanne Gartner</actor>
+      <actor role="Tobias Becker">Ralph Schicha</actor>
+      <actor role="Luisa Maywald">Susanne Berckhemer</actor>
+      <actor role="Annabelle Gravenberg">Isa Andersen</actor>
+      <actor role="Patrizia Gravenberg">Lucie Muhr</actor>
+      <actor role="Ben Petersen">Hubertus Grimm</actor>
+      <actor role="Viktoria Van Weyden">Mareile Bettina Moeller</actor>
+      <actor role="Hagen Ritter">Jens-Peter Nünemann</actor>
+      <actor role="Daniel Gravenberg">Roman Rossa</actor>
+    </credits>
+    <date>2008</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12913435eh8aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S3 E127</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261117034000 +0000" stop="20261117043500 +0000"><title lang="de">Passe-moi les jumelles</title>
+    <sub-title lang="de">Der Himmel ist meine Domäne</sub-title>
+    <desc lang="de">Matthieu Fournier setzt seine Reise auf dem Jura Bike fort, mit einer Etappe zwischen Couvet und Sainte-Croix. Dort spricht er mit den Helikopter-Piloten Patrick Fauchère von Air-Glaciers und Pascal Brun, einem Piloten aus Chamonix.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17441364eh8ab_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117043500 +0000" stop="20261117075000 +0000"><title lang="de">3 auf zwei</title>
+    <desc lang="de">Ein abwechslungsreiches Morgenprogramm bietet den idealen Start in den Tag. Eine Mischung aus aktueller Musik, Nachrichten, Wetterberichten, sportlichen Updates und unterhaltsamen Elementen sorgt für eine vielseitige Berichterstattung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11192399bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117075000 +0000" stop="20261117081500 +0000"><title lang="de">Tagesschau vor 20 Jahren</title>
+    <sub-title lang="de">vom 17.11.2006</sub-title>
+    <desc lang="de">Die Sendung dokumentiert alle 20-Uhr-Ausgaben Tag für Tag im Nachrichtenrückblick. Es wird gezeigt, wie die Welt vor 20 Jahren aussah, welche Themen die politische Debatte bestimmten und wie die Probleme bewertet wurden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26450347bdh8ab_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117081500 +0000" stop="20261117090000 +0000"><title lang="de">Jetzt oder nie - Lebe deinen Traum</title>
+    <sub-title lang="de">Abenteurerin Thesi Zwyssig</sub-title>
+    <desc lang="de">Die Protagonistinnen und Protagonisten lassen Revue passieren, wie sie ihren Traum verwirklicht haben. Den Start macht die Extremsportlerin Thesi Zwyssig. Nach ihrem Abenteuer im Himalaya wartet die nächste Herausforderung in Sibirien.</desc>
+    <credits>
+      <director>Roger Ammann</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep030447740005x675_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117090000 +0000" stop="20261117094500 +0000"><title lang="de">Jetzt oder nie - Lebe deinen Traum</title>
+    <sub-title lang="de">Spezial: Das Wiedersehen - Liebe im Alter mit Willi Baldi Wehrli</sub-title>
+    <desc lang="de">In drei Folgen lassen die Protagonisten Revue passieren, wie sie ihren Traum verwirklicht haben und was sich in ihrem Leben verändert hat. Bei Willi Baldi Wehrli, 76, geht es um das Suchen und Finden der Liebe im Alter.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep030447740006x189_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117094500 +0000" stop="20261117102500 +0000"><title lang="de">Kulturzeit</title>
+    <desc lang="de">Das werktägliche Kulturmagazin mischt sich in kulturelle und gesellschaftspolitische Fragen ein. "Kulturzeit" bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10950682bdh8ah_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261117102500 +0000" stop="20261117110000 +0000"><title lang="de">Life@SRF</title>
+    <desc lang="de">Es wird in aktuelle gesellschaftliche Themen eingetaucht, die junge Menschen bewegen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21975931bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117110000 +0000" stop="20261117150500 +0000"><title lang="de">3 auf zwei</title>
+    <desc lang="de">Ein abwechslungsreiches Morgenprogramm bietet den idealen Start in den Tag. Eine Mischung aus aktueller Musik, Nachrichten, Wetterberichten, sportlichen Updates und unterhaltsamen Elementen sorgt für eine vielseitige Berichterstattung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11192399bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117150500 +0000" stop="20261117155500 +0000"><title lang="de">Wege zum Glück</title>
+    <sub-title lang="de">Kapitel 628</sub-title>
+    <desc lang="de">Luisa und Simon sind überrascht, als sie Nora und Henning in flagranti erwischen. Doch während Luisa rätselt, was das Gesehene zu bedeuten hat, hat Simon nun endgültig genug von Noras und Hennings Spielchen.</desc>
+    <credits>
+      <actor role="Eva Landmann">Karin Ugowski</actor>
+      <actor role="Julia Schilling">Susanne Gartner</actor>
+      <actor role="Tobias Becker">Ralph Schicha</actor>
+      <actor role="Luisa Maywald">Susanne Berckhemer</actor>
+      <actor role="Annabelle Gravenberg">Isa Andersen</actor>
+      <actor role="Patrizia Gravenberg">Lucie Muhr</actor>
+      <actor role="Ben Petersen">Hubertus Grimm</actor>
+      <actor role="Viktoria Van Weyden">Mareile Bettina Moeller</actor>
+      <actor role="Hagen Ritter">Jens-Peter Nünemann</actor>
+      <actor role="Daniel Gravenberg">Roman Rossa</actor>
+    </credits>
+    <date>2008</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12913497eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S3 E128</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261117155500 +0000" stop="20261117165000 +0000"><title lang="de">Chicago Fire</title>
+    <sub-title lang="de">Vergeltungsschlag</sub-title>
+    <desc lang="de">Die Anschuldigungen gegen Severide bringen Konsequenzen für ihn. Mills beherzter Rettungseinsatz schürt Hadleys Eifersucht. Währenddessen findet Casey heraus, dass Detective Voight wieder auf freiem Fuss ist.</desc>
+    <credits>
+      <actor role="Matthew Casey">Jesse Spencer</actor>
+      <actor role="Kelly Severide">Taylor Kinney</actor>
+      <actor role="Peter Mills">Charlie Barnett</actor>
+      <actor role="Gabriela Dawson">Monica Raymund</actor>
+      <actor role="Leslie Shay">Lauren German</actor>
+      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
+      <actor role="Christopher Herrmann">David Eigenberg</actor>
+      <actor role="Hallie Thomas">Teri Reeves</actor>
+      <director>Jean de Segonzac</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9892442eh10ac_Iconic_W660.webp" />
+    <country lang="de">US</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261117165000 +0000" stop="20261117171500 +0000"><title lang="de">Dokumentationen in anderen Landessprachen</title>
+    <sub-title lang="de">Zauberhaftes Tessin - Calanca Tal</sub-title>
+    <desc lang="de">Die Sendung zeigt Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz. Die Dokumentationen sind nah an den Menschen dran und zeigen, wie vielfältig das Land ist.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25857013eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117171500 +0000" stop="20261117175000 +0000"><title lang="de">Cuntrasts</title>
+    <sub-title lang="de">Meer, Berge und Morins</sub-title>
+    <desc lang="de">Präsentiert werden 25-minütige Dokumentarfilme mit einem breiten und vielfältigen Themenspektrum über die rätoromanische Kultur, ihre Entwicklung und verschiedene weitere Aspekte, wobei der Schwerpunkt auf der historischen Ebene liegt.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11181086ih10ad_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117175000 +0000" stop="20261117183000 +0000"><title lang="de">Music@SRF</title>
+    <desc lang="de">Die Sendung wirft einen Blick in das aktuelle Musikangebot und präsentiert eine Auswahl an Songs.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21981672bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S1 E162</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261117183000 +0000" stop="20261117190000 +0000"><title lang="de">Tagesschau - Hauptausgabe</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages aus der Schweiz und der Welt werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18925663bdh10af_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117190000 +0000" stop="20261117191000 +0000"><title lang="de">sportflash</title>
+    <desc lang="de">Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581161bdh10ab_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117191000 +0000" stop="20261117200000 +0000"><title lang="de">Länder - Menschen - Abenteuer</title>
+    <sub-title lang="de">Young Adventurers - Australien - Hitze, Haie und herzliche Aussies</sub-title>
+    <desc lang="de">Die Sonne brennt auf der Haut, feiner Staub dringt in jede Falte der Kleidung, die Luft schmeckt nach Salz und Eukalyptus. Für Kim Kristin Mauch und Eike Köhler beginnt im Süden Australiens ein Roadtrip, der sie einmal quer durch das Land führt.</desc>
+    <credits>
+      <director>Rolf Lambert</director>
+      <director>Bernd Girrbach</director>
+      <director>Robert Hetkämper</director>
+      <director>Sven Jaax</director>
+      <director>Dimitrios Kisoudis</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30376631eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117200000 +0000" stop="20261117205000 +0000"><title lang="de">mareTV</title>
+    <sub-title lang="de">Australiens Meereswunder - Am Great Barrier Reef</sub-title>
+    <desc lang="de">Das Great Barrier Reef ist so gross, dass es aus dem All mit blossem Auge zu erkennen ist. Es erstreckt sich über 2.300 Kilometer entlang der australischen Nordostküste. Doch das UNESCO-Weltnaturerbe ist durch den Klimawandel bedroht.</desc>
+    <credits>
+      <director>Jan Drevs</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23890771eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117205000 +0000" stop="20261117214500 +0000"><title lang="de">Blumenmeer und Feuerwälder - Nationalparks im Westen Australiens</title>
+    <desc lang="de">In einer der ältesten Landschaften der Erde suchen Astrobiologen nach dem Ursprung des Lebens. Man erfährt, wie die indigenen Ältesten ihren Familien beibringen, Buschfeuer von vornherein zu verhindern, indem sie auf die richtige Art Feuer machen.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28996623ih11ab_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117214500 +0000" stop="20261117215000 +0000"><title lang="de">sportflash</title>
+    <desc lang="de">Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581161bdh10ab_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117215000 +0000" stop="20261117220000 +0000"><title lang="de">Newsflash SRF zwei</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581011bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261117220000 +0000" stop="20261117235000 +0000"><title lang="de">Operation: Kingdom</title>
+    <desc lang="de">Arabische Terroristen überfallen eine abgeschirmte amerikanische Wohnsiedlung im saudi-arabischen Riad und richten mit einem Bombenanschlag ein Blutbad an. Das FBI schickt ein vierköpfiges Team vor Ort, um den Saudis Amtshilfe zu leisten.</desc>
+    <credits>
+      <actor role="Ronald Fleury">Jamie Foxx</actor>
+      <actor role="Grant Sykes">Chris Cooper</actor>
+      <actor role="Janet Mayes">Jennifer Garner</actor>
+      <actor role="Adam Leavitt">Jason Bateman</actor>
+      <actor role="Col. Faris Al-Ghazi">Ashraf Barhom</actor>
+      <actor role="Sgt. Haytham">Ali Suliman</actor>
+      <actor role="Damon Schmidt">Jeremy Piven</actor>
+      <actor role="James Grace">Richard Jenkins</actor>
+      <actor role="Aaron Jackson">Tim McGraw</actor>
+      <actor role="Francis Manner">Kyle Chandler</actor>
+      <director>Peter Berg</director>
+    </credits>
+    <date>2007</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/mv005928170000x84_stage_W660.webp" />
+    <country lang="de">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261117235000 +0000" stop="20261118001500 +0000"><title lang="de">Tagesschau vor 20 Jahren</title>
+    <sub-title lang="de">vom 17.11.2006</sub-title>
+    <desc lang="de">Die Sendung dokumentiert alle 20-Uhr-Ausgaben Tag für Tag im Nachrichtenrückblick. Es wird gezeigt, wie die Welt vor 20 Jahren aussah, welche Themen die politische Debatte bestimmten und wie die Probleme bewertet wurden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26450347bdh8ab_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118001500 +0000" stop="20261118004500 +0000"><title lang="de">Music@SRF</title>
+    <desc lang="de">Die Sendung wirft einen Blick in das aktuelle Musikangebot und präsentiert eine Auswahl an Songs.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21981672bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S1 E162</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261118004500 +0000" stop="20261118012500 +0000"><title lang="de">Chicago Fire</title>
+    <sub-title lang="de">Vergeltungsschlag</sub-title>
+    <desc lang="de">Die Anschuldigungen gegen Severide bringen Konsequenzen für ihn. Mills beherzter Rettungseinsatz schürt Hadleys Eifersucht. Währenddessen findet Casey heraus, dass Detective Voight wieder auf freiem Fuss ist.</desc>
+    <credits>
+      <actor role="Matthew Casey">Jesse Spencer</actor>
+      <actor role="Kelly Severide">Taylor Kinney</actor>
+      <actor role="Peter Mills">Charlie Barnett</actor>
+      <actor role="Gabriela Dawson">Monica Raymund</actor>
+      <actor role="Leslie Shay">Lauren German</actor>
+      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
+      <actor role="Christopher Herrmann">David Eigenberg</actor>
+      <actor role="Hallie Thomas">Teri Reeves</actor>
+      <director>Jean de Segonzac</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9892442eh10ac_Iconic_W660.webp" />
+    <country lang="de">US</country>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261118012500 +0000" stop="20261118030500 +0000"><title lang="de">Operation: Kingdom</title>
+    <desc lang="de">Arabische Terroristen überfallen eine abgeschirmte amerikanische Wohnsiedlung im saudi-arabischen Riad und richten mit einem Bombenanschlag ein Blutbad an. Das FBI schickt ein vierköpfiges Team vor Ort, um den Saudis Amtshilfe zu leisten.</desc>
+    <credits>
+      <actor role="Ronald Fleury">Jamie Foxx</actor>
+      <actor role="Grant Sykes">Chris Cooper</actor>
+      <actor role="Janet Mayes">Jennifer Garner</actor>
+      <actor role="Adam Leavitt">Jason Bateman</actor>
+      <actor role="Col. Faris Al-Ghazi">Ashraf Barhom</actor>
+      <actor role="Sgt. Haytham">Ali Suliman</actor>
+      <actor role="Damon Schmidt">Jeremy Piven</actor>
+      <actor role="James Grace">Richard Jenkins</actor>
+      <actor role="Aaron Jackson">Tim McGraw</actor>
+      <actor role="Francis Manner">Kyle Chandler</actor>
+      <director>Peter Berg</director>
+    </credits>
+    <date>2007</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/mv005928170000x84_stage_W660.webp" />
+    <country lang="de">US</country>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261118030500 +0000" stop="20261118035000 +0000"><title lang="de">Wege zum Glück</title>
+    <sub-title lang="de">Kapitel 628</sub-title>
+    <desc lang="de">Luisa und Simon sind überrascht, als sie Nora und Henning in flagranti erwischen. Doch während Luisa rätselt, was das Gesehene zu bedeuten hat, hat Simon nun endgültig genug von Noras und Hennings Spielchen.</desc>
+    <credits>
+      <actor role="Eva Landmann">Karin Ugowski</actor>
+      <actor role="Julia Schilling">Susanne Gartner</actor>
+      <actor role="Tobias Becker">Ralph Schicha</actor>
+      <actor role="Luisa Maywald">Susanne Berckhemer</actor>
+      <actor role="Annabelle Gravenberg">Isa Andersen</actor>
+      <actor role="Patrizia Gravenberg">Lucie Muhr</actor>
+      <actor role="Ben Petersen">Hubertus Grimm</actor>
+      <actor role="Viktoria Van Weyden">Mareile Bettina Moeller</actor>
+      <actor role="Hagen Ritter">Jens-Peter Nünemann</actor>
+      <actor role="Daniel Gravenberg">Roman Rossa</actor>
+    </credits>
+    <date>2008</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12913497eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S3 E128</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261118035000 +0000" stop="20261118041500 +0000"><title lang="de">Dokumentationen in anderen Landessprachen</title>
+    <sub-title lang="de">Zauberhaftes Tessin - Calanca Tal</sub-title>
+    <desc lang="de">Die Sendung zeigt Geschichten über das Leben und die Menschen im Tessin, in der Westschweiz und der rätoromanischen Schweiz. Die Dokumentationen sind nah an den Menschen dran und zeigen, wie vielfältig das Land ist.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25857013eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118041500 +0000" stop="20261118044500 +0000"><title lang="de">Cuntrasts</title>
+    <sub-title lang="de">Meer, Berge und Morins</sub-title>
+    <desc lang="de">Präsentiert werden 25-minütige Dokumentarfilme mit einem breiten und vielfältigen Themenspektrum über die rätoromanische Kultur, ihre Entwicklung und verschiedene weitere Aspekte, wobei der Schwerpunkt auf der historischen Ebene liegt.</desc>
+    <date>2024</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11181086ih10ad_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118044500 +0000" stop="20261118075000 +0000"><title lang="de">3 auf zwei</title>
+    <desc lang="de">Ein abwechslungsreiches Morgenprogramm bietet den idealen Start in den Tag. Eine Mischung aus aktueller Musik, Nachrichten, Wetterberichten, sportlichen Updates und unterhaltsamen Elementen sorgt für eine vielseitige Berichterstattung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11192399bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118075000 +0000" stop="20261118081000 +0000"><title lang="de">Tagesschau vor 20 Jahren</title>
+    <sub-title lang="de">vom 18.11.2006</sub-title>
+    <desc lang="de">Die Sendung dokumentiert alle 20-Uhr-Ausgaben Tag für Tag im Nachrichtenrückblick. Es wird gezeigt, wie die Welt vor 20 Jahren aussah, welche Themen die politische Debatte bestimmten und wie die Probleme bewertet wurden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26450347bdh8ab_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118081000 +0000" stop="20261118085500 +0000"><title lang="de">Jetzt oder nie - Lebe deinen Traum</title>
+    <sub-title lang="de">Spezial: Das Wiedersehen - Leben in Cornwall mit Sabrina Klanig und Ueli Knecht</sub-title>
+    <desc lang="de">Die Protagonistinnen und Protagonisten reflektieren, wie sie ihren Traum verwirklicht haben und was sich in ihrem Leben verändert hat. Sabrina Klanig und Ueli Knecht sind nach Cornwall ausgewandert - mit dem Ziel, ein Bed and Breakfast zu eröffnen.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/ep030447740007x30_stage_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118085500 +0000" stop="20261118094500 +0000"><title lang="de">SRF bi de Lüt - Familiensache</title>
+    <desc lang="de">Das Abenteuer Jakobsweg ist eine Herausforderung - besonders für eine fünfköpfige Familie mit einem Buben mit Trisomie 21. Familie Hosali aus Winterthur hat dies schon einmal versucht. Und musste abbrechen.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16863994bdh8ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118094500 +0000" stop="20261118102500 +0000"><title lang="de">Kulturzeit</title>
+    <desc lang="de">Das werktägliche Kulturmagazin mischt sich in kulturelle und gesellschaftspolitische Fragen ein. "Kulturzeit" bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10950682bdh8ah_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261118102500 +0000" stop="20261118110000 +0000"><title lang="de">Music@SRF</title>
+    <desc lang="de">Die Sendung wirft einen Blick in das aktuelle Musikangebot und präsentiert eine Auswahl an Songs.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21981672bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S1 E162</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261118110000 +0000" stop="20261118124500 +0000"><title lang="de">3 auf zwei</title>
+    <desc lang="de">Ein abwechslungsreiches Morgenprogramm bietet den idealen Start in den Tag. Eine Mischung aus aktueller Musik, Nachrichten, Wetterberichten, sportlichen Updates und unterhaltsamen Elementen sorgt für eine vielseitige Berichterstattung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11192399bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118124500 +0000" stop="20261118133000 +0000"><title lang="de">Länder - Menschen - Abenteuer</title>
+    <sub-title lang="de">Young Adventurers - Australien - Hitze, Haie und herzliche Aussies</sub-title>
+    <desc lang="de">Die Sonne brennt auf der Haut, feiner Staub dringt in jede Falte der Kleidung, die Luft schmeckt nach Salz und Eukalyptus. Für Kim Kristin Mauch und Eike Köhler beginnt im Süden Australiens ein Roadtrip, der sie einmal quer durch das Land führt.</desc>
+    <credits>
+      <director>Rolf Lambert</director>
+      <director>Bernd Girrbach</director>
+      <director>Robert Hetkämper</director>
+      <director>Sven Jaax</director>
+      <director>Dimitrios Kisoudis</director>
+    </credits>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p30376631eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118133000 +0000" stop="20261118142000 +0000"><title lang="de">mareTV</title>
+    <sub-title lang="de">Australiens Meereswunder - Am Great Barrier Reef</sub-title>
+    <desc lang="de">Das Great Barrier Reef ist so gross, dass es aus dem All mit blossem Auge zu erkennen ist. Es erstreckt sich über 2.300 Kilometer entlang der australischen Nordostküste. Doch das UNESCO-Weltnaturerbe ist durch den Klimawandel bedroht.</desc>
+    <credits>
+      <director>Jan Drevs</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23890771eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118142000 +0000" stop="20261118151000 +0000"><title lang="de">Blumenmeer und Feuerwälder - Nationalparks im Westen Australiens</title>
+    <desc lang="de">In einer der ältesten Landschaften der Erde suchen Astrobiologen nach dem Ursprung des Lebens. Man erfährt, wie die indigenen Ältesten ihren Familien beibringen, Buschfeuer von vornherein zu verhindern, indem sie auf die richtige Art Feuer machen.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28996623ih11ab_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118151000 +0000" stop="20261118160000 +0000"><title lang="de">Wege zum Glück</title>
+    <sub-title lang="de">Kapitel 629</sub-title>
+    <desc lang="de">Hagen hat es geschafft - oder beinahe wenigstens. Denn es ist ihm gelungen, aus dem Gefängnis zu fliehen. Allerdings trägt er noch immer Handschellen.</desc>
+    <credits>
+      <actor role="Eva Landmann">Karin Ugowski</actor>
+      <actor role="Julia Schilling">Susanne Gartner</actor>
+      <actor role="Tobias Becker">Ralph Schicha</actor>
+      <actor role="Luisa Maywald">Susanne Berckhemer</actor>
+      <actor role="Annabelle Gravenberg">Isa Andersen</actor>
+      <actor role="Patrizia Gravenberg">Lucie Muhr</actor>
+      <actor role="Ben Petersen">Hubertus Grimm</actor>
+      <actor role="Viktoria Van Weyden">Mareile Bettina Moeller</actor>
+      <actor role="Hagen Ritter">Jens-Peter Nünemann</actor>
+      <actor role="Daniel Gravenberg">Roman Rossa</actor>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12387521ih8ab_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261118160000 +0000" stop="20261118165000 +0000"><title lang="de">Chicago Fire</title>
+    <sub-title lang="de">Anführer führen von vorne</sub-title>
+    <desc lang="de">Severide will nicht länger tatenlos Taras Anschuldigungen hinnehmen und beginnt, in ihrer Vergangenheit zu forschen. Mills möchte, dass Dawson bei ihm einzieht, doch zuvor muss sie das Geheimnis lüften, das zwischen ihnen steht.</desc>
+    <credits>
+      <actor role="Matthew Casey">Jesse Spencer</actor>
+      <actor role="Kelly Severide">Taylor Kinney</actor>
+      <actor role="Peter Mills">Charlie Barnett</actor>
+      <actor role="Gabriela Dawson">Monica Raymund</actor>
+      <actor role="Leslie Shay">Lauren German</actor>
+      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
+      <actor role="Christopher Herrmann">David Eigenberg</actor>
+      <actor role="Hallie Thomas">Teri Reeves</actor>
+      <actor role="Antonio Dawson">Jon Seda</actor>
+      <actor role="Cindy Herrmann">Robyn Coffin</actor>
+      <director>Michael Slovis</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9905975eh10ac_Iconic_W660.webp" />
+    <country lang="de">US</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261118165000 +0000" stop="20261118175000 +0000"><title lang="de">Im Kopf von...</title>
+    <sub-title lang="de">Im Kopf... einer hochbegabten Person</sub-title>
+    <desc lang="de">Die Sendung porträtiert Hochbegabte und ihre Lebensweise mit der besonderen Begabung. Es wird die Frage gestellt, ob Begabung ein Gewinn für den Erfolg im Leben ist, oder eine Lücke, die die Kommunikation mit anderen erschwert.</desc>
+    <credits>
+      <director>Vanessa Goetelen</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17281751eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261118175000 +0000" stop="20261118183000 +0000"><title lang="de">Wissen@SRF</title>
+    <desc lang="de">Fundierte Erkenntnisse und wissenschaftliche Zusammenhänge werden verständlich aufbereitet. Vielseitige Beiträge aus verschiedenen Fachbereichen bieten tiefere Einblicke in Phänomene des Alltags und der modernen Forschung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21981678bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S1 E162</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261118183000 +0000" stop="20261118190000 +0000"><title lang="de">Tagesschau - Hauptausgabe</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages aus der Schweiz und der Welt werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18925663bdh10af_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118190000 +0000" stop="20261118191000 +0000"><title lang="de">sportflash</title>
+    <desc lang="de">Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581161bdh10ab_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118191000 +0000" stop="20261118210000 +0000"><title lang="de">Platzspitzbaby</title>
+    <desc lang="de">Nach der Auflösung der Drogenszene in Zürich ziehen die elfjährige Mia und ihre Mutter Sandrine ins Zürcher Oberland. Doch das neue Zuhause ist kein Paradies. Denn Sandrine ist drogenabhängig und hätte nie das Sorgerecht erhalten dürfen.</desc>
+    <credits>
+      <actor role="Mia">Luna Mwezi</actor>
+      <actor role="Sandrine">Sarah Spale</actor>
+      <actor role="Andre">Jerry Hoffmann</actor>
+      <actor role="Lola">Anouk Petri</actor>
+      <actor role="Serge">Thomas U. Hostettler</actor>
+      <actor role="Lehrer Gasser">Caspar Kaeser</actor>
+      <actor role="Buddy">Delio Malär</actor>
+      <actor role="Frau Bucher">Lea Whitcher</actor>
+      <director>Pierre Monnard</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/mv015518780000x748_stage_W660.webp" />
+    <country lang="de">CH</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261118210000 +0000" stop="20261118224000 +0000"><title lang="de">Amur senza fin</title>
+    <desc lang="de">Monas Ehe mit Gieri ist nach 20 Jahren etwas eingeschlafen. Inspiriert durch unorthodoxe Vorschläge des neuen Pfarrers versucht sie, ihre Ehe wiederzubeleben. Dabei gerät nicht nur Gieri, sondern auch die ganze Dorfgemeinschaft in Aufruhr.</desc>
+    <credits>
+      <actor role="Mona">Rebecca Indermaur</actor>
+      <actor role="Gieri">Bruno Cathomas</actor>
+      <actor role="Guilia">Tonia Maria Zindel</actor>
+      <director>Christoph Schaub</director>
+    </credits>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/mv015457770000x476_stage_W660.webp" />
+    <country lang="de">CH</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261118224000 +0000" stop="20261118224500 +0000"><title lang="de">sportflash</title>
+    <desc lang="de">Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581161bdh10ab_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118224500 +0000" stop="20261118225500 +0000"><title lang="de">Newsflash SRF zwei</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581011bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118225500 +0000" stop="20261118232000 +0000"><title lang="de">Tagesschau vor 20 Jahren</title>
+    <sub-title lang="de">vom 18.11.2006</sub-title>
+    <desc lang="de">Die Sendung dokumentiert alle 20-Uhr-Ausgaben Tag für Tag im Nachrichtenrückblick. Es wird gezeigt, wie die Welt vor 20 Jahren aussah, welche Themen die politische Debatte bestimmten und wie die Probleme bewertet wurden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26450347bdh8ab_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261118232000 +0000" stop="20261118235000 +0000"><title lang="de">Wissen@SRF</title>
+    <desc lang="de">Fundierte Erkenntnisse und wissenschaftliche Zusammenhänge werden verständlich aufbereitet. Vielseitige Beiträge aus verschiedenen Fachbereichen bieten tiefere Einblicke in Phänomene des Alltags und der modernen Forschung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21981678bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S1 E162</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261118235000 +0000" stop="20261119003500 +0000"><title lang="de">Chicago Fire</title>
+    <sub-title lang="de">Anführer führen von vorne</sub-title>
+    <desc lang="de">Severide will nicht länger tatenlos Taras Anschuldigungen hinnehmen und beginnt, in ihrer Vergangenheit zu forschen. Mills möchte, dass Dawson bei ihm einzieht, doch zuvor muss sie das Geheimnis lüften, das zwischen ihnen steht.</desc>
+    <credits>
+      <actor role="Matthew Casey">Jesse Spencer</actor>
+      <actor role="Kelly Severide">Taylor Kinney</actor>
+      <actor role="Peter Mills">Charlie Barnett</actor>
+      <actor role="Gabriela Dawson">Monica Raymund</actor>
+      <actor role="Leslie Shay">Lauren German</actor>
+      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
+      <actor role="Christopher Herrmann">David Eigenberg</actor>
+      <actor role="Hallie Thomas">Teri Reeves</actor>
+      <actor role="Antonio Dawson">Jon Seda</actor>
+      <actor role="Cindy Herrmann">Robyn Coffin</actor>
+      <director>Michael Slovis</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9905975eh10ac_Iconic_W660.webp" />
+    <country lang="de">US</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261119003500 +0000" stop="20261119021000 +0000"><title lang="de">Platzspitzbaby</title>
+    <desc lang="de">Nach der Auflösung der Drogenszene in Zürich ziehen die elfjährige Mia und ihre Mutter Sandrine ins Zürcher Oberland. Doch das neue Zuhause ist kein Paradies. Denn Sandrine ist drogenabhängig und hätte nie das Sorgerecht erhalten dürfen.</desc>
+    <credits>
+      <actor role="Mia">Luna Mwezi</actor>
+      <actor role="Sandrine">Sarah Spale</actor>
+      <actor role="Andre">Jerry Hoffmann</actor>
+      <actor role="Lola">Anouk Petri</actor>
+      <actor role="Serge">Thomas U. Hostettler</actor>
+      <actor role="Lehrer Gasser">Caspar Kaeser</actor>
+      <actor role="Buddy">Delio Malär</actor>
+      <actor role="Frau Bucher">Lea Whitcher</actor>
+      <director>Pierre Monnard</director>
+    </credits>
+    <date>2020</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/mv015518780000x748_stage_W660.webp" />
+    <country lang="de">CH</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261119021000 +0000" stop="20261119024500 +0000"><title lang="de">rec</title>
+    <sub-title lang="de">Kopftuch</sub-title>
+    <desc lang="de">Wir erfahren von verschiedenen Themen, die die Reporter und deren Community bewegen. Die Reporter gehen dorthin, wo es etwas zu ent- oder aufdecken gibt und zeigen die Momentaufnahmen der Welt so, wie sie sie auffinden, echt und ohne Filter.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34457315eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119024500 +0000" stop="20261119032500 +0000"><title lang="de">Wege zum Glück</title>
+    <sub-title lang="de">Kapitel 629</sub-title>
+    <desc lang="de">Hagen hat es geschafft - oder beinahe wenigstens. Denn es ist ihm gelungen, aus dem Gefängnis zu fliehen. Allerdings trägt er noch immer Handschellen.</desc>
+    <credits>
+      <actor role="Eva Landmann">Karin Ugowski</actor>
+      <actor role="Julia Schilling">Susanne Gartner</actor>
+      <actor role="Tobias Becker">Ralph Schicha</actor>
+      <actor role="Luisa Maywald">Susanne Berckhemer</actor>
+      <actor role="Annabelle Gravenberg">Isa Andersen</actor>
+      <actor role="Patrizia Gravenberg">Lucie Muhr</actor>
+      <actor role="Ben Petersen">Hubertus Grimm</actor>
+      <actor role="Viktoria Van Weyden">Mareile Bettina Moeller</actor>
+      <actor role="Hagen Ritter">Jens-Peter Nünemann</actor>
+      <actor role="Daniel Gravenberg">Roman Rossa</actor>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12387521ih8ab_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261119032500 +0000" stop="20261119042000 +0000"><title lang="de">Im Kopf von...</title>
+    <sub-title lang="de">Im Kopf... einer hochbegabten Person</sub-title>
+    <desc lang="de">Die Sendung porträtiert Hochbegabte und ihre Lebensweise mit der besonderen Begabung. Es wird die Frage gestellt, ob Begabung ein Gewinn für den Erfolg im Leben ist, oder eine Lücke, die die Kommunikation mit anderen erschwert.</desc>
+    <credits>
+      <director>Vanessa Goetelen</director>
+    </credits>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17281751eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261119042000 +0000" stop="20261119074000 +0000"><title lang="de">3 auf zwei</title>
+    <desc lang="de">Ein abwechslungsreiches Morgenprogramm bietet den idealen Start in den Tag. Eine Mischung aus aktueller Musik, Nachrichten, Wetterberichten, sportlichen Updates und unterhaltsamen Elementen sorgt für eine vielseitige Berichterstattung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11192399bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119074000 +0000" stop="20261119080500 +0000"><title lang="de">Tagesschau vor 20 Jahren</title>
+    <sub-title lang="de">vom 19.11.2006</sub-title>
+    <desc lang="de">Die Sendung dokumentiert alle 20-Uhr-Ausgaben Tag für Tag im Nachrichtenrückblick. Es wird gezeigt, wie die Welt vor 20 Jahren aussah, welche Themen die politische Debatte bestimmten und wie die Probleme bewertet wurden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34480019eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119080500 +0000" stop="20261119085500 +0000"><title lang="de">SRF bi de Lüt</title>
+    <sub-title lang="de">Familiensache</sub-title>
+    <desc lang="de">Das Abenteuer Jakobsweg ist eine Herausforderung, besonders für eine fünfköpfige Familie mit einem Jungen, der an Trisomie 21 erkrankt ist. Familie Hosali aus Winterthur hat dies schon einmal versucht. Und musste abbrechen.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13598356ih10ac_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119085500 +0000" stop="20261119094000 +0000"><title lang="de">SRF bi de Lüt - Familiensache</title>
+    <desc lang="de">Bei Scherrers wird gepoltert. Doch auch der Junggesellenabschied macht Markus' familiäre Konflikte nicht vergessen. Familie Dietrich muss einen Rückschlag verdauen: Thierrys Genesung verzögert sich weiter.</desc>
+    <date>2018</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16863994bdh8ae_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119094000 +0000" stop="20261119102500 +0000"><title lang="de">Kulturzeit</title>
+    <desc lang="de">Das werktägliche Kulturmagazin mischt sich in kulturelle und gesellschaftspolitische Fragen ein. "Kulturzeit" bietet ergänzende Hintergrundinformationen, Porträts und Gespräche zu aktuellen und brisanten Fragen.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10950682bdh8ah_Backdrop_W660.webp" />
+    <country lang="de">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261119102500 +0000" stop="20261119110000 +0000"><title lang="de">Wissen@SRF</title>
+    <desc lang="de">Fundierte Erkenntnisse und wissenschaftliche Zusammenhänge werden verständlich aufbereitet. Vielseitige Beiträge aus verschiedenen Fachbereichen bieten tiefere Einblicke in Phänomene des Alltags und der modernen Forschung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21981678bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+    <episode-num system="onscreen">S1 E162</episode-num>
+  </programme><programme channel="SRF.zwei.ch" start="20261119110000 +0000" stop="20261119151000 +0000"><title lang="de">3 auf zwei</title>
+    <desc lang="de">Ein abwechslungsreiches Morgenprogramm bietet den idealen Start in den Tag. Eine Mischung aus aktueller Musik, Nachrichten, Wetterberichten, sportlichen Updates und unterhaltsamen Elementen sorgt für eine vielseitige Berichterstattung.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11192399bdh10aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119151000 +0000" stop="20261119160000 +0000"><title lang="de">Wege zum Glück</title>
+    <sub-title lang="de">Kapitel 630</sub-title>
+    <desc lang="de">Luisa ist überrascht, als Henning ihr anbietet, für ihn zu arbeiten und die Harald-Becker-Stiftung zu leiten. Luisa hat zwar grosse Lust, wieder berufstätig zu sein, aber sie weiss auch, dass sie dann wieder täglich mit Henning zu tun haben wird.</desc>
+    <credits>
+      <actor role="Eva Landmann">Karin Ugowski</actor>
+      <actor role="Julia Schilling">Susanne Gartner</actor>
+      <actor role="Tobias Becker">Ralph Schicha</actor>
+      <actor role="Luisa Maywald">Susanne Berckhemer</actor>
+      <actor role="Annabelle Gravenberg">Isa Andersen</actor>
+      <actor role="Patrizia Gravenberg">Lucie Muhr</actor>
+      <actor role="Ben Petersen">Hubertus Grimm</actor>
+      <actor role="Viktoria Van Weyden">Mareile Bettina Moeller</actor>
+      <actor role="Hagen Ritter">Jens-Peter Nünemann</actor>
+      <actor role="Daniel Gravenberg">Roman Rossa</actor>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12918301eh8aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119160000 +0000" stop="20261119165500 +0000"><title lang="de">Chicago Fire</title>
+    <sub-title lang="de">Abschied nehmen</sub-title>
+    <desc lang="de">Um einen Mörder zu finden, muss Casey mit Voight und dessen Team zusammenarbeiten. Mills weiss nicht, wie es nach Dawsons Geständnis weitergehen soll. Alle sind gespannt auf die Eröffnung der neuen Bar. Die Vorbereitungen laufen auf Hochtouren.</desc>
+    <credits>
+      <actor role="Matthew Casey">Jesse Spencer</actor>
+      <actor role="Kelly Severide">Taylor Kinney</actor>
+      <actor role="Peter Mills">Charlie Barnett</actor>
+      <actor role="Gabriela Dawson">Monica Raymund</actor>
+      <actor role="Leslie Shay">Lauren German</actor>
+      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
+      <actor role="Christopher Hermann">David Eigenberg</actor>
+      <actor role="Hallie">Teri Reeves</actor>
+      <director>Joe Chappelle</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9844014eh10ac_Iconic_W660.webp" />
+    <country lang="de">US</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261119165500 +0000" stop="20261119180000 +0000"><title lang="de">Storie</title>
+    <sub-title lang="de">Du wirst mich nie allein lassen</sub-title>
+    <desc lang="de">Als bei Francesca mit 40 Jahren Parkinson diagnostiziert wird, beschliesst sie, eine Reihe von Porträts ihres nackten Körpers anzufertigen. Sie möchte ein Buch und einen Blog daraus machen, um sich wieder als Mensch zu fühlen.</desc>
+    <credits>
+      <director>Alessandra Müller</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21673314eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119180000 +0000" stop="20261119183000 +0000"><title lang="de">Schweiz aktuell von SRF sendet in Französisch</title>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34491278ih8aa_Iconic_W660.webp" />
+  </programme><programme channel="SRF.zwei.ch" start="20261119183000 +0000" stop="20261119190000 +0000"><title lang="de">Tagesschau - Hauptausgabe</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages aus der Schweiz und der Welt werden präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p18925663bdh10af_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119190000 +0000" stop="20261119191000 +0000"><title lang="de">sportflash</title>
+    <desc lang="de">Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581161bdh10ab_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119191000 +0000" stop="20261119210000 +0000"><title lang="de">What Happens Later</title>
+    <desc lang="de">Als sie auf einem Flughafen eingeschneit werden, treffen sich zwei Ex-Liebhaber zum ersten Mal seit Jahren wieder. Bald stellen sie fest, dass sie sich immer noch zueinander hingezogen fühlen, aber auch noch gleichermassen genervt voneinander sind.</desc>
+    <credits>
+      <actor role="Willa">Meg Ryan</actor>
+      <actor role="Bill">David Duchovny</actor>
+      <director>Meg Ryan</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/mv021081410000x630_stage_W660.webp" />
+    <country lang="de">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261119210000 +0000" stop="20261119215000 +0000"><title lang="de">Phenomden - Eine Reise zwischen Roots, Risiko und Rückkehr</title>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34617323ih10ab_Iconic_W660.webp" />
+  </programme><programme channel="SRF.zwei.ch" start="20261119215000 +0000" stop="20261119220000 +0000"><title lang="de">sportflash</title>
+    <sub-title lang="de">Die Sportnews des Tages</sub-title>
+    <desc lang="de">Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581161bdh10ab_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119220000 +0000" stop="20261119221000 +0000"><title lang="de">Newsflash SRF zwei</title>
+    <desc lang="de">Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13581011bdh8aa_Backdrop_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119221000 +0000" stop="20261119224500 +0000"><title lang="de">Impact Reportage</title>
+    <sub-title lang="de">Sportwetten - Sucht, Wettbetrug &amp; die Mafia</sub-title>
+    <desc lang="de">Die investigativen Reportagen behandeln Themen, die oft vergessen oder übersehen werden. Sie decken auf, was oft im Verborgenen liegt und zeigen so interessante und wissenswerte Facetten der anderen, weniger bekannten Schweiz.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31980179eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119224500 +0000" stop="20261119230500 +0000"><title lang="de">Tagesschau vor 20 Jahren</title>
+    <sub-title lang="de">vom 19.11.2006</sub-title>
+    <desc lang="de">Die Sendung dokumentiert alle 20-Uhr-Ausgaben Tag für Tag im Nachrichtenrückblick. Es wird gezeigt, wie die Welt vor 20 Jahren aussah, welche Themen die politische Debatte bestimmten und wie die Probleme bewertet wurden.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34480019eh10aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261119230500 +0000" stop="20261119235000 +0000"><title lang="de">Chicago Fire</title>
+    <sub-title lang="de">Abschied nehmen</sub-title>
+    <desc lang="de">Um einen Mörder zu finden, muss Casey mit Voight und dessen Team zusammenarbeiten. Mills weiss nicht, wie es nach Dawsons Geständnis weitergehen soll. Alle sind gespannt auf die Eröffnung der neuen Bar. Die Vorbereitungen laufen auf Hochtouren.</desc>
+    <credits>
+      <actor role="Matthew Casey">Jesse Spencer</actor>
+      <actor role="Kelly Severide">Taylor Kinney</actor>
+      <actor role="Peter Mills">Charlie Barnett</actor>
+      <actor role="Gabriela Dawson">Monica Raymund</actor>
+      <actor role="Leslie Shay">Lauren German</actor>
+      <actor role="Chief Wallace Boden">Eamonn Walker</actor>
+      <actor role="Christopher Hermann">David Eigenberg</actor>
+      <actor role="Hallie">Teri Reeves</actor>
+      <director>Joe Chappelle</director>
+    </credits>
+    <date>2013</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9844014eh10ac_Iconic_W660.webp" />
+    <country lang="de">US</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261119235000 +0000" stop="20261120012500 +0000"><title lang="de">What Happens Later</title>
+    <desc lang="de">Als sie auf einem Flughafen eingeschneit werden, treffen sich zwei Ex-Liebhaber zum ersten Mal seit Jahren wieder. Bald stellen sie fest, dass sie sich immer noch zueinander hingezogen fühlen, aber auch noch gleichermassen genervt voneinander sind.</desc>
+    <credits>
+      <actor role="Willa">Meg Ryan</actor>
+      <actor role="Bill">David Duchovny</actor>
+      <director>Meg Ryan</director>
+    </credits>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/mv021081410000x630_stage_W660.webp" />
+    <country lang="de">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="SRF.zwei.ch" start="20261120012500 +0000" stop="20261120021000 +0000"><title lang="de">Phenomden - Eine Reise zwischen Roots, Risiko und Rückkehr</title>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p34617323ih10ab_Iconic_W660.webp" />
+  </programme><programme channel="SRF.zwei.ch" start="20261120021000 +0000" stop="20261120024000 +0000"><title lang="de">Impact Reportage</title>
+    <sub-title lang="de">Sportwetten - Sucht, Wettbetrug &amp; die Mafia</sub-title>
+    <desc lang="de">Die investigativen Reportagen behandeln Themen, die oft vergessen oder übersehen werden. Sie decken auf, was oft im Verborgenen liegt und zeigen so interessante und wissenswerte Facetten der anderen, weniger bekannten Schweiz.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p31980179eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261120024000 +0000" stop="20261120032000 +0000"><title lang="de">Wege zum Glück</title>
+    <sub-title lang="de">Kapitel 630</sub-title>
+    <desc lang="de">Luisa ist überrascht, als Henning ihr anbietet, für ihn zu arbeiten und die Harald-Becker-Stiftung zu leiten. Luisa hat zwar grosse Lust, wieder berufstätig zu sein, aber sie weiss auch, dass sie dann wieder täglich mit Henning zu tun haben wird.</desc>
+    <credits>
+      <actor role="Eva Landmann">Karin Ugowski</actor>
+      <actor role="Julia Schilling">Susanne Gartner</actor>
+      <actor role="Tobias Becker">Ralph Schicha</actor>
+      <actor role="Luisa Maywald">Susanne Berckhemer</actor>
+      <actor role="Annabelle Gravenberg">Isa Andersen</actor>
+      <actor role="Patrizia Gravenberg">Lucie Muhr</actor>
+      <actor role="Ben Petersen">Hubertus Grimm</actor>
+      <actor role="Viktoria Van Weyden">Mareile Bettina Moeller</actor>
+      <actor role="Hagen Ritter">Jens-Peter Nünemann</actor>
+      <actor role="Daniel Gravenberg">Roman Rossa</actor>
+    </credits>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12918301eh8aa_Iconic_W660.webp" />
+    <country lang="de">DE</country>
+  </programme><programme channel="SRF.zwei.ch" start="20261120032000 +0000" stop="20261120042000 +0000"><title lang="de">Storie</title>
+    <sub-title lang="de">Du wirst mich nie allein lassen</sub-title>
+    <desc lang="de">Als bei Francesca mit 40 Jahren Parkinson diagnostiziert wird, beschliesst sie, eine Reihe von Porträts ihres nackten Körpers anzufertigen. Sie möchte ein Buch und einen Blog daraus machen, um sich wieder als Mensch zu fühlen.</desc>
+    <credits>
+      <director>Alessandra Müller</director>
+    </credits>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21673314eh10aa_Iconic_W660.webp" />
+    <country lang="de">CH</country>
+  </programme><programme channel="ORF.1.ch" start="20261116035700 +0000" stop="20261116043800 +0000"><title lang="de">New Amsterdam</title>
     <sub-title lang="de">Familie</sub-title>
     <desc lang="de">Max und Helen gewöhnen sich daran, ihr Leben und ihre Probleme miteinander zu teilen. Dazu gehört auch die Verantwortung für die Pflege von Helens Mutter. Derweil behandeln Bloom und Reynolds eine Familie in der Notaufnahme.</desc>
     <credits>
@@ -79401,27 +81625,7 @@
     <category lang="de">News</category>
   </programme><channel id="6866525c8a412a0e95c438b4"><display-name>Dyn Sport Mix</display-name>
     <icon src="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" />
-  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261117171900 +0000" stop="20261117181900 +0000"><title>Dyn Highlights All Sports</title>
-    <live />
-    <episode-num system="original-air-date">20261117171900 +0000</episode-num>
-    <desc>Dyn Highlights All Sports.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
-    <sub-title>Handball</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261117181900 +0000" stop="20261117204900 +0000"><title>2. Handball-Bundesliga</title>
-    <live />
-    <episode-num system="original-air-date">20261117181900 +0000</episode-num>
-    <desc>Eulen Ludwigshafen gegen ASV Hamm-Westfalen live in der 2. Handball-Bundesliga. Die Partie des 13. Spieltags in der 2. HBL findet am Dienstag, den 17. November 2025 um 19:30 Uhr statt. Die Übertragung beginnt um 19:10 Uhr.</desc>
-    <icon src="https://images.pluto.tv/series/68ac531f8eef10068f403898/tile_1762988298281.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68ac531f8eef10068f403898</series-id>
-    <sub-title>Die Eulen Ludwigshafen - ASV Hamm-Westfalen</sub-title>
-    <category>Sports</category>
-    <category>Series</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261117204900 +0000" stop="20261117234000 +0000"><title>Basketball: easyCredit BBL</title>
+  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261117204900 +0000" stop="20261117234000 +0000"><title>Basketball: easyCredit BBL</title>
     <live />
     <episode-num system="original-air-date">20261117204900 +0000</episode-num>
     <desc>Aus der MHP Arena in Ludwigsburg, Deutschland.</desc>
@@ -79429,8 +81633,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ffa9889a990edd7bf0e</series-id>
     <sub-title>MHP Riesen Ludwigsburg - EWE Baskets Oldenburg</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261117234000 +0000" stop="20261118022100 +0000"><title>Volleyball Bundesliga Frauen</title>
     <live />
     <episode-num system="original-air-date">20261117234000 +0000</episode-num>
@@ -79439,8 +81643,8 @@
     <date>19700101</date>
     <series-id system="pluto">68aee704d2b4de67e6c650f9</series-id>
     <sub-title>VfB Suhl LOTTO Thüringen - Dresdner SC</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261118022100 +0000" stop="20261118044900 +0000"><title>BBL Pokal</title>
     <live />
     <episode-num system="original-air-date">20261118022100 +0000</episode-num>
@@ -79449,8 +81653,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ffb9889a990edd7c0d9</series-id>
     <sub-title>Heidelberg - EWE Baskets Oldenburg</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261118044900 +0000" stop="20261118054900 +0000"><title>Dyn Highlights All Sports</title>
     <live />
     <episode-num system="original-air-date">20261118044900 +0000</episode-num>
@@ -79459,8 +81663,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
     <sub-title>Handball</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261118054900 +0000" stop="20261118080900 +0000"><title>Volleyball 1. Bundesliga Männer</title>
     <live />
     <episode-num system="original-air-date">20261118054900 +0000</episode-num>
@@ -79469,8 +81673,8 @@
     <date>19700101</date>
     <series-id system="pluto">68e6303333c97983912da349</series-id>
     <sub-title>SVG Lüneburg - SWD Powervolleys Düren</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261118080900 +0000" stop="20261118104000 +0000"><title>Handball Bundesliga</title>
     <live />
     <episode-num system="original-air-date">20261118080900 +0000</episode-num>
@@ -79479,8 +81683,8 @@
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bd5d</series-id>
     <sub-title>THW Kiel - TBV Lemgo Lippe</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
   </programme><programme channel="6866525c8a412a0e95c438b4" start="20261118104000 +0000" stop="20261118124100 +0000"><title>Tischtennis</title>
     <live />
     <episode-num system="original-air-date">20261118104000 +0000</episode-num>
@@ -79489,8 +81693,18 @@
     <date>19700101</date>
     <series-id system="pluto">68a610029889a990edd7ce4a</series-id>
     <sub-title>Konferenz - Leapmotor Grand Opening - Achtelfinale Session 2</sub-title>
-    <category>Sports</category>
     <category>Series</category>
+    <category>Sports</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261118124100 +0000" stop="20261118134100 +0000"><title>Dyn Highlights All Sports</title>
+    <live />
+    <episode-num system="original-air-date">20261118124100 +0000</episode-num>
+    <desc>Dyn Highlights All Sports.</desc>
+    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
+    <sub-title>Handball</sub-title>
+    <category>Series</category>
+    <category>Sports</category>
   </programme><channel id="NFLNetwork.us12"><display-name>NFL NETWORK HD ◉</display-name>
     <display-name>US - NFL NETWORK HD ◉</display-name>
     <display-name>NFL NETWORK</display-name>
