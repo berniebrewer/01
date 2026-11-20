@@ -76934,27 +76934,7 @@ Emily Osment - Mandy.</desc>
     <desc lang="de">Aufgrund aktueller Programmänderungen wird "Programm nach Ansage" gesendet. Wir bitten Zuschauerinnen und Zuschauer um Verständnis. Weitere Informationen zum aktuellen Programm gibt es auf der Website.</desc>
   </programme><channel id="6866525c8a412a0e95c438b4"><display-name>Dyn Sport Mix</display-name>
     <icon src="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" />
-  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261120064600 +0000" stop="20261120094900 +0000"><title>TTBL: Tischtennis Bundesliga</title>
-    <live />
-    <episode-num system="original-air-date">20261120064600 +0000</episode-num>
-    <desc>Am Sonntag, dem 15. März 2026, empfängt der TTF Liebherr Ochsenhausen den TTC RhönSprudel Fulda-Maberzell in der Tischtennis-Bundesliga. Die Partie des Hauptrunden-Spieltags findet in Ochsenhausen statt. Anpfiff ist um 15:30 Uhr.</desc>
-    <icon src="https://images.pluto.tv/series/68da7cefd70c07ace87bb7ba/tile_1763055089174.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68da7cefd70c07ace87bb7ba</series-id>
-    <sub-title>TTF Liebherr Ochsenhausen - TTC RhönSprudel Fulda-Maberzell</sub-title>
-    <category>Series</category>
-    <category>Sports</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261120094900 +0000" stop="20261120104900 +0000"><title>Dyn Highlights All Sports</title>
-    <live />
-    <episode-num system="original-air-date">20261120094900 +0000</episode-num>
-    <desc>Dyn Highlights All Sports.</desc>
-    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68a60ff99889a990edd7bc13</series-id>
-    <sub-title>Handball</sub-title>
-    <category>Series</category>
-    <category>Sports</category>
-  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261120104900 +0000" stop="20261120132100 +0000"><title>Basketball: easyCredit BBL</title>
+  </channel><programme channel="6866525c8a412a0e95c438b4" start="20261120104900 +0000" stop="20261120132100 +0000"><title>Basketball: easyCredit BBL</title>
     <live />
     <episode-num system="original-air-date">20261120104900 +0000</episode-num>
     <desc>Aus der tectake ARENA in Würzburg, Deutschland.</desc>
@@ -77022,6 +77002,26 @@ Emily Osment - Mandy.</desc>
     <date>19700101</date>
     <series-id system="pluto">68a60ff99889a990edd7bd5d</series-id>
     <sub-title>THW Kiel - TBV Lemgo Lippe</sub-title>
+    <category>Series</category>
+    <category>Sports</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261121023700 +0000" stop="20261121050500 +0000"><title>BBL Pokal</title>
+    <live />
+    <episode-num system="original-air-date">20261121023700 +0000</episode-num>
+    <desc>MLP Academics Heidelberg gegen EWE Baskets Oldenburg heute live im Netto BBL Pokal. Die Partie der 1. Pokalrunde findet am Samstag, den 13. September um 18:00 Uhr statt. Die Übertragung beginnt um 17:45 Uhr. Kommentar: Chris Schmidt.</desc>
+    <icon src="https://images.pluto.tv/series/68a60ffb9889a990edd7c0d9/tile_1772104471160.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a60ffb9889a990edd7c0d9</series-id>
+    <sub-title>Heidelberg - EWE Baskets Oldenburg</sub-title>
+    <category>Series</category>
+    <category>Sports</category>
+  </programme><programme channel="6866525c8a412a0e95c438b4" start="20261121050500 +0000" stop="20261121073200 +0000"><title>Handball Bundesliga</title>
+    <live />
+    <episode-num system="original-air-date">20261121050500 +0000</episode-num>
+    <desc>Aus der Rothenbach-Halle in Kassel, Deutschland.</desc>
+    <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bd5d/tile_1755713588336.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a60ff99889a990edd7bd5d</series-id>
+    <sub-title>MT Melsungen - SC Magdeburg</sub-title>
     <category>Series</category>
     <category>Sports</category>
   </programme><channel id="NFLNetwork.us12"><display-name>NFL NETWORK HD ◉</display-name>
