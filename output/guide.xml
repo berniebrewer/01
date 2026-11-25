@@ -75863,29 +75863,23 @@
     <display-name>JOYN: SPIEGEL TV KONFLIKTE  ᴿᴬᵂ</display-name>
     <display-name>PRIME: SPIEGEL TV KONFLIKTE ᴿᴬᵂ</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s145217_dark_360w_270h.png?v=4e38200a6eb7653fac13" />
+  </channel><channel id="SPO1HD.at (m3u4u)"><display-name>JOYN: SPORT1 ᴿᴬᵂ</display-name>
+    <display-name>PLAY+: SPORT 1 + ᴿᴬᵂ</display-name>
+    <display-name>AT: SPORT 1 ᴿᴬᵂ</display-name>
+    <display-name>AT: SPORT 1 ᴿᴬᵂ (2)</display-name>
+    <display-name>SPORT 1 ᴴᴰ ⁵⁰ᶠᵖˢ</display-name>
+    <icon src="https://logos.json.schedulesdirect.org/stationLogos/s84002_gray_360w_270h.png?v=4e38200a6eb7653fac13" />
   </channel><channel id="SKSPBUH.de (m3u4u)"><display-name>DE: SKY SPORT BUNDESLIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
     <display-name>4K: DE SKY BUNDESLIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FD0FJ.png_gray_360w_270h.png?v=4e38200a6eb7653fac13" />
-  </channel><channel id="SKYSPA5.de (m3u4u)"><display-name>DE: SKY SPORT AUSTRIA 5 HD (720P)</display-name>
-    <display-name>DE: SKY SPORT AUSTRIA 5 HD (SAT)</display-name>
-    <display-name>DE: SKY SPORT AUSTRIA 5 ᴴᴰ</display-name>
-    <display-name>DE: SKY SPORT AUSTRIA 5 ᴿᴬᵂ</display-name>
-    <display-name>AT: SKY SPORT AUSTRIA 5 ᴿᴬᵂ</display-name>
-    <display-name>SKYGO: SKY SPORT AUSTRIA 5 4K</display-name>
-    <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FCQ7S.png_white_360w_270h.png?v=4e38200a6eb7653fac13" />
-  </channel><channel id="SKYSPA6.de (m3u4u)"><display-name>DE: SKY SPORT AUSTRIA 6 HD (720P)</display-name>
-    <display-name>DE: SKY SPORT AUSTRIA 6 ᴴᴰ</display-name>
-    <display-name>DE: SKY SPORT AUSTRIA 6 ᴿᴬᵂ</display-name>
-    <display-name>SKYGO: SKY SPORT AUSTRIA 6 4K</display-name>
+  </channel><channel id="SKYSPA2.at (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 2 ᴿᴬᵂ</display-name>
+    <icon src="https://logos.json.schedulesdirect.org/stationLogos/s111209_dark_360w_270h.png?v=4e38200a6eb7653fac13" />
+  </channel><channel id="SKYSPA3.at (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 3 ᴿᴬᵂ</display-name>
+    <icon src="https://logos.json.schedulesdirect.org/stationLogos/s111210_white_360w_270h.png?v=4e38200a6eb7653fac13" />
+  </channel><channel id="SKYSPA4.at (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 4 ᴿᴬᵂ</display-name>
+    <icon src="https://logos.json.schedulesdirect.org/stationLogos/s111211_light_360w_270h.png?v=4e38200a6eb7653fac13" />
+  </channel><channel id="SKYSPA6.at (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 6 ᴿᴬᵂ</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FCQ86.png_gray_360w_270h.png?v=4e38200a6eb7653fac13" />
-  </channel><channel id="SKYSPA7.de (m3u4u)"><display-name>DE: SKY SPORT AUSTRIA 7 HD (720P)</display-name>
-    <display-name>DE: SKY SPORT AUSTRIA 6 HD (SAT)</display-name>
-    <display-name>DE: SKY SPORT AUSTRIA 7 HD (SAT)</display-name>
-    <display-name>AT: SKY SPORT AUSTRIA 7 ᴿᴬᵂ</display-name>
-    <display-name>SKYGO: SKY SPORT AUSTRIA 7 4K</display-name>
-    <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FCQ9M.png_white_360w_270h.png?v=4e38200a6eb7653fac13" />
-  </channel><channel id="SKYSPA8.de (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 8 ᴿᴬᵂ</display-name>
-    <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FCQSY.png_dark_360w_270h.png?v=4e38200a6eb7653fac13" />
   </channel><programme channel="13STHD.de (m3u4u)" start="20261123234500 +0000" stop="20261124003000 +0000"><title lang="de">Law &amp; Order: Special Victims Unit</title>
     <sub-title lang="de">Es liegt in der Familie</sub-title>
     <desc lang="de">Seth Langdon wird erschlagen und mit Spermaspuren im Mund tot aufgefunden. Sein Vater, der konservative Politiker William Langdon, hatte eigentlich gehofft, dass sein Sohn durch eine Therapie von seiner Homosexualität geheilt wurde. Die Spur führt zu dem bereits vorbestraften Sexualtäter Ray Gunther.</desc>
@@ -254773,509 +254767,943 @@ Melanie Lynskey - Rose.</desc>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261123210000 +0000" stop="20261124010000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261123210000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124010000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261124050000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124050000 +0000" stop="20261124090000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261124130000 +0000" stop="20261124164000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124090000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124130000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261124164000 +0000" stop="20261124170000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
     <desc lang="de">Informationssendung.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
-    <sub-title lang="de">Real Madrid - PSV Eindhoven</sub-title>
-    <desc lang="de">Aus dem Estadio Santiago Bernabéu in Madrid, Spanien.</desc>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261124170000 +0000" stop="20261124173500 +0000"><title lang="de">Die UEFA CL am Dienstag: Vorbericht</title>
+    <desc lang="de">Spannende Vorberichte, knallharte Analysen: Das Sky Champions-League-Team stimmt die Zuschauer auf den packenden CL-Abend ein.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261124173500 +0000" stop="20261124194500 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">FK Bodö/Glimt - LASK</sub-title>
+    <desc lang="de">Aus dem Aspmyra Stadion in Bodø, Norwegen.</desc>
     <category lang="de">Soccer</category>
     <rating>
       <value>A</value>
     </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124220000 +0000" stop="20261125020000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125020000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125050000 +0000" stop="20261125090000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125090000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125130000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125170000 +0000" stop="20261125193000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125193000 +0000" stop="20261125195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
-    <desc lang="de">Informationssendung.</desc>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261124194500 +0000" stop="20261124201500 +0000"><title lang="de">Die UEFA CL am Dienstag: Analyse</title>
+    <desc lang="de">Das Sky-Champions-League-Team lässt den CL-Abend mit messerscharfen Analysen Revue passieren.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
-    <sub-title lang="de">FC Brügge - FC Liverpool</sub-title>
-    <desc lang="de">Aus dem Jan Breydelstadion in Brügge, Belgien</desc>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261124201500 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">FC Arsenal - Borussia Dortmund</sub-title>
+    <desc lang="de">Aus dem Emirates Stadium in London, Großbritannien.</desc>
     <category lang="de">Soccer</category>
     <rating>
       <value>A</value>
     </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125220000 +0000" stop="20261126020000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261124220000 +0000" stop="20261124230000 +0000"><title lang="de">Die UEFA CL am Dienstag: Analyse</title>
+    <desc lang="de">Das Sky-Champions-League-Team lässt den CL-Abend mit messerscharfen Analysen Revue passieren.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261124230000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126020000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261125050000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126050000 +0000" stop="20261126090000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261125130000 +0000" stop="20261125184000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126090000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126130000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261125184000 +0000" stop="20261125190000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
     <desc lang="de">Informationssendung.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA EL</title>
-    <sub-title lang="de">RC Celta Fortuna - Bournemouth</sub-title>
-    <desc lang="de">Aus dem Balaidos Stadion in Vigo, Spanien.</desc>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261125190000 +0000" stop="20261125195000 +0000"><title lang="de">Die UEFA CL am Mittwoch: Vorbericht</title>
+    <desc lang="de">Vorbericht zur UEFA Champions League am Mittwoch.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
-    <sub-title lang="de">Juventus Turin - Omonia Nikosia</sub-title>
-    <desc lang="de">Aus dem Allianz Stadium in Turin, Piemont, Italien.</desc>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261125195000 +0000" stop="20261125221500 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Paris Saint-Germain - AS Rom</sub-title>
+    <desc lang="de">Aus dem Prinzenpark in Paris, Frankreich.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126220000 +0000" stop="20261127020000 +0000"><title lang="de">Sendepause</title>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261125221500 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261123210000 +0000" stop="20261124010000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261126050000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124010000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261126130000 +0000" stop="20261126164000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124050000 +0000" stop="20261124090000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124090000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124130000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261126164000 +0000" stop="20261126170000 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
     <desc lang="de">Informationssendung.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261126170000 +0000" stop="20261126173500 +0000"><title lang="de">Der UEFA Super Donnerstag: Vorbericht</title>
+    <desc lang="de">In Vorberichten wird über die anstehenden Spiele zum UEFA Super Donnerstag berichtet.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261126173500 +0000" stop="20261126201500 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">FC Salzburg - FC Ararat-Armenia</sub-title>
+    <desc lang="de">Aus der Red Bull Arena in Salzburg</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261126201500 +0000" stop="20261126220000 +0000"><title lang="de">Der UEFA Super Donnerstag: Konferenz</title>
+    <sub-title lang="de">II, Ligaphase</sub-title>
+    <desc lang="de">Europapokal-Fußball der Extraklasse: Der UEFA Super Donnerstag: Konferenz.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261126220000 +0000" stop="20261126230000 +0000"><title lang="de">Der UEFA Super Donnerstag: Analyse</title>
+    <desc lang="de">Die Sendung analysiert die internationalen Spiele österreichischer Fußballvereine.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261126230000 +0000" stop="20261127000000 +0000"><title lang="de">Der UEFA Super Donnerstag: Alle Spiele, alle Tore</title>
+    <sub-title lang="de">Ligaphase</sub-title>
+    <desc lang="de">UEFA Super Donnerstag kompakt: Sky zeigt die Zusammenfassungen aller Partien des packenden Europapokalabends.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261123210000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261124050000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261124130000 +0000" stop="20261124164000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261124164000 +0000" stop="20261124170000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261124170000 +0000" stop="20261124173500 +0000"><title lang="de">Die UEFA CL am Dienstag: Vorbericht</title>
+    <desc lang="de">Spannende Vorberichte, knallharte Analysen: Das Sky Champions-League-Team stimmt die Zuschauer auf den packenden CL-Abend ein.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261124173500 +0000" stop="20261124195000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Galatasaray Istanbul - Aston Villa</sub-title>
+    <desc lang="de">Aus dem Ali Sami Yen Spor Kompleksi - Rams Park in Istanbul, Türkei.</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">FC Arsenal - Borussia Dortmund</sub-title>
+    <desc lang="de">Aus dem Emirates Stadium in London, Großbritannien.</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261124220000 +0000" stop="20261124230000 +0000"><title lang="de">Die UEFA CL am Dienstag: Analyse</title>
+    <desc lang="de">Das Sky-Champions-League-Team lässt den CL-Abend mit messerscharfen Analysen Revue passieren.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261124230000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261125050000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261125130000 +0000" stop="20261125164000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261125164000 +0000" stop="20261125170000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261125170000 +0000" stop="20261125173500 +0000"><title lang="de">Die UEFA CL am Mittwoch: Vorbericht</title>
+    <desc lang="de">Vorbericht zur UEFA Champions League am Mittwoch.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261125173500 +0000" stop="20261125195000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Sabah - FC Barcelona</sub-title>
+    <desc lang="de">Übertragung von aktuellen Wettbewerben der UEFA Champions League.</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Inter Mailand - VfB Stuttgart</sub-title>
+    <desc lang="de">Aus dem Giuseppe Meazza Stadion in Mailand, Lombardei, Italien.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261125220000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261126050000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261126130000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">Dinamo Zagreb - Bayer 04 Leverkusen</sub-title>
+    <desc lang="de">Aus dem Stadion Maksimir in Zagreb, Kroatien.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA Conference League</title>
+    <sub-title lang="de">SC Freiburg - FC Twente Enschede</sub-title>
+    <desc lang="de">Aus dem Europa-Park Stadion in Freiburg, Baden-Württemberg, Deutschland.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA3.at (m3u4u)" start="20261126220000 +0000" stop="20261127050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261123210000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261124050000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261124130000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Manchester City - SSC Neapel</sub-title>
+    <desc lang="de">Aus dem Etihad Stadium in Manchester, England.</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261124220000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261125050000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261125130000 +0000" stop="20261125164000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261125164000 +0000" stop="20261125170000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261125170000 +0000" stop="20261125173500 +0000"><title lang="de">Die UEFA CL am Mittwoch: Vorbericht</title>
+    <desc lang="de">Vorbericht zur UEFA Champions League am Mittwoch.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261125173500 +0000" stop="20261125195000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Slavia Prag - FC Villarreal</sub-title>
+    <desc lang="de">Aus dem Fortuna Arena in Prag, Tschechien.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Sporting Lissabon - Manchester United</sub-title>
+    <desc lang="de">Aus dem Estádio José Alvalade in Lissabon, Portugal.</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261125220000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261126050000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261126130000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">Olympiakos Piräus - AC Mailand</sub-title>
+    <desc lang="de">Aus dem Karaiskakis-Stadion in Piräus, Griechenland.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">Crystal Palace - Real Sociedad</sub-title>
+    <desc lang="de">Aus dem Selhurst Park in London, Großbritannien.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261126220000 +0000" stop="20261127050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261123210000 +0000" stop="20261124010000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124010000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124050000 +0000" stop="20261124090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124090000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124130000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
     <sub-title lang="de">RB Leipzig - RC Lens</sub-title>
     <desc lang="de">Aus der Red Bull Arena, Deutschland.</desc>
     <category lang="de">Soccer</category>
     <rating>
       <value>A</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124220000 +0000" stop="20261125020000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124220000 +0000" stop="20261125020000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125020000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125020000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125050000 +0000" stop="20261125090000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125050000 +0000" stop="20261125090000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125090000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125090000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125130000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125130000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125170000 +0000" stop="20261125193000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125170000 +0000" stop="20261125193000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125193000 +0000" stop="20261125195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125193000 +0000" stop="20261125195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
     <desc lang="de">Informationssendung.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
     <sub-title lang="de">Atlético Madrid - Viking FK</sub-title>
     <desc lang="de">Aus dem Riyadh Air Metropolitano in Madrid, Spanien.</desc>
     <category lang="de">Soccer</category>
     <rating>
       <value>A</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125220000 +0000" stop="20261126020000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125220000 +0000" stop="20261126020000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126020000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126020000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126050000 +0000" stop="20261126090000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126050000 +0000" stop="20261126090000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126090000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126090000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126130000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126130000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
     <desc lang="de">Informationssendung.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA Conference League</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA Conference League</title>
     <sub-title lang="de">Brighton &amp; Hove Albion - Universitatea Craiova</sub-title>
     <desc lang="de">Aus dem American Express Community Stadium in Brighton, England.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
     <sub-title lang="de">AFC Sunderland - Jagiellonia Bialystok</sub-title>
     <desc lang="de">Aus dem Stadium of Light in Sunderland, Großbritannien.</desc>
     <category lang="de">Soccer</category>
     <rating>
       <value>A</value>
     </rating>
-  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126220000 +0000" stop="20261127020000 +0000"><title lang="de">Sendepause</title>
+  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126220000 +0000" stop="20261127020000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
       <value>G</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261123210000 +0000" stop="20261124010000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261123233000 +0000" stop="20261124003000 +0000"><title lang="de">Hamburger Autoperlen</title>
+    <sub-title lang="de">Neue Cabrios</sub-title>
+    <desc lang="de">In der Sendung wird Hamid Mossadegh beim Kauf und Verkauf von hochwertigen Autos begleitet.</desc>
+    <category lang="de">Entertainment</category>
+    <episode-num system="onscreen">S01E07</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124003000 +0000" stop="20261124012500 +0000"><title lang="de">Hamburger Autoperlen</title>
+    <sub-title lang="de">Best of</sub-title>
+    <desc lang="de">Bentley, Ferrari, Lamborghini, Porsche - in der neuen Auto-Dokusoap dreht sich alles um die pfeilschnellen Sportwagen des Hamburger Luxusautohändlers Hamid Mossadegh. Er wird beim Kauf und Verkauf von neuen Luxuskarossen begleitet.</desc>
+    <category lang="de">Entertainment</category>
+    <episode-num system="onscreen">S01E08</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124012500 +0000" stop="20261124020000 +0000"><title lang="de">Hamburger Autoperlen</title>
+    <sub-title lang="de">Kurzversion</sub-title>
+    <desc lang="de">Bentley, Ferrari, Lamborghini, Porsche - in der neuen Auto-Dokusoap dreht sich alles um die pfeilschnellen Sportwagen des Hamburger Luxusautohändlers Hamid Mossadegh. Er wird beim Kauf und Verkauf von neuen Luxuskarossen begleitet.</desc>
+    <category lang="de">Entertainment</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124020000 +0000" stop="20261124100000 +0000"><title lang="de">Teleshopping</title>
+    <desc lang="de">Neueste Produkte werden im Fernsehen für ein bequemes Einkaufserlebnis präsentiert. Von praktischen Haushaltshelfern und weichen Badetüchern bis hin zu vielseitigen Sportgeräten bietet das abwechslungsreiche Sortiment zahlreiche Angebote.</desc>
+    <category lang="de">Shopping</category>
     <rating>
-      <value>G</value>
+      <value>Family</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124010000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124100000 +0000" stop="20261124113000 +0000"><title lang="de">Teleshopping</title>
+    <desc lang="de">Neueste Produkte werden im Fernsehen für ein bequemes Einkaufserlebnis präsentiert. Von praktischen Haushaltshelfern und weichen Badetüchern bis hin zu vielseitigen Sportgeräten bietet das abwechslungsreiche Sortiment zahlreiche Angebote.</desc>
+    <category lang="de">Shopping</category>
     <rating>
-      <value>G</value>
+      <value>Family</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124050000 +0000" stop="20261124090000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124113000 +0000" stop="20261124120000 +0000"><title lang="de">NORMAL</title>
+    <desc lang="de">Das Magazin gibt über alle Bereiche der Behindertenszene Auskunft, mit Berichten über bestimmte Krankheitsbilder, Porträts Einzelner, Informationen zu Reisemöglichkeiten für behinderte Touristen, Rechtsfragen und vielem mehr.</desc>
+    <category lang="de">Newsmagazine</category>
+    <episode-num system="onscreen">S2026E47</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124120000 +0000" stop="20261124130000 +0000"><title lang="de">Repair Shop: Kaputt gibt's nicht</title>
+    <sub-title lang="de">Die Glücks-Lupe</sub-title>
+    <desc lang="de">Steve bekommt einen Auftrag einer defekten Uhr von dem Großvater dreier Schwestern. Die Uhr ist seit Jahrzehnten lädiert. Außerdem hat Kirsten es mit einem Familienerbstück zu tun, einer handgetöpferten Soldatenskulptur mit abgebrochenem Kopf.</desc>
+    <category lang="de">How-to</category>
+    <episode-num system="onscreen">S03E14</episode-num>
     <rating>
-      <value>G</value>
+      <value>PG</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124090000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124130000 +0000" stop="20261124133000 +0000"><title lang="de">Container Wars</title>
+    <sub-title lang="de">Geheimnisse des Orients</sub-title>
+    <desc lang="de">Ein mysteriöser Container aus dem Orient landet in Los Angeles.</desc>
+    <category lang="de">Reality</category>
+    <episode-num system="onscreen">S01E07</episode-num>
     <rating>
-      <value>G</value>
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124130000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124133000 +0000" stop="20261124140000 +0000"><title lang="de">Container Wars</title>
+    <sub-title lang="de">Hai-Attacke</sub-title>
+    <desc lang="de">Das Team ist an einem Container aus Venedig und einem haifischförmigen Artikel interessiert.</desc>
+    <category lang="de">Reality</category>
+    <episode-num system="onscreen">S01E08</episode-num>
     <rating>
-      <value>G</value>
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124140000 +0000" stop="20261124143000 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Magische Pilze</sub-title>
+    <desc lang="de">Immer häufiger hört Dieter in den Medien von sogenannten Schläfern, die plötzlich gewalttätig werden. Er befürchtet, dass diese auch in seiner Siedlung sind. Er dringt deshalb in die WG mit den jungen Leuten ein. Dabei isst er dort ein paar Pilze.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S02E15</episode-num>
     <rating>
-      <value>G</value>
+      <value>12</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
-    <desc lang="de">Informationssendung.</desc>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124143000 +0000" stop="20261124150000 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Tommie wird beschnitten</sub-title>
+    <desc lang="de">Dieter steckt in der Patsche: Er hat für den Dackelverein unerlaubt Schulden gemacht und soll diese nun selbst begleichen. Doch er hat dafür kein Geld, wohl aber einen Plan, um dieses aufzutreiben. Tommie soll eine Türkin mit reichem Vater heiraten.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124150000 +0000" stop="20261124153000 +0000"><title lang="de">Axel! will's wissen</title>
+    <sub-title lang="de">Die neue Hoffnung</sub-title>
+    <desc lang="de">Axel und Yvonne sind bei den Schwiegereltern ausgezogen und wohnen nun bei Bong. Zunächst finden sie es toll und feiern viele Partys. Schnell wird jedoch klar, dass zu viel Freiheit auch seine Nachteile haben kann.</desc>
+    <category lang="de">Sitcom</category>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124153000 +0000" stop="20261124160000 +0000"><title lang="de">Axel! will's wissen</title>
+    <sub-title lang="de">Der Babysitter</sub-title>
+    <desc lang="de">Axel muss auf Yvonnes Patenkind Michelle aufpassen. Leider will die Kleine nicht zur Ruhe kommen, egal was Axel probiert. Schließlich entscheidet Axel, einen Spaziergang im Park zu machen und dabei ein paar Frauen aufzureißen.</desc>
+    <category lang="de">Sitcom</category>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124160000 +0000" stop="20261124163000 +0000"><title lang="de">Ladykracher</title>
+    <sub-title lang="de">Kermit</sub-title>
+    <desc lang="de">Ulla ist verknallt. In Kermit den Frosch. Dies muss sie noch ihrem Freund Pierre beichten, der dafür natürlich wenig Verständnis hat! Ruth philosophiert derweil über die Energieversorgung. Ein weiteres Thema ist unter anderem: "Sitzung mit Schatzi".</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124163000 +0000" stop="20261124170000 +0000"><title lang="de">Ladykracher</title>
+    <sub-title lang="de">Minna für alles</sub-title>
+    <desc lang="de">Anke Engelke schlüpft für ihre Sketche immer wieder in die verschiedensten Rollen, um der Gesellschaft den Spiegel vor das Gesicht zu halten. Christoph Maria Herbst hat einen neuen Ort gefunden, um mit der Freundin Schluss zu machen: die Achterbahn!</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124170000 +0000" stop="20261124173000 +0000"><title lang="de">Pastewka</title>
+    <sub-title lang="de">Der Tricorder</sub-title>
+    <desc lang="de">Bastian rettet Regine im letzten Moment das Leben, als er sie von der Straße zieht. Seit diesem Vorfall scheint sie Bastian zu vergöttern und behandelt ihn wie einen lebendigen Schutzengel.</desc>
+    <category lang="de">Comedy drama</category>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124173000 +0000" stop="20261124180000 +0000"><title lang="de">Pastewka</title>
+    <sub-title lang="de">Das Wunder von München</sub-title>
+    <desc lang="de">Bei der Neuverfilmung der Bibel soll Bastian den Sohn Gottes spielen. Bei den Probeaufnahmen muss er sich jedoch gegen Maddin Schneider und Michael Kessler durchsetzen und greift dabei zu harten Mitteln.</desc>
+    <category lang="de">Comedy drama</category>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124180000 +0000" stop="20261124183000 +0000"><title lang="de">Bitte Lächeln!</title>
+    <sub-title lang="de">Folge 17</sub-title>
+    <desc lang="de">Kleine Missgeschicke treffen auf großes Gelächter. Zudem werden Nachrichtensendungen parodiert.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S01E17</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124183000 +0000" stop="20261124191500 +0000"><title lang="de">45 - Die Fußball-Halbzeit auf SPORT1</title>
+    <desc lang="de">45 - Die Fußball-Halbzeit auf SPORT1 präsentiert die aktuellen Themen aus der Bundesliga und 2. Bundesliga, dem internationalen Fußball sowie aus weiteren populären Sportarten.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
-    <sub-title lang="de">Como 1907 - AEK Athen</sub-title>
-    <desc lang="de">Aus dem Stadio Giuseppe Sinigaglia in Como, Lombardei, Italien.</desc>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124191500 +0000" stop="20261124194500 +0000"><title lang="de">Sechserpack</title>
+    <sub-title lang="de">Extrem sportlich</sub-title>
+    <desc lang="de">Die zwei Mädels finden das Freitauchen interessant, doch die Demonstration passt irgendwie nicht so richtig. Was wohl die Nebenwirkungen des Dopings sind? Weiterhin wird sich mit Training, Sport und noch mehr Sport befasst.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S06E04</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124194500 +0000" stop="20261124201500 +0000"><title lang="de">Sechserpack</title>
+    <sub-title lang="de">Rätsel &amp; Geheimnisse</sub-title>
+    <desc lang="de">Wer hätte denn gedacht, dass der heilige Gral ausgerechnet auf einem Flohmarkt gefunden wird? Ein Schlosskauf kann nicht einfach so abgewickelt werden. Man muss vorher schon gründlich recherchieren. Männer-Geheimbünde sind doch das allerletzte.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124201500 +0000" stop="20261124204500 +0000"><title lang="de">Sechserpack</title>
+    <sub-title lang="de">Automobil</sub-title>
+    <desc lang="de">Heute geht es alles rund ums Auto. Vom Smog, den die "Umweltverpester" verursachen, bis hin zu Frauen am Steuer, die sich nicht auf den Verkehr konzentrieren, sondern ihre Augen lieber auf dem Spiegel haben.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124204500 +0000" stop="20261124211500 +0000"><title lang="de">Sechserpack</title>
+    <sub-title lang="de">Von Kopf bis Fuß</sub-title>
+    <desc lang="de">Von Kopf bis Fuß - alles wird heute besprochen. Das Gedächtnis ist ein wichtiger Bestandteil in unserem Gehirn, doch was tun, wenn es nachlässt? Es gibt Tricks, mit denen man seinem Gedächtnis auf die Sprünge helfen kann.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S06E07</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124211500 +0000" stop="20261124224500 +0000"><title lang="de">TNA Wrestling</title>
+    <sub-title lang="de">Weekly Show 4</sub-title>
+    <desc lang="de">TNA Wrestling steht für spektakuläre Moves, packende Matches und mitreißendes Entertainment. Internationale Wrestling-Stars treffen in intensiven Duellen aufeinander, während spannende Rivalitäten und Storylines für zusätzliche Brisanz sorgen.</desc>
+    <category lang="de">Pro wrestling</category>
+    <rating>
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124224500 +0000" stop="20261124234500 +0000"><title lang="de">Härtetest extrem</title>
+    <sub-title lang="de">Die Einzelkämpfer 2/3</sub-title>
+    <desc lang="de">Bei Härtetest extrem - Die Einzelkämpfer stellen sich die Teilnehmer körperlichen und mentalen Grenzerfahrungen. Harte Prüfungen, extreme Belastungen und anspruchsvolle Aufgaben verlangen ihnen alles ab.</desc>
+    <category lang="de">Documentary</category>
+    <episode-num system="onscreen">S03E08</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261124234500 +0000" stop="20261125004000 +0000"><title lang="de">Deals 4 Wheels - Schlitten. Schrauben. Scheine machen</title>
+    <sub-title lang="de">Folge 2</sub-title>
+    <desc lang="de">Die Autojägerin Ramona sucht Autos, die viel Liebe oder eine komplette Restaurierung benötigen.</desc>
+    <category lang="de">Auto</category>
+    <episode-num system="onscreen">S01E02</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125004000 +0000" stop="20261125013500 +0000"><title lang="de">Deals 4 Wheels - Schlitten. Schrauben. Scheine machen</title>
+    <sub-title lang="de">Folge 3</sub-title>
+    <desc lang="de">Die Autojägerin Ramona sucht Autos, die viel Liebe oder eine komplette Restaurierung benötigen.</desc>
+    <category lang="de">Auto</category>
+    <episode-num system="onscreen">S01E03</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125013500 +0000" stop="20261125020000 +0000"><title lang="de">Die PS Profis Schule</title>
+    <sub-title lang="de">Erkans krasses Spezial</sub-title>
+    <desc lang="de">Experte Sidney Hoffmann betreut Kandidaten, die dringend auf der Suche nach einem Gebrauchtwagen sind. Dabei wird gezeigt, was Zuschauer grundsätzlich beim Kauf beachten sollten und es werden die Schwachstellen bei verschiedenen Modellen aufgedeckt.</desc>
+    <category lang="de">Auto</category>
+    <episode-num system="onscreen">S01E07</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125020000 +0000" stop="20261125100000 +0000"><title lang="de">Teleshopping</title>
+    <desc lang="de">Neueste Produkte werden im Fernsehen für ein bequemes Einkaufserlebnis präsentiert. Von praktischen Haushaltshelfern und weichen Badetüchern bis hin zu vielseitigen Sportgeräten bietet das abwechslungsreiche Sortiment zahlreiche Angebote.</desc>
+    <category lang="de">Shopping</category>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125100000 +0000" stop="20261125120000 +0000"><title lang="de">Teleshopping</title>
+    <desc lang="de">Neueste Produkte werden im Fernsehen für ein bequemes Einkaufserlebnis präsentiert. Von praktischen Haushaltshelfern und weichen Badetüchern bis hin zu vielseitigen Sportgeräten bietet das abwechslungsreiche Sortiment zahlreiche Angebote.</desc>
+    <category lang="de">Shopping</category>
+    <rating>
+      <value>Family</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125120000 +0000" stop="20261125130000 +0000"><title lang="de">Repair Shop: Kaputt gibt's nicht</title>
+    <sub-title lang="de">Eine royale Schreibmaschine</sub-title>
+    <desc lang="de">Suzie bekommt die Aufgabe, eine Fliegerjacke aus dem Zweiten Weltkrieg zu reparieren. George Blackman erhält den Auftrag, eine alte Underwood-5-Schreibmaschine zu reparieren, mit der die Memoiren von Queen Victorias Patensohn getippt worden sind.</desc>
+    <category lang="de">How-to</category>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125130000 +0000" stop="20261125133000 +0000"><title lang="de">Container Wars</title>
+    <sub-title lang="de">Schwere Geschütze</sub-title>
+    <desc lang="de">Ein mysteriöser Container aus Guam erregt Aufmerksamkeit und das Bieten beginnt.</desc>
+    <category lang="de">Reality</category>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <rating>
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125133000 +0000" stop="20261125140000 +0000"><title lang="de">Container Wars</title>
+    <sub-title lang="de">Pelzige Angelegenheit</sub-title>
+    <desc lang="de">Die Hauptader aller Container trifft auf Land. Eine überraschende Wendung könnte alles ändern.</desc>
+    <category lang="de">Reality</category>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <rating>
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125140000 +0000" stop="20261125143000 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Der Seitensprung</sub-title>
+    <desc lang="de">Tommy sucht im Internet nach einer Freundin. Versehentlich allerdings lädt er die Anzeige auf einer Schwulenseite hoch. Bald kommt ein Interessent vorbei, um Tommy kennenzulernen. Dieter verwechselt ihn mit dem Sohn des Dackelvereinspräsidenten.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125143000 +0000" stop="20261125150000 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Ein Baby für die Krauses</sub-title>
+    <desc lang="de">Die Krauses wünschen sich Nachwuchs. Lisbeth allerdings einen ganz anderen als Dieter: Sie will ein kleines Baby, während er einen Dackelwelpen möchte. Damit sich Lisbeths Bauch bald wölbt, schickt sie ihren Mann zur Samenbank. Der will aber nicht.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125150000 +0000" stop="20261125153000 +0000"><title lang="de">Axel! will's wissen</title>
+    <sub-title lang="de">Die neue Freundin</sub-title>
+    <desc lang="de">Axel soll Bong dabei helfen, ein Date mit Katharina zu organisieren. Dabei stellt Axel jedoch fest, dass Katharina ein falsches Spiel spielt, sie ist nur hinter Bongs Geld her. Axel und Mütze hecken einen Plan aus, wie sie Bong helfen können.</desc>
+    <category lang="de">Sitcom</category>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125153000 +0000" stop="20261125160000 +0000"><title lang="de">Axel! will's wissen</title>
+    <sub-title lang="de">Der Jahrestag</sub-title>
+    <desc lang="de">Axel und Yvonne haben Jahrestag, doch beide haben es vergessen. Yvonne ist diejenige, die es zugibt. Sie verwöhnt Axel den ganzen Tag lang, bis sich sein schlechtes Gewissen meldet. Jetzt lässt Yvonne ihn nicht so einfach davon kommen.</desc>
+    <category lang="de">Sitcom</category>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125160000 +0000" stop="20261125163000 +0000"><title lang="de">Ladykracher</title>
+    <sub-title lang="de">Abschied</sub-title>
+    <desc lang="de">Flo hat es im Leben nicht leicht. Sie gibt sich noch so viel Mühe, aber für die meisten Männer bleibt sie nur ein Mauerblümchen! Anja Fechter dagegen ist kurz davor Weltmeisterin im Eislaufen zu werden - doch sie hat da noch einiges vor sich.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125163000 +0000" stop="20261125170000 +0000"><title lang="de">Ladykracher</title>
+    <sub-title lang="de">Shopping</sub-title>
+    <desc lang="de">Anke Engelke schlüpft in die verschiedensten Rollen, um ihre Sketche so vielfältig wie möglich zu machen. Auch heute ist wieder eine breite Palette an Themen dabei: "Shopping", "Das Krankenbett", "Ruth - nie wieder WG" und viele mehr!</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125170000 +0000" stop="20261125173000 +0000"><title lang="de">Pastewka</title>
+    <sub-title lang="de">Der Kochkurs</sub-title>
+    <desc lang="de">Anne zwingt Bastian, einen Kochkurs zu belegen. Doch dann trifft Bastian im Kurs eine attraktive Frau, die seine Liebe fürs Fernsehen teilt. Anne ist eifersüchtig.</desc>
+    <category lang="de">Comedy drama</category>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125173000 +0000" stop="20261125180000 +0000"><title lang="de">Pastewka</title>
+    <sub-title lang="de">Ein Tag mit Frau Bruck</sub-title>
+    <desc lang="de">Nach Bastians missglückter Starthilfe bittet ihn Svenja, mit ihr zusammen seinen Bruder Hagen abzuholen, der einen Autounfall hatte. Doch die Fahrt wird zum Albtraum.</desc>
+    <category lang="de">Comedy drama</category>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125180000 +0000" stop="20261125191500 +0000"><title lang="de">Bitte Lächeln!</title>
+    <desc lang="de">Kleine Missgeschicke treffen auf großes Gelächter. Zudem werden Nachrichtensendungen parodiert.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S01E52</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125191500 +0000" stop="20261125221500 +0000"><title lang="de">Fantalk</title>
+    <sub-title lang="de">5. Spieltag, Saison 2026/2027</sub-title>
+    <desc lang="de">Bekannte Fußballexperten, prominente Gäste und Fans diskutieren über die aktuellen Geschehnisse.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124220000 +0000" stop="20261125020000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125221500 +0000" stop="20261125231500 +0000"><title lang="de">Härtetest extrem</title>
+    <sub-title lang="de">Die Einzelkämpfer 2/3</sub-title>
+    <desc lang="de">Bei Härtetest extrem - Die Einzelkämpfer stellen sich die Teilnehmer körperlichen und mentalen Grenzerfahrungen. Harte Prüfungen, extreme Belastungen und anspruchsvolle Aufgaben verlangen ihnen alles ab.</desc>
+    <category lang="de">Documentary</category>
+    <episode-num system="onscreen">S03E08</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261125231500 +0000" stop="20261126001500 +0000"><title lang="de">Eastside Motors - Kaufrausch in Dresden</title>
+    <sub-title lang="de">Folge 1</sub-title>
+    <desc lang="de">Dieses Mal sind Lappländer zu Besuch in Thüringen, bei dem Autohändler Enrico Tetzlaff. Diese nordischen Alleskönner sind militärgrün. Dominik arbeitet dort erst seit einer Woche, hat es aber mit einem Problemfall zu tun.</desc>
+    <category lang="de">Auto</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126001500 +0000" stop="20261126004500 +0000"><title lang="de">NORMAL</title>
+    <desc lang="de">Das Magazin gibt über alle Bereiche der Behindertenszene Auskunft, mit Berichten über bestimmte Krankheitsbilder, Porträts Einzelner, Informationen zu Reisemöglichkeiten für behinderte Touristen, Rechtsfragen und vielem mehr.</desc>
+    <category lang="de">Newsmagazine</category>
+    <episode-num system="onscreen">S2026E47</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126004500 +0000" stop="20261126011000 +0000"><title lang="de">Die PS Profis im Einsatz</title>
+    <sub-title lang="de">Der Hochzeitsbus (Teil 2)</sub-title>
+    <desc lang="de">Sidney Hoffman eilt zur Rettung von besonders ramponierten Fahrzeugen. In jeder Episode versucht der `PS-Profi' einen kaputten fahrbaren Untersatz eines Kandidaten wieder auf Vordermann zu bringen.</desc>
+    <category lang="de">Entertainment</category>
+    <episode-num system="onscreen">S01E10</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126011000 +0000" stop="20261126013500 +0000"><title lang="de">Die PS Profis im Einsatz</title>
+    <sub-title lang="de">Auto Defection</sub-title>
+    <desc lang="de">Sidney Hoffman eilt zur Rettung von besonders ramponierten Fahrzeugen. In jeder Episode versucht der `PS-Profi' einen kaputten fahrbaren Untersatz eines Kandidaten wieder auf Vordermann zu bringen.</desc>
+    <category lang="de">Entertainment</category>
+    <episode-num system="onscreen">S01E11</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126013500 +0000" stop="20261126020000 +0000"><title lang="de">Die PS Profis im Einsatz</title>
+    <sub-title lang="de">Der Horror Golf</sub-title>
+    <desc lang="de">Bei der neuen SPORT1-Sendung die PS Profis - im Einsatz schrauben echte Kerle mit Herz für Menschen, die es wirklich verdient haben! In jeder Folge wird PS Profi Sidney Hoffmann zum Retter in der Not und bringt die ramponierten und kaputten Autos der Kandidaten wieder auf Vordermann. Zur ersten Ausgabe hat Tims Freund Julien den Studenten ohne dessen Wissen bei Sidney beworben.</desc>
+    <category lang="de">Entertainment</category>
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126020000 +0000" stop="20261126100000 +0000"><title lang="de">Teleshopping</title>
+    <desc lang="de">Neueste Produkte werden im Fernsehen für ein bequemes Einkaufserlebnis präsentiert. Von praktischen Haushaltshelfern und weichen Badetüchern bis hin zu vielseitigen Sportgeräten bietet das abwechslungsreiche Sortiment zahlreiche Angebote.</desc>
+    <category lang="de">Shopping</category>
     <rating>
-      <value>G</value>
+      <value>Family</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125020000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126100000 +0000" stop="20261126120000 +0000"><title lang="de">Teleshopping</title>
+    <desc lang="de">Neueste Produkte werden im Fernsehen für ein bequemes Einkaufserlebnis präsentiert. Von praktischen Haushaltshelfern und weichen Badetüchern bis hin zu vielseitigen Sportgeräten bietet das abwechslungsreiche Sortiment zahlreiche Angebote.</desc>
+    <category lang="de">Shopping</category>
     <rating>
-      <value>G</value>
+      <value>Family</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125050000 +0000" stop="20261125090000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126120000 +0000" stop="20261126130000 +0000"><title lang="de">Repair Shop: Kaputt gibt's nicht</title>
+    <sub-title lang="de">Opa Wesleys Pferd</sub-title>
+    <desc lang="de">Der Möbelrestaurator Will Kirk bekommt es mit einem innig geliebten Schaukelpferd zu tun. Er soll es in den ursprünglichen Zustand zurückversetzen. Bei Kirsten Ramsay kommt diesmal ein Wandteller mit Sprung aus den 30er Jahren an.</desc>
+    <category lang="de">How-to</category>
+    <episode-num system="onscreen">S03E12</episode-num>
     <rating>
-      <value>G</value>
+      <value>PG</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125090000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126130000 +0000" stop="20261126133000 +0000"><title lang="de">Container Wars</title>
+    <sub-title lang="de">Krumme Geschäfte</sub-title>
+    <desc lang="de">Jason könnte einen Container haben, der ihn ins Paradies bringt. Im Lager ist etwas Verdorbenes.</desc>
+    <category lang="de">Reality</category>
+    <episode-num system="onscreen">S01E11</episode-num>
     <rating>
-      <value>G</value>
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125130000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126133000 +0000" stop="20261126140000 +0000"><title lang="de">Container Wars</title>
+    <sub-title lang="de">Es ist nicht alles Gold, was glänzt</sub-title>
+    <desc lang="de">Ein Streit um einen Container gefährdet "Team Muscle", das Bündnis von Mo und Ty.</desc>
+    <category lang="de">Reality</category>
+    <episode-num system="onscreen">S01E12</episode-num>
     <rating>
-      <value>G</value>
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125170000 +0000" stop="20261125193000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126140000 +0000" stop="20261126143000 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Onkel Eddy</sub-title>
+    <desc lang="de">Dieters Bruder Eddy saß im Gefängnis ein und wurde nun entlassen. Da steht er plötzlich vor Dieters Tür, doch der will ihn nicht bei sich aufnehmen. Um ihn schnell wieder einbuchten zu lassen, verkleidet er sich als Eddy und geht auf Diebestour.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S03E04</episode-num>
     <rating>
-      <value>G</value>
+      <value>12</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125193000 +0000" stop="20261125195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
-    <desc lang="de">Informationssendung.</desc>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126143000 +0000" stop="20261126150000 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Wie die Wölfe</sub-title>
+    <desc lang="de">Dackel Bodo ist nicht scharf genug, obwohl es gleich auf die Jagd geht. Andere Vereinsmitglieder beschweren sich und fordern Dieter auf, zu handeln. Der verabreicht dem Tier Highspeed-Tropfen, die er leider verschüttet.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126150000 +0000" stop="20261126153000 +0000"><title lang="de">Axel! will's wissen</title>
+    <sub-title lang="de">Die Nachtschicht</sub-title>
+    <desc lang="de">Axel will Inges vegetarisches Hundefutter im Baumarkt verkaufen, sehr zu Roberts Leidwesen. Er ist wütend, auch Yvonne findet, Axel könne etwas netter zu ihrem Vater sein. Der Versuch, ein guter Schwiegersohn zu sein, geht jedoch nach hinten los.</desc>
+    <category lang="de">Sitcom</category>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126153000 +0000" stop="20261126160000 +0000"><title lang="de">Axel! will's wissen</title>
+    <sub-title lang="de">Die Spritztour</sub-title>
+    <desc lang="de">Yvonne kauft sich einen Jeep. Axel gibt es zwar nicht zu, ist aber neidisch auf den Geländewagen. Bong möchte unbedingt eine Spritztour mit dem Jeep unternehmen. Axel lässt sich darauf ein, leider werden sie geblitzt.</desc>
+    <category lang="de">Sitcom</category>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126160000 +0000" stop="20261126163000 +0000"><title lang="de">Ladykracher</title>
+    <sub-title lang="de">Gewitter</sub-title>
+    <desc lang="de">Auch heute hat Anke Engelke eine breite Palette an Themen zu zeigen. Es geht unter anderem um Fußballfans, die von Nöten geplagt werden; Trainer, die gerne mal herumfummeln und um sehr emotionale Kolleginnen.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126163000 +0000" stop="20261126170000 +0000"><title lang="de">Ladykracher</title>
+    <sub-title lang="de">Entscheidungen</sub-title>
+    <desc lang="de">Auch heute zeigt Anke Engelke ihre vielen Facetten und stellt dabei Themen wie: "Entscheidungen", "Ausparken", "Eltern - Todesstrafe", "Endlich schwanger", "Not living doll", "Der Hund im Mann" und viele mehr in den Mittelpunkt.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126170000 +0000" stop="20261126173000 +0000"><title lang="de">Pastewka</title>
+    <sub-title lang="de">Der Pusher</sub-title>
+    <desc lang="de">Bastian wird überfallen und sein Portemonnaie gestohlen. Er erwischt seine Nichte mit Marihuana. Bald stehen Bastians Kollegen auf der Matte, um sich Gras abzuzweigen.</desc>
+    <category lang="de">Comedy drama</category>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126173000 +0000" stop="20261126180000 +0000"><title lang="de">Pastewka</title>
+    <sub-title lang="de">Der Spender</sub-title>
+    <desc lang="de">Nachdem Bastians Bruder Hagen und seine Freundin Svenja absolut nicht schwanger werden, entschließt sich Bastian zu einem Gefallen, der in der Familie bleiben muss.</desc>
+    <category lang="de">Comedy drama</category>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126180000 +0000" stop="20261126183000 +0000"><title lang="de">Bitte Lächeln!</title>
+    <sub-title lang="de">Die Woche (10)</sub-title>
+    <desc lang="de">Christian Oberfuchshuber bringt Neues aus Norderbrarup und ein Missgeschick im Planschbecken.</desc>
+    <category lang="de">Comedy</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126183000 +0000" stop="20261126191500 +0000"><title lang="de">45 - Die Fußball-Halbzeit auf SPORT1</title>
+    <desc lang="de">45 - Die Fußball-Halbzeit auf SPORT1 präsentiert die aktuellen Themen aus der Bundesliga und 2. Bundesliga, dem internationalen Fußball sowie aus weiteren populären Sportarten.</desc>
     <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
-    <sub-title lang="de">Schachtar Donezk - Fenerbahce Istanbul</sub-title>
-    <desc lang="de">Aus dem Stamford Bridge Stadion in London, Großbritannien.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125220000 +0000" stop="20261126020000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126191500 +0000" stop="20261126221500 +0000"><title lang="de">Darts Highlights</title>
+    <sub-title lang="de">Grand Slam of Darts 2026</sub-title>
+    <desc lang="de">Beim Grand Slam of Darts trifft die internationale Darts-Elite aufeinander und kämpft um einen der prestigeträchtigsten Titel der Saison. Hochklassige Duelle, hohe Scores und spektakuläre Check-outs versprechen Darts-Unterhaltung auf höchstem Niveau.</desc>
+    <category lang="de">Darts</category>
     <rating>
-      <value>G</value>
+      <value>0</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126020000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126221500 +0000" stop="20261126224500 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Der Seitensprung</sub-title>
+    <desc lang="de">Tommy sucht im Internet nach einer Freundin. Versehentlich allerdings lädt er die Anzeige auf einer Schwulenseite hoch. Bald kommt ein Interessent vorbei, um Tommy kennenzulernen. Dieter verwechselt ihn mit dem Sohn des Dackelvereinspräsidenten.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S03E02</episode-num>
     <rating>
-      <value>G</value>
+      <value>12</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126050000 +0000" stop="20261126090000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126224500 +0000" stop="20261126231500 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Ein Baby für die Krauses</sub-title>
+    <desc lang="de">Die Krauses wünschen sich Nachwuchs. Lisbeth allerdings einen ganz anderen als Dieter: Sie will ein kleines Baby, während er einen Dackelwelpen möchte. Damit sich Lisbeths Bauch bald wölbt, schickt sie ihren Mann zur Samenbank. Der will aber nicht.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S03E03</episode-num>
     <rating>
-      <value>G</value>
+      <value>12</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126090000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126231500 +0000" stop="20261126234500 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Onkel Eddy</sub-title>
+    <desc lang="de">Dieters Bruder Eddy saß im Gefängnis ein und wurde nun entlassen. Da steht er plötzlich vor Dieters Tür, doch der will ihn nicht bei sich aufnehmen. Um ihn schnell wieder einbuchten zu lassen, verkleidet er sich als Eddy und geht auf Diebestour.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S03E04</episode-num>
     <rating>
-      <value>G</value>
+      <value>12</value>
     </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126130000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
+  </programme><programme channel="SPO1HD.at (m3u4u)" start="20261126234500 +0000" stop="20261127001500 +0000"><title lang="de">Hausmeister Krause - Ordnung muss sein</title>
+    <sub-title lang="de">Wie die Wölfe</sub-title>
+    <desc lang="de">Dackel Bodo ist nicht scharf genug, obwohl es gleich auf die Jagd geht. Andere Vereinsmitglieder beschweren sich und fordern Dieter auf, zu handeln. Der verabreicht dem Tier Highspeed-Tropfen, die er leider verschüttet.</desc>
+    <category lang="de">Comedy</category>
+    <episode-num system="onscreen">S03E05</episode-num>
     <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
-    <desc lang="de">Informationssendung.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA EL</title>
-    <sub-title lang="de">Viktoria Pilsen - Benfica Lissabon</sub-title>
-    <desc lang="de">Aus der Doosan Arena in Pilsen, Tschechien.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
-    <sub-title lang="de">Olympique Lyon - Lilleström SK</sub-title>
-    <desc lang="de">Aus dem Parc Olympique Lyonnais in Décines-Charpieu, Frankreich.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126220000 +0000" stop="20261127020000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261123170000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124050000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
-    <desc lang="de">Informationssendung.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
-    <sub-title lang="de">SK Slovan Bratislava - Betis Sevilla</sub-title>
-    <desc lang="de">Aus dem Tehelné Pole in Bratislava, Slowakei.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124220000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261125050000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261125170000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126050000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
-    <desc lang="de">Informationssendung.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA EL</title>
-    <sub-title lang="de">Olympique Marseille - Lewski Sofia</sub-title>
-    <desc lang="de">Die Übertragung der UEFA Europa League, ein Fußballwettbewerb für europäische Vereinsmannschaften.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
-    <sub-title lang="de">NEC Nimwegen - Stade Rennes</sub-title>
-    <desc lang="de">Aus dem De Goffertstadion in Nijmegen, Niederlande.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126220000 +0000" stop="20261127050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
+      <value>12</value>
     </rating>
   </programme><channel id="6866525c8a412a0e95c438b4"><display-name>Dyn Sport Mix</display-name>
     <icon src="https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png" />
