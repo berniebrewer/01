@@ -75872,14 +75872,32 @@
   </channel><channel id="SKSPBUH.de (m3u4u)"><display-name>DE: SKY SPORT BUNDESLIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
     <display-name>4K: DE SKY BUNDESLIGA ᵁᴴᴰ ³⁸⁴⁰ᴾ</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FD0FJ.png_gray_360w_270h.png?v=4e38200a6eb7653fac13" />
+  </channel><channel id="SKYSPA5.de (m3u4u)"><display-name>DE: SKY SPORT AUSTRIA 5 HD (720P)</display-name>
+    <display-name>DE: SKY SPORT AUSTRIA 5 HD (SAT)</display-name>
+    <display-name>DE: SKY SPORT AUSTRIA 5 ᴴᴰ</display-name>
+    <display-name>DE: SKY SPORT AUSTRIA 5 ᴿᴬᵂ</display-name>
+    <display-name>AT: SKY SPORT AUSTRIA 5 ᴿᴬᵂ</display-name>
+    <display-name>SKYGO: SKY SPORT AUSTRIA 5 4K</display-name>
+    <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FCQ7S.png_white_360w_270h.png?v=4e38200a6eb7653fac13" />
+  </channel><channel id="SKYSPA6.de (m3u4u)"><display-name>DE: SKY SPORT AUSTRIA 6 HD (720P)</display-name>
+    <display-name>DE: SKY SPORT AUSTRIA 6 ᴴᴰ</display-name>
+    <display-name>DE: SKY SPORT AUSTRIA 6 ᴿᴬᵂ</display-name>
+    <display-name>SKYGO: SKY SPORT AUSTRIA 6 4K</display-name>
+    <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FCQ86.png_gray_360w_270h.png?v=4e38200a6eb7653fac13" />
+  </channel><channel id="SKYSPA7.de (m3u4u)"><display-name>DE: SKY SPORT AUSTRIA 7 HD (720P)</display-name>
+    <display-name>DE: SKY SPORT AUSTRIA 6 HD (SAT)</display-name>
+    <display-name>DE: SKY SPORT AUSTRIA 7 HD (SAT)</display-name>
+    <display-name>AT: SKY SPORT AUSTRIA 7 ᴿᴬᵂ</display-name>
+    <display-name>SKYGO: SKY SPORT AUSTRIA 7 4K</display-name>
+    <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FCQ9M.png_white_360w_270h.png?v=4e38200a6eb7653fac13" />
   </channel><channel id="SKYSPA2.at (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 2 ᴿᴬᵂ</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s111209_dark_360w_270h.png?v=4e38200a6eb7653fac13" />
   </channel><channel id="SKYSPA3.at (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 3 ᴿᴬᵂ</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s111210_white_360w_270h.png?v=4e38200a6eb7653fac13" />
   </channel><channel id="SKYSPA4.at (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 4 ᴿᴬᵂ</display-name>
     <icon src="https://logos.json.schedulesdirect.org/stationLogos/s111211_light_360w_270h.png?v=4e38200a6eb7653fac13" />
-  </channel><channel id="SKYSPA6.at (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 6 ᴿᴬᵂ</display-name>
-    <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FCQ86.png_gray_360w_270h.png?v=4e38200a6eb7653fac13" />
+  </channel><channel id="SKYSPA8.de (m3u4u)"><display-name>AT: SKY SPORT AUSTRIA 8 ᴿᴬᵂ</display-name>
+    <icon src="https://logos.json.schedulesdirect.org/stationLogos/GNLZZGG003FCQSY.png_dark_360w_270h.png?v=4e38200a6eb7653fac13" />
   </channel><programme channel="13STHD.de (m3u4u)" start="20261123234500 +0000" stop="20261124003000 +0000"><title lang="de">Law &amp; Order: Special Victims Unit</title>
     <sub-title lang="de">Es liegt in der Familie</sub-title>
     <desc lang="de">Seth Langdon wird erschlagen und mit Spermaspuren im Mund tot aufgefunden. Sein Vater, der konservative Politiker William Langdon, hatte eigentlich gehofft, dass sein Sohn durch eine Therapie von seiner Homosexualität geheilt wurde. Die Spur führt zu dem bereits vorbestraften Sexualtäter Ray Gunther.</desc>
@@ -254767,6 +254785,510 @@ Melanie Lynskey - Rose.</desc>
     <rating>
       <value>G</value>
     </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261123210000 +0000" stop="20261124010000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124010000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124050000 +0000" stop="20261124090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124090000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124130000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Real Madrid - PSV Eindhoven</sub-title>
+    <desc lang="de">Aus dem Estadio Santiago Bernabéu in Madrid, Spanien.</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261124220000 +0000" stop="20261125020000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125020000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125050000 +0000" stop="20261125090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125090000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125130000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125170000 +0000" stop="20261125193000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125193000 +0000" stop="20261125195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">FC Brügge - FC Liverpool</sub-title>
+    <desc lang="de">Aus dem Jan Breydelstadion in Brügge, Belgien</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261125220000 +0000" stop="20261126020000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126020000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126050000 +0000" stop="20261126090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126090000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126130000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">RC Celta Fortuna - Bournemouth</sub-title>
+    <desc lang="de">Aus dem Balaidos Stadion in Vigo, Spanien.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">Juventus Turin - Omonia Nikosia</sub-title>
+    <desc lang="de">Aus dem Allianz Stadium in Turin, Piemont, Italien.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA5.de (m3u4u)" start="20261126220000 +0000" stop="20261127020000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261123210000 +0000" stop="20261124010000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124010000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124050000 +0000" stop="20261124090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124090000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124130000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">RB Leipzig - RC Lens</sub-title>
+    <desc lang="de">Aus der Red Bull Arena, Deutschland.</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261124220000 +0000" stop="20261125020000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125020000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125050000 +0000" stop="20261125090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125090000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125130000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125170000 +0000" stop="20261125193000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125193000 +0000" stop="20261125195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Atlético Madrid - Viking FK</sub-title>
+    <desc lang="de">Aus dem Riyadh Air Metropolitano in Madrid, Spanien.</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261125220000 +0000" stop="20261126020000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126020000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126050000 +0000" stop="20261126090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126090000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126130000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA Conference League</title>
+    <sub-title lang="de">Brighton &amp; Hove Albion - Universitatea Craiova</sub-title>
+    <desc lang="de">Aus dem American Express Community Stadium in Brighton, England.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">AFC Sunderland - Jagiellonia Bialystok</sub-title>
+    <desc lang="de">Aus dem Stadium of Light in Sunderland, Großbritannien.</desc>
+    <category lang="de">Soccer</category>
+    <rating>
+      <value>A</value>
+    </rating>
+  </programme><programme channel="SKYSPA6.de (m3u4u)" start="20261126220000 +0000" stop="20261127020000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261123210000 +0000" stop="20261124010000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124010000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124050000 +0000" stop="20261124090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124090000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124130000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Como 1907 - AEK Athen</sub-title>
+    <desc lang="de">Aus dem Stadio Giuseppe Sinigaglia in Como, Lombardei, Italien.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261124220000 +0000" stop="20261125020000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125020000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125050000 +0000" stop="20261125090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125090000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125130000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125170000 +0000" stop="20261125193000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125193000 +0000" stop="20261125195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">Schachtar Donezk - Fenerbahce Istanbul</sub-title>
+    <desc lang="de">Aus dem Stamford Bridge Stadion in London, Großbritannien.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261125220000 +0000" stop="20261126020000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126020000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126050000 +0000" stop="20261126090000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126090000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126130000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">Viktoria Pilsen - Benfica Lissabon</sub-title>
+    <desc lang="de">Aus der Doosan Arena in Pilsen, Tschechien.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">Olympique Lyon - Lilleström SK</sub-title>
+    <desc lang="de">Aus dem Parc Olympique Lyonnais in Décines-Charpieu, Frankreich.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA7.de (m3u4u)" start="20261126220000 +0000" stop="20261127020000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261123170000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124050000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
+    <sub-title lang="de">SK Slovan Bratislava - Betis Sevilla</sub-title>
+    <desc lang="de">Aus dem Tehelné Pole in Bratislava, Slowakei.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261124220000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261125050000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261125170000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126050000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
+    <desc lang="de">Informationssendung.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">Olympique Marseille - Lewski Sofia</sub-title>
+    <desc lang="de">Die Übertragung der UEFA Europa League, ein Fußballwettbewerb für europäische Vereinsmannschaften.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
+    <sub-title lang="de">NEC Nimwegen - Stade Rennes</sub-title>
+    <desc lang="de">Aus dem De Goffertstadion in Nijmegen, Niederlande.</desc>
+    <category lang="de">Soccer</category>
+  </programme><programme channel="SKYSPA8.de (m3u4u)" start="20261126220000 +0000" stop="20261127050000 +0000"><title lang="de">Sendepause</title>
+    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
+    <category lang="de">Special</category>
+    <rating>
+      <value>G</value>
+    </rating>
   </programme><programme channel="SKYSPA2.at (m3u4u)" start="20261123210000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
@@ -255085,154 +255607,6 @@ Melanie Lynskey - Rose.</desc>
     <desc lang="de">Aus dem Selhurst Park in London, Großbritannien.</desc>
     <category lang="de">Soccer</category>
   </programme><programme channel="SKYSPA4.at (m3u4u)" start="20261126220000 +0000" stop="20261127050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261123210000 +0000" stop="20261124010000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124010000 +0000" stop="20261124050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124050000 +0000" stop="20261124090000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124090000 +0000" stop="20261124130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124130000 +0000" stop="20261124170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124170000 +0000" stop="20261124193000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124193000 +0000" stop="20261124195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
-    <desc lang="de">Informationssendung.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124195000 +0000" stop="20261124220000 +0000"><title lang="de">UEFA CL</title>
-    <sub-title lang="de">RB Leipzig - RC Lens</sub-title>
-    <desc lang="de">Aus der Red Bull Arena, Deutschland.</desc>
-    <category lang="de">Soccer</category>
-    <rating>
-      <value>A</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261124220000 +0000" stop="20261125020000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125020000 +0000" stop="20261125050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125050000 +0000" stop="20261125090000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125090000 +0000" stop="20261125130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125130000 +0000" stop="20261125170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125170000 +0000" stop="20261125193000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125193000 +0000" stop="20261125195000 +0000"><title lang="de">Es folgt: UEFA Champions League</title>
-    <desc lang="de">Informationssendung.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125195000 +0000" stop="20261125220000 +0000"><title lang="de">UEFA CL</title>
-    <sub-title lang="de">Atlético Madrid - Viking FK</sub-title>
-    <desc lang="de">Aus dem Riyadh Air Metropolitano in Madrid, Spanien.</desc>
-    <category lang="de">Soccer</category>
-    <rating>
-      <value>A</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261125220000 +0000" stop="20261126020000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126020000 +0000" stop="20261126050000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126050000 +0000" stop="20261126090000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126090000 +0000" stop="20261126130000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126130000 +0000" stop="20261126170000 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126170000 +0000" stop="20261126171500 +0000"><title lang="de">Sendepause</title>
-    <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
-    <category lang="de">Special</category>
-    <rating>
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126171500 +0000" stop="20261126173500 +0000"><title lang="de">Es folgt: UEFA Europa League</title>
-    <desc lang="de">Informationssendung.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126173500 +0000" stop="20261126195000 +0000"><title lang="de">UEFA Conference League</title>
-    <sub-title lang="de">Brighton &amp; Hove Albion - Universitatea Craiova</sub-title>
-    <desc lang="de">Aus dem American Express Community Stadium in Brighton, England.</desc>
-    <category lang="de">Soccer</category>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126195000 +0000" stop="20261126220000 +0000"><title lang="de">UEFA EL</title>
-    <sub-title lang="de">AFC Sunderland - Jagiellonia Bialystok</sub-title>
-    <desc lang="de">Aus dem Stadium of Light in Sunderland, Großbritannien.</desc>
-    <category lang="de">Soccer</category>
-    <rating>
-      <value>A</value>
-    </rating>
-  </programme><programme channel="SKYSPA6.at (m3u4u)" start="20261126220000 +0000" stop="20261127020000 +0000"><title lang="de">Sendepause</title>
     <desc lang="de">Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.</desc>
     <category lang="de">Special</category>
     <rating>
