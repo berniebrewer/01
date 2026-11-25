@@ -207,13 +207,13 @@
 	},
     {
      "name": "Source 4a - epgshare Dummy",
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
-      "format": "gz",
+      "url": "https://raw.githubusercontent.com/berniebrewer/05/main/epg.xml",
+      "format": "xml",
       "prefix": "",
       "channels": [
         "Football.Dummy.us",
 		"NFL.Dummy.us",
-		"xBergblick.ch",
+		"NFL.Replay.as",
 		"xJust.fishing.ch",
 		"xSky.Nature.ch",
 		"xServus.TV.ch"
@@ -572,9 +572,16 @@
 		"ZiggoSport4.nl",
 		"ZiggoSport5.nl",
 		"ZiggoSport6.nl",
-		"eurosport1.nl",
-		"eurosport2.nl",
-		"XXXMSSport1(DEL8DE).de2"
+		"SKYSPA2.de (m3u4u)",
+		"SKYSPA3.de (m3u4u)",
+		"SKYSPA4.de (m3u4u)",
+		"SKYSPA5.de (m3u4u)",
+		"SKYSPA6.de (m3u4u)",
+		"SKYSPA7.de (m3u4u)",
+		"SKYSPA8.de (m3u4u)",
+		"SKSPBUH.de (m3u4u)",
+		"SKONF.de (m3u4u)",
+		"SPO1HD.at (m3u4u)"
 	  ]
 	},
     {
