@@ -220,6 +220,20 @@
       ]
 	},
     {
+     "name": "Source 4b - rytecDE_SportMovies",
+      "url": "http://www.xmltvepg.nl/rytecDE_SportMovies.xz",
+      "format": "xz",
+      "prefix": "",
+      "channels": [
+        "MS.Sport.de",
+		"Sky.Sport.Top.Event.de",
+		"NFL.Replay.as",
+		"xJust.fishing.ch",
+		"xSky.Nature.ch",
+		"xServus.TV.ch"
+      ]
+	},
+    {
       "name": "Source 5 - EPGenius 32",
       "url": "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg32.xml.gz",
       "format": "gz",
@@ -581,6 +595,15 @@
 		"ZiggoSport4.nl",
 		"ZiggoSport5.nl",
 		"ZiggoSport6.nl",
+		"WAIDTV.de (m3u4u)",
+		"KURIER.at (m3u4u)",
+		"KRONETV.de (m3u4u)",
+		"TIROL.at (m3u4u)",
+		"ORF3HD.at (m3u4u)",
+		"DYNSportMix.de (src09)",
+		"CRSTNOW.de (m3u4u)",
+		"ORFSPPL.at (m3u4u)",
+        "MSSport1(DEL8DE).de2",
 		"SPO1HD.at (m3u4u)"
 	  ]
 	},
