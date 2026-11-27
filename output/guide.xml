@@ -59,18 +59,7 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2300002KX_20250107T155313SQUARE.png" />
   </channel><channel id="DE3400005QJ"><display-name>Abschnitt 40 / GSG9</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3400005QJ_20251209T125838SQUARE.png" />
-  </channel><programme channel="DEBD26000034M" start="20261127094500 +0000" stop="20261127101500 +0000"><title>FIM Supermoto World &amp; European Championship</title>
-    <desc>Vysoké Mýto in der Tschechischen Republik ist Austragungsort von Runde 6, dem S1GP of Nations.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_1468778460_1_20251224T035317274Z_100_imageprocessorclient-tvplus-linear-85d7d49859-s72h4.jpeg" />
-    <episode-num system="onscreen">S07E02</episode-num>
-  </programme><programme channel="DEBD26000034M" start="20261127101500 +0000" stop="20261127104500 +0000"><title>FIM Supermoto World &amp; European Championship</title>
-    <desc>Die letzte Runde im Jahr 2025, der GP of Belgium, findet in Mettet statt.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_1468842403_1_20251224T035317428Z_24_imageprocessorclient-tvplus-linear-85d7d49859-s72h4.jpeg" />
-    <episode-num system="onscreen">S07E02</episode-num>
-  </programme><programme channel="DEBD26000034M" start="20261127104500 +0000" stop="20261127110000 +0000"><title>Crash</title>
-    <desc>Go fast, brake hard and watch out for that tree!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_965366859_2_20250610T160045218Z_29_imageprocessorclient-tvplus-linear-5db7c6bc99-7sngq.jpeg" />
-  </programme><programme channel="DEBD26000034M" start="20261127110000 +0000" stop="20261127120000 +0000"><title>Road Wars</title>
+  </channel><programme channel="DEBD26000034M" start="20261127110000 +0000" stop="20261127120000 +0000"><title>Road Wars</title>
     <desc>Wir begleiten das Thames Valley PD. Heute: Schnelle Verbrecher, eilige Fußgänger &amp; scharfe Beißer.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_1311751823_1_20251108T015632627Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-4h9xv.jpeg" />
   </programme><programme channel="DEBD26000034M" start="20261127120000 +0000" stop="20261127124500 +0000"><title>Road Wars</title>
@@ -103,6 +92,18 @@
   </programme><programme channel="DEBD26000034M" start="20261127160000 +0000" stop="20261127161500 +0000"><title>Geely Starray EM-i: Plug-In-Hybrid aus China mit über 1000 Kilometer Reichweite</title>
     <desc>Kann der Tayron jetzt einpacken? Plug-In-Hybrid-SUV von Geely für 33.000 €.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2121986328_1_20260820T172656394Z_65_imageprocessorclient-tvplus-linear-b5879c6c6-5g9m7.jpeg" />
+  </programme><programme channel="DEBD26000034M" start="20261127161500 +0000" stop="20261127163000 +0000"><title>Geely E5: Gegenwind aus China für VW ID.4 und Co | Bietet er mehr fürs Geld?</title>
+    <desc>Ab rund 38.000 €: Wir klären die wichtigsten Fakten zum Geely E5 kurz und kompakt.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2122061926_1_20260820T172656393Z_25_imageprocessorclient-tvplus-linear-b5879c6c6-5g9m7.jpeg" />
+  </programme><programme channel="DEBD26000034M" start="20261127163000 +0000" stop="20261127164500 +0000"><title>Kias Kompaktoffensive: Wir testen das neue Sportage Facelift und checken weiter Modelle!</title>
+    <desc>Kompakte und SUVs boomen in Europa: Wir checken das neue Kia Sportage Facelift und weitere Modelle.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_1814581236_0_20260430T094454129Z_100_imageprocessorclient-tvplus-linear-74d4c47476-6hqjg.jpeg" />
+  </programme><programme channel="DEBD26000034M" start="20261127164500 +0000" stop="20261127170000 +0000"><title>Ein ganz spezieller Traumwagen: Der Ferrari 458 Speciale</title>
+    <desc>Der 458 Speciale ist eine Fahrmaschine vor dem Herrn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_485820576_1_20231107T004924375Z_55.jpeg" />
+  </programme><programme channel="DEBD26000034M" start="20261127170000 +0000" stop="20261127173000 +0000"><title>Detlev Kümmel</title>
+    <desc>Detlev Kümmel über Bares für Rares, Oldtimer, Kampfsport und seine ganz persönliche Liebe zur Kunst.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2024381596_0_20260717T151105688Z_44_imageprocessorclient-tvplus-linear-66fc4d58c8-9pcd8.jpeg" />
   </programme><programme channel="DE26000085Y" start="20261127095402 +0000" stop="20261127113015 +0000"><title>Weihnachten Auf Königliche Art</title>
     <desc>Kristin Cooper, die hübsche und talentierte Assistentin einer globalen PR-Firma, wird mit der Leitung der jährlichen Weihnachtsmodenschau und -auktion für den Bekleidungsunternehmer Mr. Carson beauftragt.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_521153206_1_20241219T032124640Z_135_imageprocessorclient-tvplus-linear-7cd5d896cc-r6zfm.jpeg" />
@@ -129,17 +130,12 @@
     <rating>
       <value>16</value>
     </rating>
-  </programme><programme channel="DEBA3300040CR" start="20261127095827 +0000" stop="20261127102813 +0000"><title>Lockie Leonard Season 1</title>
-    <desc>Philipp sei Dank verbreiten sich die Neuigkeiten über Lockie und Dot in Windeseile in der ganzen Stadt: Lockie wird Dot küssen und zwar um fünf Uhr bei der Windfarm. Lockie findet das schrecklich und ein bisschen Angst hat er auch. Wie soll er um Himmels Willen ein Mädchen zum ersten Mal küssen, wenn ihm dabei die ganze Stadt zusieht?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20220218T140958_BRANDED.png" />
+  </programme><programme channel="DE26000085Y" start="20261127164159 +0000" stop="20261127181638 +0000"><title>Noel Next Door</title>
+    <sub-title>Ein Miesepeter zu Weihnachten</sub-title>
+    <desc>Die alleinerziehende Noel möchte ihrem Sohn Henry das schönste Weihnachtsfest aller Zeiten bereiten. Dann trifft Henry einen mürrischen Nachbarn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_2327645089_0_20261029T062357745Z_95_imageprocessorclient-tvplus-linear-b5879c6c6-pm2wd.jpeg" />
     <rating>
-      <value>6</value>
-    </rating>
-  </programme><programme channel="DEBA3300040CR" start="20261127102813 +0000" stop="20261127105810 +0000"><title>Lockie Leonard Season 1</title>
-    <desc>Lockie und Egg wollen eine Versammlung vorbereiten, um den verschmutzten Fluss zu retten. Doch dann hat Lockie was Besseres vor: Surfen mit Dot. Da Lockie nur noch an Dot denkt, vergisst er alles andere um ihn herum und benimmt sich wie ein mieser Köter. Das führt zu einigen Enttäuschungen. Kann er das je wieder gutmachen?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20220218T140958_BRANDED.png" />
-    <rating>
-      <value>6</value>
+      <value>16</value>
     </rating>
   </programme><programme channel="DEBA3300040CR" start="20261127105810 +0000" stop="20261127112808 +0000"><title>Lockie Leonard Season 1</title>
     <desc>Lockie hat ein paar Probleme. Er möchte gerne mit Dot Schluss machen. Mum ist total komisch drauf und starrt seit Tagen auf den Fernseher ohne, dass ein Programm läuft. Und seine Mission, den Fluss zu retten scheint ins Leere zu laufen. Da hilft nur eins: Lockie muss seinen inneren Helden, „Captain Chicken“, finden und die Probleme lösen.</desc>
@@ -175,6 +171,12 @@
     <rating>
       <value>12</value>
     </rating>
+  </programme><programme channel="DEBA3300040CR" start="20261127165754 +0000" stop="20261127191426 +0000"><title>Ein Wunder am Weihnachtssee</title>
+    <desc>Der 16-jährige Bobby macht auf dem benachbarten See eines Abends eine erstaunliche Entdeckung: Eine hell beleuchtete Eishockeypiste, die von einem Mann bearbeitet wird, der sich ihm als Weihnachtsmann vorstellt. Doch bedauerlicherweise kann nur Bobby dieses allabendlich wiederkehrende Wunder sehen. Und Bobbys Freude über die neue Eisbahn währt nur kurz...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20220218T140958_BRANDED.png" />
+    <rating>
+      <value>6</value>
+    </rating>
   </programme><programme channel="DE3800005AU" start="20261127100950 +0000" stop="20261127114826 +0000"><title>Ms. Scrooge</title>
     <sub-title>Ein wundervoller Engel</sub-title>
     <desc>Ebenita Scrooge ist eine erfolgreiche, aber eiskalte Bankerin, die Weihnachten für überbewertet hält und lieber Zinsen als Zuneigung sammelt. Ihre Vergangenheit ist geprägt von Verlust, Armut und Enttäuschung – Liebe hat sie längst abgeschrieben. Doch am Weihnachtsabend erscheint ihr der Geist ihrer verstorbenen Mentorin Maude Marley, gefolgt von drei weiteren Geistern, die Ebenita auf eine magische Reise durch Zeit und Herz mitnehmen. Sie erlebt ihre Kindheit voller Hoffnung, ihre Jugend voller Schmerz und ihre Gegenwart voller Einsamkeit. In der Zukunft sieht sie ihr Leben enden – reich, aber vergessen. Doch inmitten der Geistervisionen blitzt ein Licht auf: Reverend Luke, ihr warmherziger Neffe, erinnert sie daran, was Familie und Mitgefühl bedeuten. Und vielleicht, ganz vielleicht, ist da auch noch Platz für Liebe. Am Weihnachtsmorgen erwacht Ebenita verwandelt. Mit offenem Herzen und einem neuen Blick auf das Leben beginnt sie, Brücken zu bauen – zu ihrer Familie, zu ihren Angestellten und zu sich selbst. Denn manchmal braucht es einen Engel, um zu erkennen, dass das größte Geschenk nicht Geld, sondern Liebe ist.</desc>
@@ -200,11 +202,11 @@
     <rating>
       <value>12</value>
     </rating>
-  </programme><programme channel="DEBD5000001VL" start="20261127093514 +0000" stop="20261127110314 +0000"><title>Stan Lee`s Panda vs Aliens</title>
-    <desc>Ein außerirdischer Tyrann hält eine TV-Superheldenserie für echt und reist auf der Suche nach dem fiktiven, mächtigen Medaillon des Superhelden zur Erde.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_1064057299_0_20250718T055654924Z_53_imageprocessorclient-tvplus-linear-5db7c6bc99-mwszk.jpeg" />
+  </programme><programme channel="DE3800005AU" start="20261127165646 +0000" stop="20261127184016 +0000"><title>Ärger mit dem Weihnachtsmann</title>
+    <desc>Durch eine kosmische Verwechslung wird ein schichtloser, aber gutherziger Mann versehentlich als der neue Weihnachtsmann markiert, nachdem der alte Weihnachtsmann gestorben ist. Der ruppige, schnörkellose Manager des Nordpols ist mit der Auswahl ausgesprochen unzufrieden</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_2254540882_0_20261004T215926231Z_71_imageprocessorclient-tvplus-linear-b5879c6c6-zdvq4.jpeg" />
     <rating>
-      <value>6</value>
+      <value>12</value>
     </rating>
   </programme><programme channel="DEBD5000001VL" start="20261127110314 +0000" stop="20261127124121 +0000"><title>Meet You in Scotland</title>
     <desc>Eine aufstrebende Schriftstellerin wird nach Schottland geschickt, um einen prestigeträchtigen Literaturpreis für ihren berühmten Chef abzuholen, und wird schnell von einem schneidigen schottischen Dichter mit jemand anderem verwechselt. Jetzt, in der Schönheit der Highlands, muss sie entscheiden, ob es die Wahrheit wert ist, den Mann ihrer Träume zu verlieren.</desc>
@@ -225,10 +227,6 @@
     <sub-title>Ein Bestseller zum Verlieben</sub-title>
     <desc>Als eine seltsame Gruppe unveröffentlichter Autoren Hannah in ihren Kreis aufnimmt, erwarten sie nicht, dass diese über Nacht es zum großen Erfolg schafft. Können die liebenswerten Schreiber ihre künstlerischen Träume verwirklichen und vermeiden, dass sie sich dabei in die Quere kommen?</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_2069399976_0_20260802T071408773Z_1_imageprocessorclient-tvplus-linear-648598f6b5-ds6rb.jpeg" />
-  </programme><programme channel="DEBA3300034HH" start="20261127083555 +0000" stop="20261127103744 +0000"><title>Rémi</title>
-    <sub-title>Sein größtes Abenteuer</sub-title>
-    <desc>Nachdem Rémi von seinem Adoptivvater verkauft wird, zieht er mit dem Gaukler Vitalis und dessen tierischen Begleitern durch Frankreich. Auf ihrer abenteuerlichen Reise erlebt der Waisenjunge Freundschaft, Schicksalsschläge und kommt schließlich seiner wahren Herkunft näher.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20260303T110223_BRANDED.png" />
   </programme><programme channel="DEBA3300034HH" start="20261127103744 +0000" stop="20261127122042 +0000"><title>Silberglöckchen</title>
     <desc>Sportmoderator Bruce Dalton, ein rücksichtsloser Wettkampftyp, muss nach einem Zwischenfall bei der Heilsarmee Sozialstunden ableisten. Doch als er auch das Spendensammeln zum Wettbewerb macht, erteilt ihm Major Lowell eine Lektion, die sein Leben – und sein Weihnachtsverständnis – für immer verändert.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20260303T110223_BRANDED.png" />
@@ -257,12 +255,9 @@
   </programme><programme channel="DEBA3300032UV" start="20261127150513 +0000" stop="20261127164546 +0000"><title>Babyantrag, Der</title>
     <desc>Layla und Derek sind Co-Moderatoren von Wake Up Chicago und müssen sich nun unerwartet um ein Baby kümmern. Ihre Chemie wächst.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_2032847617_0_20260720T154634918Z_1_imageprocessorclient-tvplus-linear-648598f6b5-h2mmj.jpeg" />
-  </programme><programme channel="DE30000067I" start="20261127092643 +0000" stop="20261127105656 +0000"><title>Die Libelle und das Nashorn</title>
-    <desc>Bei einer Lesung begegnen sich Ada Hänselmann und die Schauspieler-Legende Nino Winter. Ada stellt ihr Romandebüt vor, doch die Gäste interessieren sich nur für Ninos Autobiografie. Ada ist genervt, erst recht, als sie Nino am Flughafen absetzen soll.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_2229182983_0_20260926T043900677Z_123_imageprocessorclient-tvplus-linear-b5879c6c6-bx44l.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
+  </programme><programme channel="DEBA3300032UV" start="20261127164546 +0000" stop="20261127183041 +0000"><title>Eine Weinbergromanze</title>
+    <desc>Samantha schreibt über Hochzeiten in Hawthorne Vineyards, wo ihr Ex bald heiraten wird.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_2096343747_0_20260811T164936267Z_112_imageprocessorclient-tvplus-linear-648598f6b5-c4rjc.jpeg" />
   </programme><programme channel="DE30000067I" start="20261127105656 +0000" stop="20261127123600 +0000"><title>Zeit der Kannibalen</title>
     <desc>Öllers und Niederländer haben alles im Griff. Seit sechs Jahren touren die erfolgreichen Unternehmensberater durch die dreckigsten Länder der Welt, um den Profithunger ihrer Kunden zu stillen. Ihr Ziel scheint nah: endlich in den Firmenolymp aufsteigen, endlich Partner werden!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_2327650188_0_20261029T062357745Z_97_imageprocessorclient-tvplus-linear-b5879c6c6-pm2wd.jpeg" />
@@ -281,10 +276,9 @@
     <rating>
       <value>16</value>
     </rating>
-  </programme><programme channel="DE26000096S" start="20261127085500 +0000" stop="20261127104522 +0000"><title>Radioflash</title>
-    <sub-title>Welt am Abgrund</sub-title>
-    <desc>Als ein nuklearer Sprengsatz einen elektromagnetischen Impuls verursacht, der mehr als 200 Millionen Menschen den Strom abbricht, muss ein Mädchen im Teenageralter helfen, ihre Familie zum Überleben in einer dunklen neuen Welt zu führen.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_2060528800_0_20260730T041000748Z_21_imageprocessorclient-tvplus-linear-648598f6b5-4x4gb.jpeg" />
+  </programme><programme channel="DE30000067I" start="20261127164456 +0000" stop="20261127181253 +0000"><title>Familienfieber</title>
+    <desc>Zu viel Routine - zu wenig Liebe? Alina und Nico sind jung, frisch verliebt und fest entschlossen, dass ihre Eltern sich kennenlernen sollten. Also wird kurzerhand ein Familientreffen in Brandenburg organisiert und die fröhliche Familienzusammenführung kann beginnen.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_504280410_0_20240907T053331228Z_44_imageprocessorclient-tvplus-linear-7cd5d896cc-bwxh8.jpeg" />
     <rating>
       <value>16</value>
     </rating>
@@ -306,9 +300,9 @@
     <rating>
       <value>16</value>
     </rating>
-  </programme><programme channel="DE2600005XA" start="20261127084001 +0000" stop="20261127101614 +0000"><title>America is Sinking</title>
-    <desc>Schmelzende Gletscher in der Arktis bringen eine verheerende Kettenreaktion in Gang. Durch den steigenden Meeresspiegel kommt es zu gewaltigen Überflutungen, Erdrutschen und Tsunamis!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_1650367960_0_20260224T043154132Z_40_imageprocessorclient-tvplus-linear-85d7d49859-xxwwz.jpeg" />
+  </programme><programme channel="DE26000096S" start="20261127164749 +0000" stop="20261127185917 +0000"><title>Das Streben nach Glück</title>
+    <desc>San Francisco, 1981. Chris Gardner kann mit seinem Job als Vertreter seine Frau Linda und ihren 5-jährigen Sohn Christopher kaum über Wasser halten. Als Linda die finanzielle Last nicht mehr erträgt und Ehemann und Sohn verlässt, nimmt das Unheil seinen Lauf...</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_1965983906_0_20260627T030714467Z_54_imageprocessorclient-tvplus-linear-66fc4d58c8-xkrsg.jpeg" />
     <rating>
       <value>16</value>
     </rating>
@@ -337,13 +331,6 @@
     <rating>
       <value>16</value>
     </rating>
-  </programme><programme channel="DEAJ0500419A" start="20261127090047 +0000" stop="20261127103651 +0000"><title>Wish for Christmas</title>
-    <sub-title>Glaube an Weihnachten</sub-title>
-    <desc>Weil sie mit ihren Eltern zur Kirche gehen muss, verpasst Anna MacLaren (Anna Fricks) ihren geliebten Winterball an der High-School. Aus Wut stößt sie den Wunsch Richtung Himmel, ihre Eltern mögen den christlichen Glauben verlieren. Und tatsächlich geht dieser Wunsch in Erfüllung: Alle spielen verrückt, mit schlimmen Konsequenzen für die ganze Familie. Damit diese wieder zurück zu ihrem Glauben gelangen kann, muss Anna nun eine Reihe Weihnachtsabenteuer bestehen, die ihr eigenes Herz verändern und auch das ihrer lieben Mitmenschen.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2361247640_1_20261109T192830433Z_98_imageprocessorclient-tvplus-linear-b5879c6c6-r8qlx.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
   </programme><programme channel="DEAJ0500419A" start="20261127103651 +0000" stop="20261127123007 +0000"><title>Der Fall Jesus</title>
     <desc>Im Leben des Gerichtsreporters Lee Strobel (Mike Vogel) dreht sich alles um Fakten und Beweise. Als seine Frau Leslie (Erika Christensen) zum Glauben an Jesus Christus findet, hat der Journalist nur ein Ziel: den christlichen Glauben systematisch zu widerlegen. Dazu begibt er sich auf die Suche nach Fakten. Wie verlässlich ist das Neue Testament? Gibt es außerhalb der Bibel Beweise für die Existenz Jesu? Ist die Auferstehung ein historisches Ereignis? Der Journalist nimmt ausgewiesene Experten ins Kreuzverhör und kommt schließlich mit Dr. Roberta Waters (Faye Dunaway) und Walt Strobel (Robert Forster) zu einem für ihn unerwarteten und lebensverändernden Ergebnis...</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2329363865_2_20261029T172056106Z_102_imageprocessorclient-tvplus-linear-b5879c6c6-sgst8.jpeg" />
@@ -363,7 +350,7 @@
       <value>12</value>
     </rating>
   </programme><programme channel="DEAJ0500419A" start="20261127160431 +0000" stop="20261127173856 +0000"><title>Vineta</title>
-    <desc>Mit atmosphärischen Bildern und subtil aufgebauter Spannung verbindet „Vineta“ (2006) Drama, Mystery und Thriller zu einer vielschichtigen Geschichte über Kontrolle, Verantwortung und die Suche nach Wahrheit. Regisseurin Franziska Stünkel erzählt von den Gefahren einer scheinbar perfekten Welt und von einem Mann, der lernen muss, hinter Fassaden zu blicken. Zwischen persönlicher Selbstfindung und geheimnisvollen Enthüllungen entwickelt sich ein fesselndes Psychodrama, in dem nichts so ist, wie es zunächst scheint.Der renommierte Architekt Sebastian Färber lebt für seine Arbeit. Als überzeugter Perfektionist ist er ständig auf der Suche nach neuen Herausforderungen und nimmt deshalb die Einladung auf die abgelegene Ostseeinsel Vineta an. Dort soll er an einem außergewöhnlichen Zukunftsprojekt mitwirken: dem Entwurf einer hochmodernen, scheinbar perfekten Siedlung, die ihren Bewohnern maximale Sicherheit und Schutz bieten soll. Doch schon bald beschleichen ihn Zweifel, ob hinter den ehrgeizigen Plänen nicht mehr steckt als ein visionäres Bauvorhaben.Während Sebastian sich immer tiefer in die Arbeit vertieft, begegnet er den wenigen Menschen auf der Insel und spürt eine wachsende Atmosphäre aus Misstrauen und Geheimnissen. Das streng kontrollierte Konzept der geplanten Gemeinschaft erinnert ihn zunehmend an eine Welt, in der Freiheit und Individualität keinen Platz mehr haben. Als sich rätselhafte Ereignisse häufen und tragische Vorfälle die Insel erschüttern, beginnt er Nachforschungen anzustellen. Schritt für Schritt entdeckt er Hinweise, die das gesamte Projekt in einem anderen Licht erscheinen lassen.</desc>
+    <desc>Mit atmosphärischen Bildern und subtil aufgebauter Spannung verbindet „Vineta“ (2006) Drama, Mystery und Thriller zu einer vielschichtigen Geschichte über Kontrolle, Verantwortung und die Suche nach Wahrheit. Regisseurin Franziska Stünkel erzählt von den Gefahren einer scheinbar perfekten Welt und von einem Mann, der lernen muss, hinter Fassaden zu blicken. Zwischen persönlicher Selbstfindung und geheimnisvollen Enthüllungen entwickelt sich ein fesselndes Psychodrama, in dem nichts so ist, wie es zunächst scheint.Während Sebastian sich immer tiefer in die Arbeit vertieft, begegnet er den wenigen Menschen auf der Insel und spürt eine wachsende Atmosphäre aus Misstrauen und Geheimnissen. Das streng kontrollierte Konzept der geplanten Gemeinschaft erinnert ihn zunehmend an eine Welt, in der Freiheit und Individualität keinen Platz mehr haben. Als sich rätselhafte Ereignisse häufen und tragische Vorfälle die Insel erschüttern, beginnt er Nachforschungen anzustellen. Schritt für Schritt entdeckt er Hinweise, die das gesamte Projekt in einem anderen Licht erscheinen lassen.Der renommierte Architekt Sebastian Färber lebt für seine Arbeit. Als überzeugter Perfektionist ist er ständig auf der Suche nach neuen Herausforderungen und nimmt deshalb die Einladung auf die abgelegene Ostseeinsel Vineta an. Dort soll er an einem außergewöhnlichen Zukunftsprojekt mitwirken: dem Entwurf einer hochmodernen, scheinbar perfekten Siedlung, die ihren Bewohnern maximale Sicherheit und Schutz bieten soll. Doch schon bald beschleichen ihn Zweifel, ob hinter den ehrgeizigen Plänen nicht mehr steckt als ein visionäres Bauvorhaben.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2369880635_0_20261113T012055721Z_75_imageprocessorclient-tvplus-linear-b5879c6c6-g2vqg.jpeg" />
     <rating>
       <value>12</value>
@@ -392,12 +379,11 @@
     <rating>
       <value>6</value>
     </rating>
-  </programme><programme channel="DE4000002I3" start="20261127084735 +0000" stop="20261127103819 +0000"><title>Sands of Oblivion</title>
-    <sub-title>Das verfluchte Grab</sub-title>
-    <desc>Drei ungleiche Verbündete versuchen, das Geheimnis eines verlorenen altägyptischen Replikatsets zu lüften, das dunkle Geheimnisse und verborgene Schätze enthüllt.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4000002I3_20241126T145242_BRANDED.png" />
+  </programme><programme channel="DE3900004ZH" start="20261127163931 +0000" stop="20261127183204 +0000"><title>Yer Gök Aşk</title>
+    <desc>Havva wartet in der Villa auf Yusufs Antwort, aber seine Antwort erschüttert sie.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_2400683897_0_20261124T163736377Z_92_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.jpeg" />
     <rating>
-      <value>12</value>
+      <value>6</value>
     </rating>
   </programme><programme channel="DE4000002I3" start="20261127103819 +0000" stop="20261127122401 +0000"><title>Hexen – Die letzte Schlacht der Templer</title>
     <desc>Als er vom Tod seines Vaters erfährt, kehrt der adlige Prinz Malachy nach Draeganoth zurück, um einen Hexenzirkel unter der Führung der mächtigen Roten Königin zu besiegen, der im ganzen Königreich Zerstörung anrichtet.</desc>
@@ -424,13 +410,6 @@
     <rating>
       <value>12</value>
     </rating>
-  </programme><programme channel="DE16000042J" start="20261127090702 +0000" stop="20261127104130 +0000"><title>Mr. Right</title>
-    <sub-title>Liebe zwischen den Zeilen</sub-title>
-    <desc>Charlotte hat gerade angefangen, für die angesagteste Romantik-Website zu arbeiten und schreibt ihren wöchentlichen Dating-Artikel. Außerdem freundet sie sich mit Liam, einem Kaffeebarista, an, der ihr die besten Plätze der Stadt zeigt. Aber jede Woche einen neuen Typen zu daten, über den sie schreiben soll, macht sie völlig fertig. Und als Liam Gefühle für sie entwickelt, muss Charlotte entscheiden, ob ihre Arbeit wichtiger ist als ihre Chance auf Liebe.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2353288805_1_20261106T184559168Z_51_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.jpeg" />
-    <rating>
-      <value>6</value>
-    </rating>
   </programme><programme channel="DE16000042J" start="20261127104130 +0000" stop="20261127120321 +0000"><title>A Summer to Remember</title>
     <desc>Die erfolgreiche Ärztin und Witwe Jessica Tucker (Catherine Bell) liebt ihren Job, doch ist sie durch die vielen Stunden Arbeit absolut urlaubsreif. Also packt Jessica ihre Koffer und nimmt ihre Tochter Ava (Samantha MacGillivray) mit auf die Reise in das Südseeparadies Fidschi. Es soll eine Zeit des Abschaltens und der Entspannung werden. Außerdem möchte sie die Beziehung zu Ava vertiefen. Doch als Workaholic kann Jessica nur schwer die Gedanken ans Krankenhaus loslassen. Erst der charmante Resortbesitzer Will (Cameron Mathison) schafft es, ihre Aufmerksamkeit auf die wunderschöne Umgebung zu lenken...</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2267323277_0_20261009T023052812Z_97_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.jpeg" />
@@ -450,27 +429,33 @@
     <rating>
       <value>12</value>
     </rating>
-  </programme><programme channel="DE16000042J" start="20261127151437 +0000" stop="20261127164029 +0000"><title>Schokolade und Liebe</title>
+  </programme><programme channel="DE16000042J" start="20261127151437 +0000" stop="20261127164030 +0000"><title>Schokolade und Liebe</title>
     <desc>Während sie sich auf das jährliche Masters of Chocolate Festival vorbereitet, werden Arias Pläne durcheinandergebracht, als sie kurz vor dem Wettbewerb ihren Partner verliert. Doch schon bald springt ein schneidiger, alleinerziehender Vater ein, um Aria bei der Suche nach der erfolgreichen Zutat zu helfen.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2326341020_0_20261028T181625997Z_120_imageprocessorclient-tvplus-linear-b5879c6c6-sgst8.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
+  </programme><programme channel="DE16000042J" start="20261127164030 +0000" stop="20261127180944 +0000"><title>Ein Hauch von Weihnachten</title>
+    <desc>Libby eröffnet pünktlich zur Weihnachtszeit ihre Bäckerei. In ihrer Nervosität gerät sie in einen hitzigen Online-Streit mit Peter, einem Star-Schauspieler. Dieser hatte anonym die Bäckerei vernichtend kritisiert. Dummerweise liefert Libby nun Kuchen und Süßigkeiten für die große Verlobungsfeier von Peters Bruder. Es funkt zwischen den beiden, doch keiner merkt, dass sie sich bereits „kennen“.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2268557676_20_20261009T114325432Z_82_imageprocessorclient-tvplus-linear-b5879c6c6-z59l8.jpeg" />
+    <rating>
+      <value>6</value>
+    </rating>
   </programme><programme channel="DEBA15000130L" start="20261127095948 +0000" stop="20261127113103 +0000"><title>New York Christmas</title>
     <sub-title>Weihnachtswunder gibt es doch</sub-title>
-    <desc>James (Jon Heder) ist zusammen mit Randy (Max Casella) eingeschlossen – dem Personalmanager, der ihn vor wenigen Minuten gefeuert hat. Immobilien-Hai Harris (Patrick Stewart) hat gerade die Baustelle seines aktuellen Architekturprojekts verlassen, als sein Baustellenlift den Geist aufgibt und den herzlosen Tycoon in schwindelerregender Höhe allein zurücklässt. Die Musikerin Dawn (Cheryl Hines) wiederum bleibt zusammen mit ihrem ganzen dysfunktionalen Orchester stecken - was bleibt ihnen also anderes übrig, als sich die Wartezeit mit Musik zu vertreiben? Der aufstrebende Modefotograf „B.“ (James Roday) findet sich in einer Kabine mit seiner verschlossenen Nachbarin, der Anwältin Ann (Julianna Guill), wieder. Und außerdem ist da noch der zynische Arzt Dr. Roberts (Gary Cole), der mit seinem Team gerade dabei war, eine todkranke Patientin per Fahrstuhl zu einer wichtigen OP zu bringen.Ausgerechnet an Weihnachten: Ein Stromausfall sorgt dafür, dass 20 Menschen verteilt auf sechs Aufzüge in unterschiedlichen Gebäuden in New York City stecken bleiben und dadurch eine unvergessliche Weihnachtsnacht erleben.Im Laufe des Abends durchleben die durch das Schicksal zusammengewürfelten New Yorker lustige und traurige, bewegende und alles verändernde Momente miteinander.</desc>
+    <desc>James (Jon Heder) ist zusammen mit Randy (Max Casella) eingeschlossen – dem Personalmanager, der ihn vor wenigen Minuten gefeuert hat. Immobilien-Hai Harris (Patrick Stewart) hat gerade die Baustelle seines aktuellen Architekturprojekts verlassen, als sein Baustellenlift den Geist aufgibt und den herzlosen Tycoon in schwindelerregender Höhe allein zurücklässt. Die Musikerin Dawn (Cheryl Hines) wiederum bleibt zusammen mit ihrem ganzen dysfunktionalen Orchester stecken - was bleibt ihnen also anderes übrig, als sich die Wartezeit mit Musik zu vertreiben? Der aufstrebende Modefotograf „B.“ (James Roday) findet sich in einer Kabine mit seiner verschlossenen Nachbarin, der Anwältin Ann (Julianna Guill), wieder. Und außerdem ist da noch der zynische Arzt Dr. Roberts (Gary Cole), der mit seinem Team gerade dabei war, eine todkranke Patientin per Fahrstuhl zu einer wichtigen OP zu bringen.Im Laufe des Abends durchleben die durch das Schicksal zusammengewürfelten New Yorker lustige und traurige, bewegende und alles verändernde Momente miteinander.Ausgerechnet an Weihnachten: Ein Stromausfall sorgt dafür, dass 20 Menschen verteilt auf sechs Aufzüge in unterschiedlichen Gebäuden in New York City stecken bleiben und dadurch eine unvergessliche Weihnachtsnacht erleben.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2341661487_4_20261102T174744807Z_129_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.jpeg" />
     <rating>
       <value>6</value>
     </rating>
   </programme><programme channel="DEBA15000130L" start="20261127113103 +0000" stop="20261127130113 +0000"><title>Alles was du dir zu Weihnachten wünschst</title>
-    <desc>Eine warmherzige Weihnachtsgeschichte über Hoffnung, Gemeinschaft und die Kraft, an Wunder zu glauben.In Forest City ist Weihnachten mehr als nur ein Fest. Die ganze Stadt lebt für die besinnliche Jahreszeit und für die traditionsreiche Firma Aikens Decorations, deren festlicher Schmuck im ganzen Land bekannt ist. Doch als Gerüchte über eine drohende Schließung des Unternehmens die Runde machen, gerät die Zukunft der Gemeinde in Gefahr.Für die talentierte Buchhalterin Noelle Dunwoody kommt diese Entwicklung zur Unzeit. Sie träumt von einer Karriere in New York, möchte aber zugleich ihre Heimat und die Menschen, die ihr am Herzen liegen, nicht verlieren. Als ein geheimnisvoller Fremder in der Stadt auftaucht, verändern sich die Ereignisse auf unerwartete Weise. Gemeinsam kämpfen die Bewohner von Forest City um ihre Zukunft und entdecken dabei, worauf es an Weihnachten wirklich ankommt.</desc>
+    <desc>Eine warmherzige Weihnachtsgeschichte über Hoffnung, Gemeinschaft und die Kraft, an Wunder zu glauben.Für die talentierte Buchhalterin Noelle Dunwoody kommt diese Entwicklung zur Unzeit. Sie träumt von einer Karriere in New York, möchte aber zugleich ihre Heimat und die Menschen, die ihr am Herzen liegen, nicht verlieren. Als ein geheimnisvoller Fremder in der Stadt auftaucht, verändern sich die Ereignisse auf unerwartete Weise. Gemeinsam kämpfen die Bewohner von Forest City um ihre Zukunft und entdecken dabei, worauf es an Weihnachten wirklich ankommt.In Forest City ist Weihnachten mehr als nur ein Fest. Die ganze Stadt lebt für die besinnliche Jahreszeit und für die traditionsreiche Firma Aikens Decorations, deren festlicher Schmuck im ganzen Land bekannt ist. Doch als Gerüchte über eine drohende Schließung des Unternehmens die Runde machen, gerät die Zukunft der Gemeinde in Gefahr.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2358851871_0_20261108T214846505Z_80_imageprocessorclient-tvplus-linear-b5879c6c6-pcrmw.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
   </programme><programme channel="DEBA15000130L" start="20261127130113 +0000" stop="20261127143201 +0000"><title>Wie verführ' ich meinen Ehemann</title>
-    <desc>Marie Henning scheint auf den ersten Blick alles zu haben, was man sich wünschen kann: einen treuen Ehemann, zwei fast erwachsene Kinder und ein geordnetes Familienleben. Ihr Mann Paul ist zuverlässig und liebevoll, die Zwillinge Jamie und Jonas stehen kurz vor dem Erwachsenwerden. Doch hinter der Fassade des vermeintlichen Familienglücks wächst Maries Unzufriedenheit. Während sie den Alltag organisiert und sich um alle kümmert, haben sich ihre Familie und besonders ihr Mann längst an ihre Fürsorge gewöhnt. Wertschätzung und Leidenschaft scheinen auf der Strecke geblieben zu sein.Entschlossen beschließt Marie, ihr Leben nicht länger als selbstverständlich hinzunehmen. Sie will herausfinden, ob in ihrer Ehe noch das Feuer von früher steckt und wie sie die Aufmerksamkeit ihres Mannes zurückgewinnen kann. Dabei gerät sie in eine Reihe turbulenter Situationen, die ihr bisheriges Selbstbild gehörig ins Wanken bringen. Zwischen charmanten Bekanntschaften, unerwarteten Versuchungen und komischen Missverständnissen erkennt Marie, dass sie zunächst sich selbst neu entdecken muss, bevor sie ihre Beziehung verändern kann.Mit viel Humor, Romantik und einem liebevollen Blick auf die Herausforderungen des Familienalltags erzählt „Wie verführ' ich meinen Ehemann“ (2007) von den kleinen und großen Krisen einer langjährigen Ehe. Regisseurin Karola Hattop verbindet charmante Situationskomik mit einer warmherzigen Botschaft über Selbstwert, Partnerschaft und die Bedeutung gegenseitiger Wertschätzung. So entsteht eine unterhaltsame romantische Komödie, die zeigt, dass Liebe manchmal neue Impulse braucht, um wieder aufzublühen.</desc>
+    <desc>Marie Henning scheint auf den ersten Blick alles zu haben, was man sich wünschen kann: einen treuen Ehemann, zwei fast erwachsene Kinder und ein geordnetes Familienleben. Ihr Mann Paul ist zuverlässig und liebevoll, die Zwillinge Jamie und Jonas stehen kurz vor dem Erwachsenwerden. Doch hinter der Fassade des vermeintlichen Familienglücks wächst Maries Unzufriedenheit. Während sie den Alltag organisiert und sich um alle kümmert, haben sich ihre Familie und besonders ihr Mann längst an ihre Fürsorge gewöhnt. Wertschätzung und Leidenschaft scheinen auf der Strecke geblieben zu sein.Mit viel Humor, Romantik und einem liebevollen Blick auf die Herausforderungen des Familienalltags erzählt „Wie verführ' ich meinen Ehemann“ (2007) von den kleinen und großen Krisen einer langjährigen Ehe. Regisseurin Karola Hattop verbindet charmante Situationskomik mit einer warmherzigen Botschaft über Selbstwert, Partnerschaft und die Bedeutung gegenseitiger Wertschätzung. So entsteht eine unterhaltsame romantische Komödie, die zeigt, dass Liebe manchmal neue Impulse braucht, um wieder aufzublühen.Entschlossen beschließt Marie, ihr Leben nicht länger als selbstverständlich hinzunehmen. Sie will herausfinden, ob in ihrer Ehe noch das Feuer von früher steckt und wie sie die Aufmerksamkeit ihres Mannes zurückgewinnen kann. Dabei gerät sie in eine Reihe turbulenter Situationen, die ihr bisheriges Selbstbild gehörig ins Wanken bringen. Zwischen charmanten Bekanntschaften, unerwarteten Versuchungen und komischen Missverständnissen erkennt Marie, dass sie zunächst sich selbst neu entdecken muss, bevor sie ihre Beziehung verändern kann.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2341666266_10_20261102T174744881Z_50_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.jpeg" />
     <rating>
       <value>12</value>
@@ -487,12 +472,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000130L_20220218T121510_BRANDED.png" />
     <rating>
       <value>NA</value>
-    </rating>
-  </programme><programme channel="DE43000043H" start="20261127091024 +0000" stop="20261127105357 +0000"><title>Liebe auf Reisen</title>
-    <desc>Die Moderatorin der Restaurant-Renovierungsshow Abby erhält einen neuen Auftrag: Sie soll ein kleines Diner in einer Kleinstadt zu einem kulinarischen Hotspot machen. Während Abby und Tom, der Besitzer des Diners, Zeit miteinander verbringen, entdeckt Abby etwas, das sie vielleicht als Liebe bezeichnen könnte.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_1301005788_0_20251103T202828065Z_73_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg" />
-    <rating>
-      <value>6</value>
     </rating>
   </programme><programme channel="DE43000043H" start="20261127105357 +0000" stop="20261127125748 +0000"><title>Ein Wunder Am Weihnachtssee</title>
     <desc>Nach dem Verlust seines besten Freundes an Heiligabend macht Bobby auf dem See eine Entdeckung und kämpft, um das Land zu retten.</desc>
@@ -512,11 +491,11 @@
     <rating>
       <value>6</value>
     </rating>
-  </programme><programme channel="DE2600007ET" start="20261127082634 +0000" stop="20261127102835 +0000"><title>Das Ultimative Leben</title>
-    <desc>Die bewegende Fortsetzung des Bestsellers "Das Ultimative Geschenk" - Als Jason Stevens (Logan Bartholomew) davon erfuhr, dass er zwölf Lektionen lernen sollte, um vielleicht ein nicht näher genanntes Erbe von seinem steinreichen Großvater zu erhalten, war er nur wenig begeistert.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_750268310_0_20250327T024829841Z_42_imageprocessorclient-tvplus-linear-6fb5b47f79-m7gkj.jpeg" />
+  </programme><programme channel="DE43000043H" start="20261127162401 +0000" stop="20261127180920 +0000"><title>Weihnachtszauber auf Bestellung</title>
+    <desc>Allie, eine arbeitslose Kunstlehrerin, muss einen Job bei der Weihnachtsmann-Truppe annehmen, um einem reichen Witwer und seinen zwei kostbaren Töchtern zu helfen, den Zauber von Weihnachten wiederzufinden. Während Allie die Feiertagsstimmung der Familie mit Dekorationen, Plätzchen und Einkäufen hebt, wird ihre Freundlichkeit mit dem unerwartetsten Geschenk belohnt: Liebe!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_1347954003_0_20251117T212449643Z_82_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
     <rating>
-      <value>16</value>
+      <value>6</value>
     </rating>
   </programme><programme channel="DE2600007ET" start="20261127102835 +0000" stop="20261127140053 +0000"><title>Der Bibelcode</title>
     <desc>Der Bibelforscher Bachmann wird vor den Augen seiner Tochter Johanna (Cosma Shiva Hagen) ermordet. Zusammen mit dessen Assistent Simon, einem französischen Religionswissenschaftler, macht sich Johanna auf die Suche nach dem Mörder ihres Vaters. Dabei stoßen sie auf die Spur.</desc>
@@ -527,6 +506,12 @@
   </programme><programme channel="DE2600007ET" start="20261127140053 +0000" stop="20261127162733 +0000"><title>Die fetten Jahre sind vorbei</title>
     <desc>Gegen die ungerechte Verteilung in der Welt haben die Freunde Jan (Daniel Brühl) und Peter (Stipe Erceg) ihren eigenen Weg gefunden: Nachts brechen sie in Villen ein, nicht um zu klauen, sondern um das Mobiliar auf den Kopf zu stellen und Botschaften zu hinterlassen.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_1185257457_0_20250911T023601331Z_124_imageprocessorclient-tvplus-linear-5db7c6bc99-lcsnd.jpeg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme><programme channel="DE2600007ET" start="20261127162733 +0000" stop="20261127183708 +0000"><title>The Champ</title>
+    <desc>Erik Kernan will nie mehr 3. Sportreporter der Denver Times sein, will endlich in der Oberliga der Journalisten spielen. Seine Chance ist da, als er auf einen heruntergekommenen Penner trifft.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_1775670617_0_20260414T051811133Z_1_imageprocessorclient-tvplus-linear-74d4c47476-v2729.jpeg" />
     <rating>
       <value>16</value>
     </rating>
@@ -560,6 +545,14 @@
     <rating>
       <value>6</value>
     </rating>
+  </programme><programme channel="DEBC35000020P" start="20261127164322 +0000" stop="20261127165749 +0000"><title>Mato der Indianer</title>
+    <sub-title>Episode 20</sub-title>
+    <desc />
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_485209547_0_20231012T153449151Z_75.png" />
+  </programme><programme channel="DEBC35000020P" start="20261127165749 +0000" stop="20261127171230 +0000"><title>Mato der Indianer</title>
+    <sub-title>Episode 21</sub-title>
+    <desc />
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_485209547_0_20231012T153449151Z_75.png" />
   </programme><programme channel="DE300002CL" start="20261127093519 +0000" stop="20261127112043 +0000"><title>Stealing Harvard</title>
     <desc>Harvard ist eine Universität, die sich manche Familien - wie die von John (Jason Lee) - niemals leisten könnten. Doch dann tut sich für Johns Nichte die Chance ihres Lebens auf und alles was ihr dazu fehlt, ist das Schulgeld, dass er ihr versprochen hatte, sollte sie es in ein gutes College schaffen… aber das Geld hat er nicht. John bittet seinen ahnungslosen Freund Duff (Tom Green) um Hilfe, und die zwei schaffen es, trotz guter Vorsätze immer genau das Falsche zu tun.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_1778780092_0_20260415T082727750Z_61_imageprocessorclient-tvplus-linear-74d4c47476-4vvfw.jpeg" />
@@ -583,18 +576,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_1255936395_2_20251014T033004963Z_125_imageprocessorclient-tvplus-linear-5db7c6bc99-xrkqv.jpeg" />
     <rating>
       <value>3</value>
-    </rating>
-  </programme><programme channel="DE1200001JW" start="20261127100805 +0000" stop="20261127103213 +0000"><title>Hot in Cleveland – Das Geheimnis hinter der Tür</title>
-    <desc>Victoria will ihre alte Serie „Edge of Tomorrow“ wiederbeleben. Sie ruft die alten Schauspieler, Dr. Tess, Lady Natalie, Richter Thorndike und Luis zusammen. Auch die Erfinderin der Serie, Apryl, wird ins Team geholt. Melanie soll das Drehbuch schreiben, Joy ist für die Maske zuständig. Elka übernimmt die Rolle der Lady Natalie. Doch natürlich wird nichts so einfach, wie Victoria gehofft hatte.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_1473472039_0_20251225T093546929Z_1_imageprocessorclient-tvplus-linear-85d7d49859-rnzm5.jpeg" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="DE1200001JW" start="20261127103213 +0000" stop="20261127105632 +0000"><title>Hot in Cleveland – Föhnwellen</title>
-    <desc>Melanie, Joy und Victoria geraten in Streit, da Melanie partout nicht sagen will, bei welchem Friseur sie war. Der Streit eskaliert, bis die drei Grazien beschließen, ihre Wohnsituation grundlegend zu ändern. Jede will für sich eine eigene Wohnung suchen und bei Elka ausziehen.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_1473472039_0_20251225T093546929Z_1_imageprocessorclient-tvplus-linear-85d7d49859-rnzm5.jpeg" />
-    <rating>
-      <value>12</value>
     </rating>
   </programme><programme channel="DE1200001JW" start="20261127105632 +0000" stop="20261127112043 +0000"><title>Hot in Cleveland – Baby Wilbur</title>
     <desc>Joys Sohn Owen bringt sein Baby zu den vier Damen, da er sonst niemanden kennt, der sich um das Kind kümmern könnte. Als Victoria den Kleinen mit zu einem Casting nimmt, ergattert sie eine kleine Rolle in einem Woody Allen-Film. Melanie verliebt sich indes Hals über Kopf in ihren neuen Chef. Können die vier Grazien Owen überreden, gemeinsam mit Wilbur nach Cleveland zu ziehen?</desc>
@@ -635,12 +616,6 @@
   </programme><programme channel="DE1200001JW" start="20261127152839 +0000" stop="20261127172213 +0000"><title>Ein Weihnachtsfest mit Hindernissen</title>
     <desc>Der Weihnachtswunsch einer schüchternen Gymnasiastin wird wahr, nur ist es nicht gerade so wunderbar, wie sie es sich erhofft hatte.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_2341251910_0_20261102T145028346Z_67_imageprocessorclient-tvplus-linear-b5879c6c6-pcrmw.jpeg" />
-  </programme><programme channel="DE2600006H2" start="20261127083121 +0000" stop="20261127101049 +0000"><title>Meet Bill</title>
-    <desc>Nette Jungs haben s schwer. Bill kann ein Lied davon singen. Als Manager in einer Bankfiliale der Eltern seiner Frau Jess ist er Jedermanns Fußabstreifer und muss sich eine Erniedrigung nach der anderen gefallen lassen.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_1493327334_0_20251230T061531495Z_1_imageprocessorclient-tvplus-linear-85d7d49859-779xr.jpeg" />
-    <rating>
-      <value>16</value>
-    </rating>
   </programme><programme channel="DE2600006H2" start="20261127101049 +0000" stop="20261127115052 +0000"><title>Laws of Attraction</title>
     <desc>Die hochkarätigen Scheidungsanwälte Audrey Woods und Daniel Rafferty haben erlebt, wie die Liebe in all ihren Worst-Case-Szenarien schiefging – wie schlecht könnten ihre Chancen also sein?</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_2052205187_0_20260727T055131264Z_1_imageprocessorclient-tvplus-linear-648598f6b5-7vbq8.jpeg" />
@@ -665,12 +640,11 @@
     <rating>
       <value>16</value>
     </rating>
-  </programme><programme channel="DEAK0500449A" start="20261127095516 +0000" stop="20261127104651 +0000"><title>Jack London: Flucht aus dem Goldland</title>
-    <sub-title>EP06 - Die Macht des Geldes</sub-title>
-    <desc>Flucht aus dem Goldland schildert die Abenteuer des Goldsuchers Allan Gordon am Klondike-River, Ende des 19. Jahrhunderts.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2352498563_2_20261106T110205622Z_106_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.jpeg" />
+  </programme><programme channel="DE2600006H2" start="20261127165958 +0000" stop="20261127184601 +0000"><title>Verführung der Sirenen</title>
+    <desc>Der junge Geistliche Anthony Campion hat einen delikaten Auftrag zu erfüllen: Zusammen mit seiner Frau Estella soll er einem sinnfrohen Aktmaler, der mit seiner Frau und drei Nacktmodellen wie im Paradies lebt, seine „unsittlichen“ Bilder ausreden.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY451056A_1808819777_0_20260428T034640573Z_130_imageprocessorclient-tvplus-linear-74d4c47476-9htsd.jpeg" />
     <rating>
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme><programme channel="DEAK0500449A" start="20261127104651 +0000" stop="20261127113232 +0000"><title>Jack London: Flucht aus dem Goldland</title>
     <sub-title>EP07 - Im richtigen Moment</sub-title>
@@ -700,12 +674,6 @@
   </programme><programme channel="DEAK0500449A" start="20261127154909 +0000" stop="20261127173948 +0000"><title>Der Mann, den sie Pferd nannten</title>
     <desc>Im Jahr 1825 wird ein englischer Aristokrat von amerikanischen Ureinwohnern gefangen genommen.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2257808166_1_20261005T232701890Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.jpeg" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="DE2400001DK" start="20261127100312 +0000" stop="20261127110841 +0000"><title>Blaulicht (S04E04): Freizügigkeitsverkehr</title>
-    <desc>Der Sommer im Jahre 1964 hat einige heiße Tage zu bieten. Auch heute zeigt das Thermometer wieder 30° Celsius, und Hauptmann Wernicke (Bruno Carstens) genehmigt gerade den Urlaub für seinen Mitarbeiter Timm (Horst Torka), wobei er darauf hofft, dass in der nächsten Zeit die kleinen und großen Gauner auch ihrem - wenn auch unverdienten - Urlaub absolvieren. Doch die Hoffnung ist trügerisch, denn ein geheimnisvoller Betrüger fordert alsbald die Aufmerksamkeit von Wernicke und Thomas (Alexander Papandiek) - während es sich Timm an einem der Mecklenburger Seen gut gehen lässt... (Text: fernsehenderddr.de)</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2373915560_0_20261114T131918413Z_74_imageprocessorclient-tvplus-linear-b5879c6c6-z59l8.jpeg" />
     <rating>
       <value>12</value>
     </rating>
@@ -742,11 +710,12 @@
     <rating>
       <value>12</value>
     </rating>
-  </programme><programme channel="DEAK0500448A" start="20261127091859 +0000" stop="20261127104440 +0000"><title>Das Geheimnis der Mary Celeste</title>
-    <desc>Es ist der 5. Dezember 1872. Auf hoher See treibt ein scheinbar herrenloses Schiff. An Bord finden die drei Männer, die es abschleppen wollen, niemanden. Was ist geschehen? Wo ist die Besatzung? Und welches unheimliche Geheimnis birgt das völlig intakte Schiff, das von New York nach Genua unterwegs war? Hatte es mit dem mysteriösen Mann zu tun, den Kapitän Benjamin Briggs an Bord geschmuggelt hatte, um ihn für 10.000 Dollar nach Marseille zu bringen? Oder spielte die Krankheit der Kapitänstochter Sophie-Mathilde eine Rolle?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2284310231_2_20261014T180231083Z_36_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.jpeg" />
+  </programme><programme channel="DE2400001DK" start="20261127161851 +0000" stop="20261127171701 +0000"><title>Neues übern Gartenzaun Folge 5</title>
+    <sub-title>Konsequenzen</sub-title>
+    <desc>Als Elfriede von ihrer Kur zurückkehrt, erfährt sie unmittelbar von Florians attraktiver Gesellschaft der letzten Wochen.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2308318118_9_20261022T184401882Z_24_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.jpeg" />
     <rating>
-      <value>12</value>
+      <value>NA</value>
     </rating>
   </programme><programme channel="DEAK0500448A" start="20261127104440 +0000" stop="20261127121155 +0000"><title>Jack London: Ruf der Wildnis</title>
     <desc>Verfilmung des gleichnamigen Romans von Jack London um den Schlittenhund Buck.</desc>
@@ -767,17 +736,17 @@
     <rating>
       <value>12</value>
     </rating>
-  </programme><programme channel="DEAK0500448A" start="20261127144642 +0000" stop="20261127162545 +0000"><title>Das Schwert von Persien</title>
+  </programme><programme channel="DEAK0500448A" start="20261127144642 +0000" stop="20261127162544 +0000"><title>Das Schwert von Persien</title>
     <desc>Zwei Jahrzehnte bevor sie als Alexis Carrington in Dynasty (1981) zu Ruhm und Reichtum gelangte, spielte Dame Joan Collins die Hauptrolle der Esther in dieser melodramatischen biblischen Geschichte. Der Schauplatz ist Persien im vierten Jahrhundert v. Chr., als Esther die Aufmerksamkeit des kürzlich verwitweten Königs Ahasverus auf sich zieht. Der König versucht, den von seinem bösen Minister Haman (Sergio Fantoni) geschürten Hass gegen die Juden zu unterdrücken und zu besiegen. Bevor der König sich mit Esther zusammentun und den schurkischen Haman besiegen kann, gibt es mehrere Zwischenfälle und eine weitere attraktive Frau, die um die Aufmerksamkeit des Königs buhlt.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2267019432_12_20261008T232922972Z_22_imageprocessorclient-tvplus-linear-b5879c6c6-669wl.jpeg" />
     <rating>
       <value>12</value>
     </rating>
-  </programme><programme channel="DE1900001NT" start="20261127091204 +0000" stop="20261127105045 +0000"><title>Santa's Summer House</title>
-    <desc>Als der Van einer kleinen Gruppe Reisender samt Hund irgendwo im amerikanischen Nirgendwo unvermittelt in einer plötzlich auftauchenden Nebelbank den Geist aufgibt, werden sie von den Bewohnern einer herrschaftlichen Villa mit offenen Armen willkommen geheißen. Nana Claus und Pop Claus fordern die Gruppe auf, doch gleich über das Wochenende zu bleiben und eine besinnliche Auszeit zu nehmen. Nicht nur dem jungen Andy kommt dieses freundliche Paar äußerst seltsam vor. - Und sieht der weißhaarige Mr. Claus nicht auch aus wie... der Weihnachtsmann?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_509308753_18_20241024T215151813Z_120_imageprocessorclient-tvplus-linear-7cd5d896cc-qjm7s.jpeg" />
+  </programme><programme channel="DEAK0500448A" start="20261127162544 +0000" stop="20261127192224 +0000"><title>Sherlock Holmes und der Stern von Afrika</title>
+    <desc>Ein Spezialauftrag erreicht Meisterdetektiv Sherlock Holmes der sich eigentlich auf sein Altenteil nach Sussex zurückgezogen hat um Bienen zu züchten. Die Bitte von seiner Majestät König Edward kann er jedoch nicht abschlagen: Der renommierte Ermittler soll einen Diamanten sicher von Südafrika ins Vereinigte Königreich bringen. Bevor Sherlock und sein Freund Dr. Watson die ehrenvolle Aufgab.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2284304886_0_20261014T180231420Z_31_imageprocessorclient-tvplus-linear-b5879c6c6-zphrx.jpeg" />
     <rating>
-      <value>6</value>
+      <value>12</value>
     </rating>
   </programme><programme channel="DE1900001NT" start="20261127105045 +0000" stop="20261127122850 +0000"><title>Bone</title>
     <sub-title>Vier Pfoten retten Weihnachten</sub-title>
@@ -806,9 +775,16 @@
     <rating>
       <value>6</value>
     </rating>
-  </programme><programme channel="DEBD2700001ID" start="20261127085907 +0000" stop="20261127103129 +0000"><title>Das tapfere Schneiderlein (1956)</title>
-    <desc>Grimms Märchen erzählt die Abenteuer eines armen Schneidergesellen, den das Erschlagen von sieben Fliegen auf einen Streich mutig macht. Er zieht in die Welt und kommt nach glücklich überstandenen Gefahren an den Hof des Königs. Die Krieger und Höflinge erschreckt der "Ritter 'Sieben-auf-einen-Streich'". Mit zahlreichen lebensgefährlichen Aufgaben versuchen sie, ihn loszuwerden. Aber das Schneiderlein ist unschlagbar dank seiner List und einigen treuen Helfern. Da flieht der König mit seinem ganzen Hofstaat, und das Volk setzt den Schneider auf den Thron, mitsamt der Magd Traute als Frau.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_513281162_0_20241129T214106760Z_111_imageprocessorclient-tvplus-linear-7cd5d896cc-g6qbr.jpeg" />
+  </programme><programme channel="DE1900001NT" start="20261127162052 +0000" stop="20261127165330 +0000"><title>Der Schlunz</title>
+    <sub-title>S2 E03</sub-title>
+    <desc>Die beiden Raufbolde Knut und Brutus sollen für einen Schulaufsatz eine spannende Geschichte schreiben. Weil ihnen selbst nichts einfällt, zwingen sie Schlunz und Lukas, ihnen die Story zu liefern. Und so finden wir uns in diesem Schlunz-Abenteuer plötzlich im Wilden Westen wieder, wo es eine Serie geheimnisvoller Brandanschläge aufzudecken gilt …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_2154732610_0_20260831T234830021Z_15_imageprocessorclient-tvplus-linear-b5879c6c6-skq5g.jpeg" />
+    <rating>
+      <value>6</value>
+    </rating>
+  </programme><programme channel="DE1900001NT" start="20261127165330 +0000" stop="20261127182652 +0000"><title>Honigkuckuckskinder</title>
+    <desc>Die zwölfjährige Lena und ihre Mutter bekommen vom Sozialamt eine neue Wohnung zugewiesen. Sie werden von nun an im heruntergekommenen „Hotel Paradies“ leben. Dass sie dort mit wohnungslosen, asylsuchenden, armen und illegalisierten Menschen unter einem Dach leben sollen findet die Mutter entsetzlich. Lena aber fühlt sich trotz der widrigen Umstände, die das Hotel dem geldgierigen, rassistischen Betreiber Herrn Schmuck zu verdanken hat, sofort wohl. Sie findet eine tolle beste Freundin, Ajoke, und erkundet ihr neues Zuhause. Als der Mutter ihr teures Besteck und Schmuck geklaut wird, ist sie sich sicher, dass Lenas neue Freundinnen und Freunde dahinter stecken. Ajoke und Lena aber haben längst einen Verdacht, wer in diesem "Hotel" wirklich die Schurken sind. Zusammen mit den anderen Kindern kommen sie einem ungeheuerlichen Verbrechen auf die Spur.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_509309930_14_20241024T215143897Z_112_imageprocessorclient-tvplus-linear-7cd5d896cc-lbmrn.jpeg" />
     <rating>
       <value>6</value>
     </rating>
@@ -837,11 +813,11 @@
     <rating>
       <value>6</value>
     </rating>
-  </programme><programme channel="DE200042LW" start="20261127084121 +0000" stop="20261127103334 +0000"><title>Superfighter</title>
-    <desc>Hong Kongs Dream Team in Sachen Martial Arts, Jackie Chan, Sammo Hung und Yuen Biao, zeigen in dem bis dahin teuersten Jackie Chan Film ‚Der Superfighter‘ (Projekt A) ein Leckerbissen an Kung Fu-Akrobatik und Comedy! Eine Einheit von Matrosen der Küstenwache, soll nach einigen verlorenen Schlachten gegen Piraten aufgelöst werden.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_1908480502_3_20260605T163250329Z_35_imageprocessorclient-tvplus-linear-66fc4d58c8-wr9bs.jpeg" />
+  </programme><programme channel="DEBD2700001ID" start="20261127163010 +0000" stop="20261127181308 +0000"><title>Ulzana</title>
+    <desc>Mitte des 19. Jahrhunderts haben die Mimbreno-Apachen unter ihrem Häuptling Ulzana erfolgreich auf Ackerbau umgestellt und mit einer Bewässerungsanlage ihre Reservation fruchtbar gemacht. Nun können sie unabhängig von den Geschäftsleuten in Tucson leben. Unter den Gästen ihres Erntefestes sind General Crook, Oberkommandierender in Arizona, und sein Stellvertreter Captain Burton. Crook, der sich demonstrativ als Freund der Apachen bezeichnet, will die überschüssigen Vorräte für die Armee aufkaufen. Doch die Tucson-Bewohner bangen um ihre Profite und haben in Burton einen strategisch wichtigen Verbündeten. Als sie die Bewässerungsanlage sprengen lassen, kommt es zum Kampf.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_509309681_26_20241024T215152402Z_97_imageprocessorclient-tvplus-linear-7cd5d896cc-4sp99.jpeg" />
     <rating>
-      <value>12</value>
+      <value>6</value>
     </rating>
   </programme><programme channel="DE200042LW" start="20261127103334 +0000" stop="20261127130218 +0000"><title>Pirates</title>
     <sub-title>Das Siegel des Königs</sub-title>
@@ -860,6 +836,12 @@
     <sub-title>Der starke Arm der Götter</sub-title>
     <desc>Der Abenteurer Jackie bekommt von einem spanischen Herzog den Auftrag, einen Goldschatz zu finden, den die Deutschen im 2. Weltkrieg in der Wüste zurücklassen mußten. Gemeinsam mit der Expertin Ada und Elsa, der Enkelin des deutschen Kommandeurs, bricht er auf. Schnell kommt es zu Turbulenzen: Zwei Araber und eine mysteriöse Karawane sind ebenfalls hinter dem Schatz her.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_1908480483_1_20260605T163250299Z_60_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="DE200042LW" start="20261127165849 +0000" stop="20261127192928 +0000"><title>12The Suspect</title>
+    <desc>Dank seiner gelungenen Mischung aus knallharten Actionszenen, atemlosen Verfolgungsjagden und überraschenden Wendungen sorgte THE SUSPECT für großes Aufsehen und landete auf Platz 2 der koreanischen Kinocharts! Ganz in der Tradition von “The Chaser“ und der “Bourne“-Filmreihe beweist der Actionthriller eindrucksvoll, “wozu Regisseure und Kampf-Choreografen in Koreas heutiger Filmindustrie in der Lage sind“ (Twitch Film). Er hat genug vom Blutvergießen: Top-Agent Dong-chul (Gong Yoo) flüchtet aus Nordkorea und versucht, in Seoul ein neues Leben anzufangen. Als jedoch ein einflussreicher Firmen-Vorsitzender ermordet wird, gerät Dong-chul unter dringenden Tatverdacht und wird von der Polizei und dem südkoreanischen Geheimdienst gnadenlos gejagt. Der perfekt ausgebildete Killer taucht unter und versucht verzweifelt, auf eigene Faust die Wahrheit hinter dem Attentat herauszufinden. Bei seiner fieberhaften Suche stößt er auf alte Feinde und kommt einer Verschwörung auf die Spur, die ihn in tödliche Gefahr bringt …</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_1924885874_1_20260611T191701231Z_91_imageprocessorclient-tvplus-linear-66fc4d58c8-xvsvj.jpeg" />
     <rating>
       <value>12</value>
     </rating>
@@ -888,12 +870,11 @@
     <rating>
       <value>16</value>
     </rating>
-  </programme><programme channel="DE2300002KX" start="20261127095208 +0000" stop="20261127104038 +0000"><title>The Librarians</title>
-    <sub-title>Die Krone der Blutgräfin: Die Krone der Blutgräfin</sub-title>
-    <desc>Ein Librarian aus der Vergangenheit tut sich mit den aktuellen Librarians zusammen, um einen uralten und mächtigen Feind zu besiegen, der in der modernen Zeit entfesselt wurde.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_485350703_0_20231018T135945639Z_19.jpeg" />
+  </programme><programme channel="DE3800001CR" start="20261127162805 +0000" stop="20261127180117 +0000"><title>Holy Sh*t</title>
+    <desc>Regisseur Rubén Abruña nimmt einen mit auf eine Reise voller Überraschungen und Lacher, während er die Geheimnisse unserer täglichen Hinterlassenschaften erkundet. Von den Pariser Abwasserkanälen bis zur gigantischen Kläranlage in Chicago: Diese Dokumentation bietet unerwartete Einblicke und verwandelt das scheinbar Alltägliche in eine spannende Entdeckungstour.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQU352137A_1031046292_0_20250704T204731718Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-5rfpw.jpeg" />
     <rating>
-      <value>6</value>
+      <value>16</value>
     </rating>
   </programme><programme channel="DE2300002KX" start="20261127104038 +0000" stop="20261127112906 +0000"><title>The Librarians</title>
     <sub-title>Die Gräber der Zeit: Die Gräber der Zeit</sub-title>
@@ -965,12 +946,12 @@
     <rating>
       <value>6</value>
     </rating>
-  </programme><programme channel="DE3400005QJ" start="20261127100905 +0000" stop="20261127105442 +0000"><title>Abschnitt 40</title>
-    <sub-title>Sicherstellung S03E01</sub-title>
-    <desc>Bei einem Routineeinsatz erleben Ulf und Sebastian, wie ein Mann vor ihren Augen zusammenbricht. Anscheinend wurde er vergiftet. Die Beamten kommen einem Erpressungsfall auf die Spur.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2263996896_8_20261007T225452842Z_117_imageprocessorclient-tvplus-linear-b5879c6c6-qmxh6.jpeg" />
+  </programme><programme channel="DE2300002KX" start="20261127163939 +0000" stop="20261127173144 +0000"><title>Farscape</title>
+    <sub-title>Verschollen im All: Vorsicht, bissiger Parasit</sub-title>
+    <desc>Die Crew der Moya hat auf einem Planeten Vorräte erworben. Doch sie werden eindringlich gewarnt: In den Lebensmitteln könnte sich ein Parasit befinden. Vorsichtshalber schaffen sie sich einen Vorc an, ein kleines Lebewesen, das für seine Fähigkeiten Schmarotzer aufzuspüren bekannt ist. Aber bald kommt ein schrecklicher Verdacht auf: Der Vorc scheint selbst ein Parasit zu sein.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQO570425A_870548219_0_20250509T065151054Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-x9dt2.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>6</value>
     </rating>
   </programme><programme channel="DE3400005QJ" start="20261127105442 +0000" stop="20261127114043 +0000"><title>Abschnitt 40</title>
     <sub-title>Gefahr im Verzug S03E02</sub-title>
@@ -1014,10 +995,24 @@
     <rating>
       <value>NA</value>
     </rating>
-  </programme><programme channel="DE3400005QJ" start="20261127153052 +0000" stop="20261127161652 +0000"><title>Abschnitt 40</title>
+  </programme><programme channel="DE3400005QJ" start="20261127153052 +0000" stop="20261127161651 +0000"><title>Abschnitt 40</title>
     <sub-title>Zechanschlussraub S03E08</sub-title>
     <desc>Während eines Polizeieinsatzes verliebt sich Ulf in Julia. Es stellt sich heraus, dass Julia verdächtigt wird, eine seit längerem gesuchte Zechanschlussräuberin zu sein.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2263995588_4_20261007T225452578Z_33_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DE3400005QJ" start="20261127161651 +0000" stop="20261127170212 +0000"><title>Abschnitt 40</title>
+    <sub-title>Faust in der Tasche S04E01</sub-title>
+    <desc>Aggressive Jugendliche pöbeln gegen den Wirt, der sie in sein Lokal nicht reinlassen will. Bald ist die Lage klar: Einige Neonazis feiern den Führergeburtstag, draußen beziehen die Autonomen Stellung.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2263994110_6_20261007T225452697Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DE3400005QJ" start="20261127170212 +0000" stop="20261127174807 +0000"><title>Abschnitt 40</title>
+    <sub-title>Geständnisse S04E02</sub-title>
+    <desc>Die Kollegen vom Abschnitt 40 werden mit einem älteren Herrn konfrontiert, der behauptet, seine Nichte Vanessa sei entführt worden. Doch die Beamten ahnen, dass die Entführung nur vorgetäuscht ist.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_DEQY392104A_2263995647_5_20261007T225452597Z_117_imageprocessorclient-tvplus-linear-b5879c6c6-skq5g.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
