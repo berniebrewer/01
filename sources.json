@@ -162,7 +162,20 @@
 		]
 	},
     {
-      "name": "Source 7 - EPGenius 37",
+      "name": "Source 6 - PlutoTV",
+      "url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/de.xml.gz",
+      "format": "gz",
+      "prefix": "",
+      "channels": [
+        "6866525c8a412a0e95c438b4",
+		"6a8eaea2fad3326545c281f1",
+		"69fca82ff6ac24413f5338fa",
+		"69fca95dc45cded79a20992e",
+        "64b67f0424ade50008a3be17"
+		]
+	},
+    {
+      "name": "Source 8 - EPGenius 37",
       "url": "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg37.xml.gz",
       "format": "gz",
       "prefix": "",
