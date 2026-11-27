@@ -162,6 +162,20 @@
 		]
 	},
     {
+     "name": "Source 4a - My Github Dummy",
+      "url": "https://raw.githubusercontent.com/berniebrewer/05/main/epg.xml",
+      "format": "xml",
+      "prefix": "",
+      "channels": [
+        "Football.Dummy.us",
+		"NFL.Dummy.us",
+		"NFL.Replay.as",
+		"xJust.fishing.ch",
+		"xSky.Nature.ch",
+		"xServus.TV.ch"
+		]
+	},
+    {
       "name": "Source 5 - EPGenius 32",
       "url": "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg32.xml.gz",
       "format": "gz",
