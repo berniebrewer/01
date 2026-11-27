@@ -160,9 +160,9 @@
 		"SPIEGELTVKonflikte.de",
         "MOMENTS.de"
 		]
-	},
+    },
     {
-     "name": "Source 4 - epgshare ALL",
+      "name": "Source 4 - epgshare all",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz",
       "format": "gz",
       "prefix": "",
