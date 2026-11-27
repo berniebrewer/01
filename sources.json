@@ -159,10 +159,54 @@
 		"RTLHausundGarten.de",
 		"SPIEGELTVKonflikte.de",
         "MOMENTS.de"
-  ]
+      ]
+	},
+    {
+      "name": "Source 3a - epgshare DE",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz",
+      "format": "gz",
+      "prefix": "",
+      "channels": [
+        "Sat.1.Gold.Österreich.be",
+		"Hitradio.OE3.be",
+		"XPLORE.be",
+		"SWR.Fernsehen.BW.HD.be",
+		"Just.Fishing.be",
+		"xxXPLORE.be",
+		"ProSieben.MAXX.Austria.be",
+		"ANIXE.HD.be",
+		"HÖHENRAUSCH.be",
+		"Just.Cooking.be",
+		"ProSieben.be",
+		"3sat.HD.be",
+		"One.Terra.be",
+		"Welt.be",
+		"One.Terra.be",
+		"DokuSat.be",
+		"Radio.Bremen.HD.be"
+      ]
     },
     {
-      "name": "Source 3 - epgshare BE",
+     "name": "Source 3b - epgshare AT",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_AT1.xml.gz",
+      "format": "gz",
+      "prefix": "",
+      "channels": [
+        "111692",
+		"Lilo.TV.ch",
+		"Bergblick.ch",
+		"SRF.1.ch",
+		"SRF.zwei.ch",
+		"ORF.1.ch",
+		"ORF.2.ch",
+		"National.Geographic.D.ch",
+		"Just.fishing.ch",
+		"Sky.Nature.ch",
+		"Servus.TV.ch"
+      ]
+	},
+    {
+      "name": "Source 3c - epgshare BE",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_BE2.xml.gz",
       "format": "gz",
       "prefix": "",
@@ -187,7 +231,7 @@
       ]
     },
     {
-     "name": "Source 4 - epgshare CH",
+     "name": "Source 3d - epgshare CH",
       "url": "https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz",
       "format": "gz",
       "prefix": "",
