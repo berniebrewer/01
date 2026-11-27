@@ -160,15 +160,6 @@
 		"SPIEGELTVKonflikte.de",
         "MOMENTS.de"
 		]
-    },
-    {
-      "name": "Source 3 - RakutenTV",
-      "url": "https://epgshare01.online/epgshare01/epg_ripper_BE2.xml.gz",
-      "format": "gz",
-      "prefix": "",
-      "channels": [
-        "111692",
-		]
 	},
     {
       "name": "Source 8 - EPGenius 38",
