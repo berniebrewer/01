@@ -36,7 +36,7 @@
         "DE200042LW",
 		"DE3800001CR",
         "DE2300002KX"
-	]
+		]
     },
     {
       "name": "Source 2 - MyOpenEPG",
@@ -159,7 +159,7 @@
 		"RTLHausundGarten.de",
 		"SPIEGELTVKonflikte.de",
         "MOMENTS.de"
-  ]
+		]
     },
     {
       "name": "Source 3 - RakutenTV",
@@ -169,7 +169,7 @@
       "channels": [
         "111692",
 		"xxRadio.Bremen.HD.be"
-      ]
+		]
     },
     {
      "name": "Source 4 - epgshare ALL",
@@ -245,7 +245,7 @@
 		"xsportdigital.Fussball.de",
         "xSPIEGELTVKonflikte.de",
 		"Servus.TV.ch"
-      ]
+		]
 	},
     {
      "name": "Source 4a - My Github Dummy",
@@ -259,7 +259,7 @@
 		"xJust.fishing.ch",
 		"xSky.Nature.ch",
 		"xServus.TV.ch"
-      ]
+		]
 	},
     {
       "name": "Source 5 - EPGenius 32",
@@ -599,7 +599,7 @@
 		"SKYSPA8.de (m3u4u)",
 		"SKSPBUH.de (m3u4u)",
 		"SKONF.de (m3u4u)",
-		"skysportnews.de",
+		"SPO1HD.at (m3u4u)",
 		"skysportpremierleague.de",
 		"skysporttopevent.de",
 		"skysportmix.de",
@@ -623,8 +623,8 @@
 		"ZiggoSport4.nl",
 		"ZiggoSport5.nl",
 		"ZiggoSport6.nl",
-		"SPO1HD.at (m3u4u)"
-	  ]
+		"skysportnews.de"
+		]
 	},
     {
       "name": "Source 6 - PlutoTV",
@@ -637,7 +637,7 @@
 		"69fca82ff6ac24413f5338fa",
 		"69fca95dc45cded79a20992e",
         "64b67f0424ade50008a3be17"
-	  ]
+		]
 	},
     {
       "name": "Source 7 - EPGenius 37",
@@ -654,7 +654,7 @@
 		"SkyNatureHD(SKYNADE).de2",
 		"NFLREPLAYINFOHD.d120",
         "MSSport(DEL8DE).de2"
-	  ]
+		]
 	},
     {
       "name": "Source 8 - EPGenius 38",
@@ -676,7 +676,7 @@
 		"shoppingqueen.de",
 		"skynature.de",
         "bauersuchtfrau.de"
-      ]
+		]
     }
   ]
 }
